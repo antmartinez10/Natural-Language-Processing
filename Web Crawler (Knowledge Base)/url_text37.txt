@@ -1,0 +1,246 @@
+
+
+
+
+Charles Bukowski - Wikimedia Commons
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b4ac0c24-da3e-474d-a45a-dc170641b132","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Charles_Bukowski","wgTitle":"Charles Bukowski","wgCurRevisionId":151849232,"wgRevisionId":151849232,"wgArticleId":12259188,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Charles Bukowski"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Charles_Bukowski","wgRelevantArticleId":12259188,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"/wiki/Commons:Copyrights\" class=\"mw-redirect\" title=\"Commons:Copyrights\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":[],"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":!0,"wbmiDefaultProperties":["P180"
+],"wbmiPropertyTitles":{"P180":"Items portrayed in this file"},"wbmiPropertyTypes":{"P180":"wikibase-item"},"wbmiHelpUrls":{"P180":"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Depicts"},"wbmiExternalEntitySearchBaseUri":"https://www.wikidata.org/w/api.php","wbmiRepoApiUrl":"/w/api.php","wbmiSupportedDataTypes":["wikibase-item","string","quantity","time","monolingualtext","external-id","globe-coordinate","url"],"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q76409"};RLSTATE={"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.gadget.uploadWizardMobile":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","ext.discussionTools.init.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready",
+"wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.gadget.PictureOfTheYearEnhancements","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.citoid.wikibase.init","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charles Bukowski
+
+From Wikimedia Commons, the free media repository
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+
+Drawing
+
+
+
+
+
+
+Portrait by italian artist Graziano Origa, pen&ink+pantone, 2008
+
+
+
+
+
+
+Drawing
+
+
+
+
+
+
+At his San Pedro home, 1990
+
+
+
+
+
+
+At his San Pedro home, 1990, avec Mary Ann Swissler et Mat Gleason.
+
+
+
+
+
+
+
+
+
+Retrieved from "https://commons.wikimedia.org/w/index.php?title=Charles_Bukowski&oldid=151849232"
+Category: Charles Bukowski
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+EnglishNot logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+Namespaces
+
+
+GalleryDiscussion
+
+
+
+
+
+Variants
+expanded
+collapsed
+
+
+
+
+
+
+
+
+
+Views
+
+
+ViewEditHistory
+
+
+
+
+
+More
+expanded
+collapsed
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigate
+
+
+Main pageWelcomeCommunity portalVillage pumpHelp center
+
+
+
+
+Participate
+
+
+Upload fileRecent changesLatest filesRandom fileContact us
+
+
+
+
+Tools
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version
+
+
+
+
+In other projects
+
+
+WikipediaWikiquote
+
+
+
+
+In Wikipedia
+
+
+AfrikaansAragonésالعربيةمصرىAsturianuAzərbaycancaتۆرکجهБеларускаяБеларуская (тарашкевіца)БългарскиCatalàکوردیČeštinaCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFøroysktFrançaisFryskGalego𐌲𐌿𐍄𐌹𐍃𐌺עבריתHrvatskiMagyarՀայերենBahasa IndonesiaIdoItaliano日本語ქართულიҚазақша한국어KurdîLatinaLëtzebuergeschLietuviųLatviešuМакедонскиNederlandsNorskOccitanਪੰਜਾਬੀPolskiپنجابیPortuguêsRomânăРусскийSarduSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaไทยTürkçeУкраїнськаTiếng Việt吴语中文
+Edit links
+
+
+
+
+
+
+ This page was last edited on 2 March 2015, at 19:19.
+Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and the Privacy Policy.
+
+
+Privacy policy
+About Wikimedia Commons
+Disclaimers
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.015","walltime":"0.017","ppvisitednodes":{"value":9,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3830,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1389","timestamp":"20211004073654","ttl":1814400,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Charles Bukowski","url":"https:\/\/commons.wikimedia.org\/wiki\/Charles_Bukowski","sameAs":"http:\/\/www.wikidata.org\/entity\/Q76409","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q76409","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-12-09T20:57:57Z","dateModified":"2015-03-02T19:19:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b8\/Bukowski_Drawing_1.jpg","headline":"American writer (1920-1994)"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":182,"wgHostname":"mw1322"});});

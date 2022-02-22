@@ -1,0 +1,70 @@
+book review ham rye charles bukowski rene mullen host pen poet podcast window_wca window_wca || [] window_wpemojisettings "baseurl""https\\sworg\images\core\emoji\1301\72x72\""ext""png""svgurl""https\\sworg\images\core\emoji\1301\svg\""svgext""svg""source""concatemoji""http\\renemullencom\wpincludes\js\wpemojireleaseminjsver=573" functioneatvar nroi=acreateelement"canvas"p=igetcontextigetcontext"2d"function setvar a=stringfromcharcodepclearrect00iwidthiheightpfilltextaapplythise00e=itodataurlreturn pclearrect00iwidthiheightpfilltextaapplythist00e===itodataurlfunction cevar t=acreateelement"script"tsrc=etdefer=ttype="textjavascript"agetelementsbytagname"head"[0]appendchildtforo=array"flag""emoji"tsupports=everything0everythingexceptflag0r=0r<olengthr++tsupports[o[r]]=functioneifp||pfilltextreturn1switchptextbaseline="top"pfont="600 32px arial"ecase"flag"return s[127987650398205989565039][127987650398203989565039]1s[55356568265535656819][553565682682035535656819]s[5535657332561285642356128564185612856421561285643056128564235612856447][5535657332820356128564238203561285641882035612856421820356128564308203561285642382035612856447]case"emoji"returns[553575642482055535657212][553575642482035535657212]return1o[r]tsupportseverything=tsupportseverythingtsupports[o[r]]"flag"==o[r]tsupportseverythingexceptflag=tsupportseverythingexceptflagtsupports[o[r]]tsupportseverythingexceptflag=tsupportseverythingexceptflagtsupportsflagtdomready=1treadycallback=functiontdomready=0tsupportseverything||n=functiontreadycallbackaaddeventlistener
+aaddeventlistener"domcontentloaded"n1eaddeventlistener"load"n1eattachevent"onload"naattachevent"onreadystatechange"function"complete"===areadystatetreadycallbackn=tsource||concatemojicnconcatemojinwpemojintwemojicntwemojicnwpemojiwindowdocumentwindow_wpemojisettings imgwpsmiley imgemoji display inline important border none important boxshadow none important height 1em important width 1em important margin 07em important verticalalign 01em important background none important padding important woocommerceproductgallery opacity important skip content rene mullen host pen poet podcast toggle mobile menu toggle search field search home pen poet podcast newsevents poem blog publications home pen poet podcast newsevents poem blog publications book review ham rye charles bukowski august 14 2014 renemullen every come across book screws brain
+bukowski’s ham rye
+ham rye bukowski friend let borrow copy ham rye assumption quite cynic would fall love bukowski dark twisted view life
+stop reading ham rye 50 pages he’s brutally honest “working class” crappy family life tended hit little close home
+jumping back recently pushed end come important realizations
+bukowski skirts line crass simplistic almost terrible writer terrible story
+notice said almost
+reading like eating great green chile
+first bite love taste heavenly one kind
+second bite you’re hating life pain spice
+goes back forth like entire experience
+goes bukowski
+every often he’d say something poignant fell love
+times writing felt simplistic 12 year old writing
+draw line simplicity crap writing
+don’t know
+it’s probably right around bukowski
+tend side philosophy
+you’re writing flowery words show create pretty phrases million dollar grad school vocabulary see bull roll eyes walk away
+many writers
+think artists prove intelligence mastery craft building soulless world fancy words plot
+hell
+second realization less bukowski directly learning myself…which read right
+mentioned read ham rye friend loves thinks dark humor follows bukowski’s dark humor
+mostly right
+i’m cynic problem jerk you’re jerk
+usually sugar coat think i’m funny
+said i’m like bukowski
+anymore
+bukowski believes world crap least poor majority humans
+everything crap
+crap
+people crap
+life crap
+hell crap crap
+thing look forward death cease exist
+joy born outside 1%
+used
+used feel way
+used terrible view world
+though think people aholes bottom pig pile awful cruel can’t let believe life crap offer
+i’ve seen true beauty world
+it’s called southwest
+i’ve seen amazing things impoverished
+i’ve seen rare wealthy person act true compassion
+thought like bukowski miserable
+though act cynically humor dark it’s holdover terrible good bad days
+recommend bukowski
+sure you’re interested hating life around
+don’t get wrong
+writing brilliant
+like sylvia plath writing also make want stick head oven wait
+share thisclick share facebook opens new windowclick share twitter opens new windowclick share google+ opens new windowclick share reddit opens new windowmoreclick email friend opens new windowclick share pocket opens new windowclick print opens new windowclick share tumblr opens new window book reviews previous post book review “unwind” neal shusterman next post colorless tsukuru tazaki book review leave reply cancel replyyour email address published
+required fields marked *comment name email website save name email website browser next time comment
+notify followup comments email
+notify new posts email
+socialview renemullen’s profile facebookview @writermullen’s profile twitterview comparative’s profile instagram 2021 rene mullen host pen poet podcast theme anders noren windowwpcom_sharing_counts "http\\renemullencom\bookreviewhamonryebycharlesbukowski\"707 send email address name email address cancel post sent check email addresses
+email check failed please try sorry blog cannot share posts email
+
+[cdata[ var wc_add_to_cart_params "ajax_url""\wpadmin\adminajaxphp""wc_ajax_url""\wcajax=%%endpoint%%""i18n_view_cart""view cart""cart_url""http\\renemullencom""is_cart""""cart_redirect_after_add""no" ]]>
+[cdata[ var woocommerce_params "ajax_url""\wpadmin\adminajaxphp""wc_ajax_url""\wcajax=%%endpoint%%" ]]>
+[cdata[ var wc_cart_fragments_params "ajax_url""\wpadmin\adminajaxphp""wc_ajax_url""\wcajax=%%endpoint%%""cart_hash_key""wc_cart_hash_506e1f8f9536c2b56023529922ab5e89""fragment_name""wc_fragments_506e1f8f9536c2b56023529922ab5e89" ]]>
+[cdata[ var wpgroho "my_hash""" ]]>
+[cdata[ var sharing_js_options "lang""en""counts""1" ]]> var windowopen jquery documentbody 'click' 'asharefacebook' function there's another sharing window open close
+'undefined' == typeof windowopen windowopenclose windowopen windowopen jquery attr 'href' 'wpcomfacebook' 'menubar=1resizable=1width=600height=400' return false var windowopen jquery documentbody 'click' 'asharetwitter' function there's another sharing window open close
+'undefined' == typeof windowopen windowopenclose windowopen windowopen jquery attr 'href' 'wpcomtwitter' 'menubar=1resizable=1width=600height=350' return false var windowopen jquery documentbody 'click' 'asharegoogleplus1' function there's another sharing window open close
+'undefined' == typeof windowopen windowopenclose windowopen windowopen jquery attr 'href' 'wpcomgoogleplus1' 'menubar=1resizable=1width=480height=550' return false var windowopen jquery documentbody 'click' 'asharepocket' function there's another sharing window open close
+'undefined' == typeof windowopen windowopenclose windowopen windowopen jquery attr 'href' 'wpcompocket' 'menubar=1resizable=1width=450height=450' return false var windowopen jquery documentbody 'click' 'asharetumblr' function there's another sharing window open close
+'undefined' == typeof windowopen windowopenclose windowopen windowopen jquery attr 'href' 'wpcomtumblr' 'menubar=1resizable=1width=450height=450' return false jqueryfunction$ jquery 'add_to_cart_buttonnotproduct_type_variable product_type_grouped' click function var productid jquery data 'product_id' var productdetails 'id' productid 'quantity' jquery data 'quantity' _wcapush '_en' 'woocommerceanalytics_product_view' 'blog_id' '62682936' 'pi' productdetailsid 'ui' 'null' _wcapush '_en' 'woocommerceanalytics_add_to_cart' 'blog_id' 62682936 'pi' productdetailsid 'pq' productdetailsquantity 'ui' 'null' _stq window_stq || [] _stqpush[ 'view' v'ext'j'1592'blog'62682936'post'707'tz'0'srv'renemullencom' _stqpush[ 'clicktrackerinit' '62682936' '707'

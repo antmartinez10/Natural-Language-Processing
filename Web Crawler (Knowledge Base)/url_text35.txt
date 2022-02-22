@@ -1,0 +1,247 @@
+
+
+
+
+Template:Charles Bukowski - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"397de29b-1379-4e70-9a78-cabd570a3a47","wgCSPNonce":!1,"wgCanonicalNamespace":"Template","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":10,"wgPageName":"Template:Charles_Bukowski","wgTitle":"Charles Bukowski","wgCurRevisionId":1036160541,"wgRevisionId":1036160541,"wgArticleId":31722820,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["American writer navigational boxes","German writer navigational boxes","Novelist navigational boxes","Poet navigational boxes"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Template:Charles_Bukowski","wgRelevantArticleId":31722820,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgTemplateDataSuggestedValuesEditor":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q6869739"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Template:Charles Bukowski
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}vteCharles BukowskiNovels
+Post Office (1971)
+Factotum (1975)
+Women (1978)
+Ham on Rye (1982)
+Hollywood (1989)
+Pulp (1994)
+Collections
+Notes of a Dirty Old Man (1969)
+Erections, Ejaculations, Exhibitions, and General Tales of Ordinary Madness (1972)
+South of No North (1973)
+Hot Water Music (1983)
+Tales of Ordinary Madness (1983)
+The Most Beautiful Woman in Town (1983)
+The Captain Is Out to Lunch and the Sailors Have Taken Over the Ship (1998)
+Portions from a Wine-stained Notebook: Short Stories and Essays (2008)
+More Notes of a Dirty Old Man (2011)
+Short stories
+"Loneliness" (1973)
+"The Killers" (1973)
+"Bring Me Your Love" (1983)
+Films
+Bukowski (1973)
+Tales of Ordinary Madness (1981)
+The Charles Bukowski Tapes (1985)
+Barfly (1987)
+Crazy Love (1987)
+Cold Moon (1991)
+Factotum (2005)
+There's Gonna Be a God Damn Riot in Here (2008)
+The Last Straw (2008)
+Related
+Influence on popular culture
+Henry Chinaski
+Hostage (1985 album)
+Charles Bukowski: Locked in the Arms of a Crazy Life (1998 biography)
+
+Initial visibility: currently defaults to autocollapse
+To set this template's initial visibility, the |state= parameter may be used:
+
+
+|state=collapsed: {{Charles Bukowski|state=collapsed}} to show the template collapsed, i.e., hidden apart from its title bar
+|state=expanded: {{Charles Bukowski|state=expanded}} to show the template expanded, i.e., fully visible
+|state=autocollapse: {{Charles Bukowski|state=autocollapse}}
+
+shows the template collapsed to the title bar if there is a {{navbar}}, a {{sidebar}}, or some other table on the page with the collapsible attribute
+shows the template in its expanded state if there are no other collapsible items on the page
+
+If the |state= parameter in the template on this page is not set, the template's initial visibility is taken from the |default= parameter in the Collapsible option template. For the template on this page, that currently evaluates to autocollapse.
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Charles_Bukowski&oldid=1036160541"
+Categories: American writer navigational boxesGerman writer navigational boxesNovelist navigational boxesPoet navigational boxes
+
+
+
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+Namespaces
+
+
+TemplateTalk
+
+
+
+
+
+Variants
+expanded
+collapsed
+
+
+
+
+
+
+
+
+
+Views
+
+
+ReadEditView history
+
+
+
+
+
+More
+expanded
+collapsed
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+Contribute
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+
+
+
+
+Print/export
+
+
+Download as PDFPrintable version
+
+
+
+
+Languages
+
+
+ČeštinaSrpskohrvatski / српскохрватски
+Edit links
+
+
+
+
+
+
+ This page was last edited on 29 July 2021, at 21:33 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.066","walltime":"0.090","ppvisitednodes":{"value":302,"limit":1000000},"postexpandincludesize":{"value":11129,"limit":2097152},"templateargumentsize":{"value":157,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1069,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   69.205      1 -total"," 69.95%   48.412      1 Template:Navbox"," 29.84%   20.652      1 Template:Collapsible_option"," 12.21%    8.447      2 Template:Tlx","  5.01%    3.465      6 Template:Para","  3.76%    2.601      1 Template:Template_other","  2.97%    2.054      3 Template:Big"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":906628,"limit":52428800}},"cachereport":{"origin":"mw1418","timestamp":"20211012105219","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":160,"wgHostname":"mw1368"});});

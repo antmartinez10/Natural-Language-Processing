@@ -1,0 +1,41 @@
+functionwdsliw[l]=w[l]||[]w[l]push'gtmstart' new dategettimeevent'gtmjs'var f=dgetelementsbytagnames[0] j=dcreateelementsdl=l='datalayer'
+'l='+l''jasync=truejsrc= 'httpswwwgoogletagmanagercomgtmjsid='+i+dlfparentnodeinsertbeforejf windowdocument'script''datalayer''gtm5dptldw' charles bukowski bibliography manuscripts poem database discussion forum bukowskinet forum manuscripts poems stories letters postcards timeline database search database book magazine audio lists checklist poems stories interviews art photos miscellany vote favorite books fbi files map homes jobs aboutcontact twitter feed search charles bukowski american author prolific influential 20thcentury poet short story writer novelist meet charles bukowski charles bukowski born germany shortly world war german mother american soldier father
+two years eight months old parents put ship brought united states settled los angeles california near father's family
+shortly america joined world war ii bukowski left los angeles traveling various cities around country spending bulk time philadelphia new orleans
+1947 returned los angeles lived remainder life
+"on road" bukowski published first time story magazine
+year 1944 24 years old
+time primarily short story writer occasionally wrote poetry
+decade later 1954 would change bukowski suffered internal hemorrhage spent nine days cusp death los angeles county hospital
+experience began writing much poetry quickly became one unique influential voices 20thcentury american poetry
+ultimately bukowski perhaps wellknown novels post office factotum women ham rye poetry
+even working novels continued write poetry short stories
+fact time death 1994 bukowski written 5300 poems stories
+titles know
+likely hundreds written—and subsequently lost—in 1940s 50s 60s began keeping copies work
+film adaptations bukowski's books 1979 bukowski began writing screenplay would become film barfly
+years delays wrangling film eventually made barbet schroeder mickey rourke faye dunaway leading roles
+bukowski wrote experience funny underrated novel hollywood
+year 1987 belgian film released based bukowski short stories called crazy love
+film adaptations bukowski's work include italian film tales ordinary madness starring ben gazzara factotum matt dillon taking turn playing bukowski
+aftermath bukowski's death bukowski's death 1994 black sparrow press continued release new poetry collections every year
+unfortunately collections suffer comprehensive—and inexplicable—editorial tampering overall effect making posthumous collections appear comprised lesser works
+reading bukowski's original manuscripts however becomes clear changes made bukowski's "editor" lend clumsy air much work
+efforts underway repair posthumous volumes one day hope able report widespread decimation nearly half bukowski's published poetry reversed remedied repaired
+find information bukowski poem story bukowskinet world's comprehensive resource information charles bukowski's life work
+access 1700 poem letter manuscripts search massive publications database find extensive details poems stories books recordings
+database result decades research wide range experts continuously updated
+bukowski bibliography timeline art fbi files looking something read take look checklist every bukowski book browse selection bukowski poems stories interviews
+also read entire fbi file compiled bukowski along illustrated timeline life times hundreds examples art made photos even interactive map showing lived worked
+answer bukowski question questions anything bukowskirelated ask discussion forum guaranteed get quick knowledgeable answer
+want know anything life work charles bukowski place find
+contents bukowski database bukowski database currently contains information 4848 poems560 stories5450 total works 4690 unique works 760 alternate titles versions5250 works 133 books2950 works 1413 magazines57 broadsides1583 poem manuscripts264 letter manuscripts43 releases 21 different recording sessions readings268 links audio recordings863 links scans unpublished uncollected work first magazine appearances original texts forum410 links scans first magazine appearances websites find love let kill sometimes difficult tell whether misinformation internet comes life accidentally purposely takes hold accepted many fact
+good number internet quotes attributed charles bukowski actually quoting people simply anonymous fabrications
+perhaps notably "find love let kill you" words attributed bukowski everywhere look internet
+problem quote bukowski's words words songwriter kinky friedman
+absolutely must get quote tattooed body somewhere really maybe sure put kinky friedman's name charles bukowski's
+charles bukowski died march 1994 influence modern poetry continues felt despite epitaph try
+"@context" "httpschemaorg" "@type" "person" "name" "charles bukowski" "alternatename" "henry charles bukowski bukowski hank" "birthplace" "andernach germany" "gender" "male" "birthdate" "19200816" "deathdate" "19940309" "givenname" "heinrich karl bukowski" "deathplace" "san pedro ca" "jobtitle" "noted 20th century author poetry short stories novels" "spouse" "barbara frye linda bukowski" "children" "marina louise bukowski" "nationality" "united states" "parent" "katharina fett henry bukowski" "@context" "httpschemaorg" "@type" "website" "about" "charles bukowski american author website" "accountableperson" "michael phillips" "copyrightyear" "1995" "isaccessibleforfree" "true" "keywords" "bukowski author poet los angeles black sparrow press buk charles bukowski" "locationcreated" "los angeles" "description" "comprehensive study charles bukowski's life work continuing influence modern literature featuring interactive database published work thousands manuscripts timeline bukowski's life
+"image" "httpse1dbdba346b73069f07c81b820d24d740fd7f7b854c924de4712sslcf1rackcdncombukowskisite40jpg" "url" "httpsbukowskinet" bukowskinet ©19952021 hannah phillips millionaire brand bathtub gin
+rights reserved
+function var po documentcreateelement'script' potype 'textjavascript' poasync true posrc 'httpsapisgooglecomjsplatformjs' var documentgetelementsbytagname'script'[0] sparentnodeinsertbeforepo

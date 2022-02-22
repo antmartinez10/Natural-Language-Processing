@@ -1,0 +1,587 @@
+var _gaq _gaq || [] _gaqpush['_setaccount' 'ua275177032'] _gaqpush['_trackpageview'] function var ga documentcreateelement'script' gatype 'textjavascript' gaasync true gasrc 'https' == documentlocationprotocol
+'httpsssl' 'httpwww' 'googleanalyticscomgajs' var documentgetelementsbytagname'script'[0] sparentnodeinsertbeforega senseless tragic rape charles bukowski's ghost john martin's black sparrow press mjp books blog "@context""httpsschemaorg""@graph"["@type""website""@id""httpsmjpbookscomblog#website""url""httpsmjpbookscomblog""name""mjp books blog""description""""potentialaction"["@type""searchaction""target""@type""entrypoint""urltemplate""httpsmjpbookscomblogs=search_term_string""queryinput""required name=search_term_string"]"inlanguage""enus""@type""imageobject""@id""httpsmjpbookscomblogthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress#primaryimage""inlanguage""enus""url""httpswwwassocamazoncomeirt=charlebukowsa20ampl=as2ampo=1ampa=0876851898""contenturl""httpswwwassocamazoncomeirt=charlebukowsa20ampl=as2ampo=1ampa=0876851898""@type""webpage""@id""httpsmjpbookscomblogthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress#webpage""url""httpsmjpbookscomblogthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress""name""the senseless tragic rape charles bukowski's ghost john martin's black sparrow press mjp books blog""ispartof""@id""httpsmjpbookscomblog#website""primaryimageofpage""@id""httpsmjpbookscomblogthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress#primaryimage""datepublished""20130618t224418+0000""datemodified""20190112t194240+0000""author""@id""httpsmjpbookscomblog#schemaperson70289fdfdd8dd069b32e601aa9344afa""breadcrumb""@id""httpsmjpbookscomblogthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress#breadcrumb""inlanguage""enus""potentialaction"["@type""readaction""target"["httpsmjpbookscomblogthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress"]]"@type""breadcrumblist""@id""httpsmjpbookscomblogthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress#breadcrumb""itemlistelement"["@type""listitem""position"1"name""home""item""httpsmjpbookscomblog""@type""listitem""position"2"name""the senseless tragic rape charles bukowski#8217s ghost john martin#8217s black sparrow press"]"@type""person""@id""httpsmjpbookscomblog#schemaperson70289fdfdd8dd069b32e601aa9344afa""name""michael jerome phillips""image""@type""imageobject""@id""httpsmjpbookscomblog#personlogo""inlanguage""enus""url""httpssecuregravatarcomavatar4803570ea5182f4eb536caa11af18224s=96d=retror=x""contenturl""httpssecuregravatarcomavatar4803570ea5182f4eb536caa11af18224s=96d=retror=x""caption""michael jerome phillips""url""httpsmjpbookscomblogauthormjp"] window_wpemojisettings "baseurl""https\\sworg\images\core\emoji\1310\72x72\""ext""png""svgurl""https\\sworg\images\core\emoji\1310\svg\""svgext""svg""source""concatemoji""https\\mjpbookscom\blog\wpincludes\js\wpemojireleaseminjsver=581" functioneatvar nroi=acreateelement"canvas"p=igetcontextigetcontext"2d"function setvar a=stringfromcharcodepclearrect00iwidthiheightpfilltextaapplythise00e=itodataurlreturn pclearrect00iwidthiheightpfilltextaapplythist00e===itodataurlfunction cevar t=acreateelement"script"tsrc=etdefer=ttype="textjavascript"agetelementsbytagname"head"[0]appendchildtforo=array"flag""emoji"tsupports=everything0everythingexceptflag0r=0r<olengthr++tsupports[o[r]]=functioneifp||pfilltextreturn1switchptextbaseline="top"pfont="600 32px arial"ecase"flag"return s[127987650398205989565039][127987650398203989565039]1s[55356568265535656819][553565682682035535656819]s[5535657332561285642356128564185612856421561285643056128564235612856447][5535657332820356128564238203561285641882035612856421820356128564308203561285642382035612856447]case"emoji"returns[100846503982055535756613][100846503982035535756613]return1o[r]tsupportseverything=tsupportseverythingtsupports[o[r]]"flag"==o[r]tsupportseverythingexceptflag=tsupportseverythingexceptflagtsupports[o[r]]tsupportseverythingexceptflag=tsupportseverythingexceptflagtsupportsflagtdomready=1treadycallback=functiontdomready=0tsupportseverything||n=functiontreadycallbackaaddeventlistener
+aaddeventlistener"domcontentloaded"n1eaddeventlistener"load"n1eattachevent"onload"naattachevent"onreadystatechange"function"complete"===areadystatetreadycallbackn=tsource||concatemojicnconcatemojinwpemojintwemojicntwemojicnwpemojiwindowdocumentwindow_wpemojisettings imgwpsmiley imgemoji display inline important border none important boxshadow none important height 1em important width 1em important margin 07em important verticalalign 01em important background none important padding important hastextalignjustifytextalignjustify #startresizableeditorsectiondisplaynonewpblockaudio figcaptioncolor#555fontsize13pxtextaligncenterisdarktheme wpblockaudio figcaptioncolorhsla00%100%65wpblockcodefontfamilymenloconsolasmonacomonospacecolor#1e1e1epadding8em 1emborder1px solid #dddborderradius4pxwpblockembed figcaptioncolor#555fontsize13pxtextaligncenterisdarktheme wpblockembed figcaptioncolorhsla00%100%65blocksgallerycaptioncolor#555fontsize13pxtextaligncenterisdarktheme blocksgallerycaptioncolorhsla00%100%65wpblockimage figcaptioncolor#555fontsize13pxtextaligncenterisdarktheme wpblockimage figcaptioncolorhsla00%100%65wpblockpullquotebordertop4px solidborderbottom4px solidmarginbottom175emcolorcurrentcolorwpblockpullquote__citationwpblockpullquote citewpblockpullquote footercolorcurrentcolortexttransformuppercasefontsize8125emfontstylenormalwpblockquoteborderleft25em solidmargin0 175empaddingleft1emwpblockquote citewpblockquote footercolorcurrentcolorfontsize8125empositionrelativefontstylenormalwpblockquotehastextalignrightborderleftnoneborderright25em solidpaddingleft0paddingright1emwpblockquotehastextaligncenterbordernonepaddingleft0wpblockquoteislargewpblockquoteisstylelargebordernonewpblocksearch wpblocksearch__labelfontweight700wpblockgrouphasbackgroundpadding125em 2375emmargintop0marginbottom0wpblockseparatorbordernoneborderbottom2px solidmarginleftautomarginrightautoopacity4wpblockseparatornotisstylewidenotisstyledotswidth100pxwpblockseparatorhasbackgroundnotisstyledotsborderbottomnoneheight1pxwpblockseparatorhasbackgroundnotisstylewidenotisstyledotsheight2pxwpblocktable theadborderbottom3px solidwpblocktable tfootbordertop3px solidwpblocktable tdwpblocktable thpadding5emborder1px solidwordbreaknormalwpblocktable figcaptioncolor#555fontsize13pxtextaligncenterisdarktheme wpblocktable figcaptioncolorhsla00%100%65wpblockvideo figcaptioncolor#555fontsize13pxtextaligncenterisdarktheme wpblockvideo figcaptioncolorhsla00%100%65wpblocktemplateparthasbackgroundpadding125em 2375emmargintop0marginbottom0#endresizableeditorsectiondisplaynone var related_posts_js_options "post_heading""h4" html either class show lazy loaded images
+htmlnot jetpacklazyimagesjsenabled js jetpacklazyimage display none documentdocumentelementclasslistadd 'jetpacklazyimagesjsenabled' color #3f3f3fimportantfontfamily 'open sans' sansserifimportantfontsize 21pximportantfontstyle normalimportantfontweight 400importantlineheight 15important fontfamily 'open sans' sansseriffontsize 21pxfontstyle normalfontweight 300lineheight 15 h1 color #3f3f3ffontfamily 'montserrat' sansseriffontsize 10pxfontstyle normalfontweight 500 h2 color #3f3f3ffontfamily 'montserrat' sansseriffontsize 21pxfontstyle normalfontweight 500 h3 fontfamily 'montserrat' sansseriffontstyle normalfontweight 500 h4 h5 h6 skip content mjp books main site podcast back senseless tragic rape charles bukowski’s ghost john martin’s black sparrow press june 18 2013january 12 2019 you’ve ever read anything charles bukowski doubt remember feeling first time came across work
+better worse bukowski one authors don’t easily forget ignore
+people ambivalent
+enjoyed reading bukowski since picked south north california high desert town joshua tree 20 years ago read entire thing without moving ratty old couch slouched
+could say became fan day
+bukowski died 1994 ridiculously prolific poet publisher black sparrow press continued release “new” poetry collections 15 years death
+sounds like sweet deal doesn’t
+seemingly endless stream new books popular poet
+would read posthumous books couldn’t help feeling little
+reading could give distinct uneasy feeling maybe bukowski lost written stuff
+quality work began slip point forget moment books published order poems written
+thankfully access lot bukowski’s poem manuscripts lot uncollected work bukowski forum
+funny thing happens start compare manuscripts literary magazine publications posthumous black sparrow books see lot things changed
+better
+posthumous collections black sparrow publisher john martin made changes majority bukowski’s poems
+damaging changes run counter everything bukowski represented
+wholesale removal references drinking drugs sex madness
+changes completely alter meaning manuscripts
+changes don’t even begin make sense
+feels like nothing short gleeful unrepentant vandalism destruction
+know you’re thinking “yeah dummy that’s editors do” martin make changes bukowski’s work bukowski alive complain
+waited bukowski safely ground pranced sunshine like cute little baby bear hibernation commenced shit poems
+might say that’s cowardly move wait artist dies start destroying work would agree
+bring subject among certain crowd bristle
+become defensive martin downright antagonistic toward list many ways wonderful man veritable saint would believe
+weep wail “why trying drag name mud
+course i’m dragging name mud i’m merely pointing bringing light giving opinion actions
+opinion martin done nothing short literary crime
+martin soon dead quickly forgotten legacy destruction live
+100 years people still picking bukowski books first time even though won’t know care martin good chance suffering negative impact much bukowski’s work
+impact felt forever half bukowski’s available poetry collections
+didn’t invent create legacy mr martin
+others make point it’s possible wasn’t martin responsible changes
+indeed bukowski angrily complained changes martin made novel women martin blamed “lazy typists” yes really said
+according person typeset books laziness sloppiness involved
+course one would tolerate thing professional typesetter professional publishing house
+martin remove changes women publish revised second printing
+read original first edition one martin’s changes amateur creative writing class stink posthumous poems
+come recognize stink john martin’s hand
+see prime example “the stink” end post
+words removed red boxes words added green boxes
+decide whether changes make poem better
+here’s thing whether intentionally simply allowed happen due extreme negligence doesn’t even matter
+editor
+responsibility final product lies
+don’t pretend know thinking scribbled inane flowery craplanguage bukowski’s manuscripts chopped away guts things red pencil
+others spoken noted tendency downplay inaccuracies mistakes books unimportant
+wave hand saint john officially dismissed concerns
+tragic
+someone simultaneously careless willfully destructive deface much work one 20th century’s influential poets one thinks matters believe nothing done
+it’s true nothing done books something done
+something letting people know posthumous poetry collections tainted read mind
+honestly don’t think read know that’s unrealistic here’s instead
+make
+i’m sticking books published bukowski’s lifetime manuscripts literary magazines published without castrating
+convenience edification list bukowski’s poetry collections divided two groups
+first group bukowski poems read enjoy bask wonderfulness
+second group john martin poems
+don’t read second group help
+john martin shitty poet
+poetry collections published bukowski’s lifetime remain mostly unmolested days run away like wild horses hills mockingbird wish luck burning water drowning flame love dog hell play piano drunk like percussion instrument fingers begin bleed bit dangling tournefortia war time get alone times makes sense roominghouse madrigals septuagenarian stew last night earth poems dirty dozen posthumous black sparrowecco books avoided betting muse bone palace ballet matters well walk fire open night night torn mad footsteps sifting madness word line way flash lightning behind mountain slouching toward nirvana come
+people look like flowers last pleasures damned continual condition don’t buy don’t read already throw yard gophers weasels tear use make nests
+update clarify john martin edits ended continual condition recent posthumous poetry collections seek
+collections edited abel debritto used original sources manuscripts early magazine appearances impose “creative editing” poems
+they’re worth reading writing cats love essential bukowski poetry anthology previously published poems storm living dead article bukowski’s poetry also noted posthumous short story collections city lights books faithful bukowski wrote well worth time portions winestained notebook absence hero notes dirty old man bell tolls one mathematics breath way writers writing here’s comparison promised earlier
+words outlined red removed manuscript version words outlined green added published version haven’t enough subject
+try related post senseless tragic rape charles bukowski’s ghost prequel
+click share twitter opens new windowclick share facebook opens new windowclick share pinterest opens new windowclick share tumblr opens new windowclick share reddit opens new windowclick email friend opens new window related post navigation previous post previous post writing world’s greatest novelnext post next post wasp would sting join conversation 109 comments chancepress says june 19 2013 1116 pm it’s surprising many people able maintain nuanced view bukowski recognizing many failings person phenomenal writer can’t adopt viewpoint regarding john martin
+yes instrumental bringing bukowski world’s attention love shouldn’t get free pass rest career result
+reply mjp says june 20 2013 1232 shouldn’t
+bukowski’s death casts pall bukowski alive
+contrary lot people seem believe bukowski would become bukowski without martin
+far ambitious fail
+success may looked like without black sparrow knows
+success would come
+don’t think that’s debatable
+reply ken riccio says may 2014 1006 pm it’s old thing money like martin everything bukowski
+tells loyalty martin especially wait gone
+puzzling thing linda
+sitting would think holds copyrights
+yes
+
+anyway info true seen buks books ecco name really different crime shame like altering beethoven work
+shame john
+reply asklein says june 20 2013 1021 great great jeremiad nearly shoots foot stupid unpoetic use “rape” headline
+reply mjp says june 20 2013 1159 call left handed compliment
+look “jeremiad” find
+“unpoetic” mistaken blog post poetry
+it’s common mistake people come across writing incomprehensibly beautiful mine understand mistake
+reply emma rayward says february 2014 751 pm you’ve quite simply misunderstood rape means
+really consider implications using term refer definitely rape
+reply michael phillips says february 2014 940 implications
+maybe looking different word don’t think one makes sense context
+assume people go trouble commenting offended use word “rape” came article specifically offended case congratulations masochism rewarded
+you’ve done bit save world likes evil man like
+go latte clear conscience
+reply ghetto cat says september 12 2017 1257 pm first always kind felt black sparrow called black vulture press article resonates opinions
+use word “rape” could sense alexander pope used except epic lord petre never dyed highlighted lock he’d appropriated
+don’t think post “jeremiad” state case supply numerous examples support
+it’s collection disparate complaints
+harrytheconsultant says april 30 2015 956 rape something happens beauty think used correctly obvious martin long suffering wife exacting revenge reply pingback grosse semaine 22 juin 2013 poème sale dina known dora says june 22 2013 1148 question
+john martin thing
+still can’t get
+also impression reading posthumous books lucky roni told literary murder started working thesis
+way hope allow quote article later justify didn’t study last books
+thanks
+reply michael phillips says june 22 2013 212 pm don’t think “why” ever answered since martin claims knowledge changes
+could speculate
+i’ve already heaped enough bad vibes
+reply crys stephens says november 27 2017 751 pm maybe jealousy
+bukowski’s writing deep
+penetrating
+reflective
+real
+moving
+weighty
+choose one word would profound
+martin… well clumsy
+cloddy
+uncomfortable
+drab
+lacking
+dim
+unfortunate
+word… shit
+so… jealousy perhaps
+someone wishes
+side desk chair would never sit rightfully
+“amen” say
+well said
+okay admit
+im laughing little also reply mike says june 24 2013 711 pm think “why” martin lived bukowski’s shadow long
+artistic control probably got
+especially probably felt equally responsible buk’s success degree that’s probably true
+martin pretty good publisher one denying
+made good money “collectibles” everything else martin promote man
+built webb’s martin jumped right starters letter included inside cover terror street agony way
+either martin bukowski wanted stick blade maybe
+truth gypsy lou jon responsibility commitment needed securely handle buk’s career
+martin buk knew
+buk didn’t know someday would get blade crotch martin knew could longer fight back
+reply michael phillips says june 24 2013 802 pm could argue bukowski’s work ethic responsible success publisher
+black sparrow helped city lights helped
+didn’t buy house san pedro bmws black sparrow money
+bought foreign royalties far outweighed domestic royalties
+say martin nothing making bukowski widely known lot undeniable
+bukowski offers larger publishers turned sense loyalty martin
+article describes exactly martin ultimately repaid loyalty
+harm negate good
+suppose that’s history decide
+reply pingback senseless tragic rape charles bukowski' danny mac says june 26 2013 1259 pm dear mjp thanks much fibe detective work
+commended
+glad joined bukowski dot net time learn john martin’s hideous act betrayal
+one uncles irish used say “never trust man doesn’t drinks” old phrase rings true right john martin straightlaced uptight square
+sickening linda lee aparently allowed happen
+what’s
+doesn’t sit well
+thankyou mjp
+reply sangfroid says june 26 2013 403 pm says wiki “black sparrow press sold rights publish bukowski bowles fante harpercollins publishers 2002 point john martin retired
+martin sold remainder inventory $100 david godine publisher adopted name black sparrow books” manuscript that’s horribly mangled 2006
+john martin actually edit
+reply michael phillips says june 26 2013 541 pm yes actually
+edited posthumous poetry collections even published harpercollinsecco
+reply bodiddley says july 17 2013 706 pm put bluntly think charles would passion response might even use line “someone cut martins round ones nice tight” excuse cannot help noticed know answer feeling got many times later work
+thank reply ramsey campbell
+says august 14 2013 616 know you’re thinking “yeah dummy that’s editors do” actually i’m
+i’m thinking tried sort thing none done twice
+reply amanda says august 14 2013 531 pm “but martin make changes bukowski’s work bukowski alive complain
+waited bukowski safely ground pranced sunshine like cute little baby bear hibernation commenced shit poems” bullshit
+person understand poet’s mind respect poet’s work never allowed touch edit works
+i’d come back grave smother someone pillow tried poetry pass already frustrating castrating existence
+reply ian anderson @penforhiresd says august 15 2013 1108 unfinished unpublished work never “edited”
+imperfection stand give audience latent insight writer’s process incomplete passages left reader interpretation whether mysterious embarrassing
+reply howard fredrics says august 16 2013 505 puts perspective one bukowsi’s poems “how get rid purists” wrote published posthumously bone palace ballet
+always struck poem ran counter letters wrote wonder whether poem martin rather result poetic license taken bukowski
+reply michael phillips says august 16 2013 933 don’t manuscript one yet odds part changed
+bone palace ballet first book kinds changes start become evident
+following poetry collection matters pervasive
+reply howard fredrics says august 16 2013 1054 would love see manuscript able get
+reply michael phillips says february 27 2019 1130
+reply john melcher says august 16 2013 1145 pm howard one poems set “playthe piano drunk…” wonder i’ve helped perpetuae fraud
+others “regardless” “inverted love song” i’m going desecrate someone’s writing putting music least want desecrate actual work
+poems album 12 “bad books” get rid purists bone palace ballet regardless slouching toward nirvana inverted love song people look like flowers last
+what’s troubling don’t seem like minor edits make safer wider audience
+they’re completely different
+win $400 lose
+reply pingback senseless tragic rape charles bukowski’s ghost prequel mjp books chanel says september 2013 1126 appropriate use word rape
+reply lindsay says september 2013 1132 another bukowski fanboy using ohsooffensive ohsoedgy language completely misusing word never used title piece
+instead succeed distracting point might commented otherwise
+words important
+use wisely
+rape
+reply michael phillips says september 2013 1222 pm “words important
+use wisely” says immediately laying cliched insults
+reply emjay says september 21 2016 307 pm unbelievable people coming discuss bukowski get pc particular title blog entry
+pathetic
+reply mike says september 2013 1234 pm words hurt… reply lucy says october 2013 1113 worked black sparrow 1970s
+testify john martin writer cannot believe became writer later
+heavy editing polite bukowski’s work clearly hurts poems strangest thing received bukowski’s mss
+70s john wouldn’t let anyone correct spelling became job since notoriously bad speller
+john always xian scientist teetotaller etc maybe changes attempts clean hank
+agree it’s travesty
+reply pingback tragic flogging dead rape horse aka
+locking door bukowski’s ghost throwing away key mjp books russell says october 30 2013 1115 extended use “rape” severe violation longstanding history i’m sure especially context seems objectionable
+see oxford english dictionary cites many examples including similar use playwright’s complaint “sir committed rape upon play” cf
+contemporary use ronald wright’s stolen continents [cortés] “persuaded new men join rape aztec empire” reply ellis says december 26 2013 1049 meh
+doubt bukowski’s thousands booze stained pages journals napkins sheets typwriters hold firm singular version poem prose
+doubt differences stemmed entirely martin
+anyone written poetry prose knows scribbles crossouts reerased whiteout lunacy occurs
+version author fond
+editor publisher make best guess
+least weren’t lost mice weather
+reply mark miller says january 2014 1251 established fact charles bukowski manuscripts cited basis gauging subsequent editorial changes superseded bukowski’s revisions
+possible cb made changes perhaps galleys privy
+someone set straight
+thanks
+reply michael phillips says january 2014 626 pm read articles you’ll see changes discussed present posthumous collections
+question whether believe bukowski started making kinds “revisions” died
+answer obvious
+reply van zeller says january 17 2014 431 pm wondered thing know sure weren’t versions lying around martin someone else perhaps tried combinemerge
+anyway i’ve read betting muse septuagenarian stew enjoyed overedited didn’t ruin
+reply michael phillips says january 18 2014 1202 neither one titles question
+read article would know
+whether martin’s alteration works “doesn’t ruin them” anyone isn’t really point
+reply thomas draschan says march 2014 328 pm thanks making public detailed work
+thank defending cb misuse writing
+way justify
+reply babylondogs says may 24 2014 354 pm thank much pointing right direction
+grown fond “the pleasures damned” rethinking things
+imagine john martin raped anthology well
+yes think “rape” appropriate term
+people need stop getting offended weak self esteems
+reply eimear mcglynn says september 2014 525 pm find untainted manuscripts
+there’s poems bone palace ballet quite liked reading would prefer could read originals… ideas
+reply michael phillips says september 2014 532 pm might try link article you’re commenting
+saying
+also book listings bukowskinet like one bone palace ballet include links manuscripts available
+general valuable resource httpsbukowskinetdatabase reply eimear mcglynn says september 2014 543 pm actually tried links listed article already trawled bukowski database looking poems none particular poems links manuscripts etc
+thought might easy link collections thanks anyway reply michael phillips says september 2014 624 pm try
+reply ana karina says september 26 2014 1216 pm thanks list tainted nontainted works
+wonder could perhaps help question
+want buy bukowski wondering go find older editions rather new ones
+example “the last night earth poems” link part “nottainted” list newer edition 2002
+think one still intact
+says “ecco” publisher
+1992 edition also available it’s expensive
+thanks great post
+reply ana karina says september 26 2014 1219 pm oops never mind
+figured
+link title book found
+thanks providing links
+reply michael phillips says september 26 2014 149 pm ecco versions nonposthumous books fine correspond original black sparrow versions
+anyway
+reply richard butler mosher says october 2014 844 pm piece shit
+remember first times reading adulterated pieces shit
+disappointed dumbfounded
+felt like long lost manuscripts hidden era trapped stifling sterile nursing home couldn’t stop staring ‘this goddamned computer typer’ long enough get untainted line
+maybe heavy bout sobriety remorsefully frantically started pumping work daughter could show friends proof really dirty old drunk show
+know whatwho fault get read bukowski never read
+it’s
+reply mark black says december 2014 108 come contact cunts like john martin…what shame bukowski well… knew something wrong
+reply john melcher says january 2015 249 possibility bukowski made changes
+manuscript example gave 1981 might gone work death prepare publication
+reply michael phillips says january 2015 342 pm examples way end writing 1993 hundreds lot 1990s manuscripts added site
+it’s anyone see
+compare manuscripts posthumous books
+answer question might gone old work remove references drinking make work pedestrian lame
+sure anything possible
+question isn’t “is possible” question “is probable” knowing know
+answer absolutely probable
+continued writing new poems weeks died
+make notations work “saved” posthumous publication spend last years going old work making shitty
+someone else
+reply john melcher says january 2015 1014 pm thought read somewhere end collected lot unpublished work posthumous publication
+look like vast amount lastminute editing yet one wonders martin would excise things helped make fortune
+anyway i’ll hope harpercollins eventually publish definitive edition
+reply maxbohemio says january 2015 808 michael phillips exposed low backstab publisher ever commit heck supposed protect insure writers work
+john martins radar atrocities compounded destruction artists work substandard completely absurd editing work stood need substandard slimeball changes come close writers original intent voice
+humble opinion publishing practice worse outright plagiarism makes john martins legacy null void
+john even posthumous payments buks wife make ok reply henry kujawa says february 2015 627 it’s stan lee
+guy jack kirby’s writing 10 years except course lee far far worse
+stole credit pay publisher could claim owned
+reply larry "ratso" sloman says february 2015 828 pm example cited way hank could made changes would repented hell sent revised poems back
+new tomes change author’s credit charles pc
+bukowski
+reply michael phillips says february 2015 1116 pm thanks checking remember hearing stern show back 90s
+you’re right worst part example isn’t even one really butchered poems
+reply john melcher says february 2015 1139 pm linda lee must know
+what’s opinion
+reply michael phillips says february 2015 758 three four new collections coming starting fall
+john martin editor editor subsequent bukowski books published
+that’s opinion
+reply fred nemo says june 2015 620 pm petitioned wikipedia add little addendum bukowski article
+something like “it suggested posthumous poetry collections excessively bowdlerized longtime editor” footnoted link stunning sidebyside example
+reply michael phillips says june 2015 640 pm wikipedia bukowski entry idiotic always wikipedia idiotic concept
+won’t “petitioning” anything
+i’ll leave
+reply drew says january 20 2016 835 pm i’m curious appalling overstepping bullshit limited posthumous books
+really hope hasn’t happened newer editions older books
+it’s posthumous books i’m still relieved buk put much work alive still plenty work dive
+i’ll always give martin respect taking chance bukowski good
+far understand buk made martin’s publishing career
+pretty much went came top
+thing coming light would seem bukowski real integrity character didn’t take advantage martin far know i’m still curious state mind rationalization martin weird thing
+“bowdlerize” something usually remove unseemly content censorship capacity feel uncomfortable offended feel content morally unsound
+martin didn’t flinch publish buk’s raw dirty lowlife poetry
+maybe didn’t balls censor buk alive knew could likely make good investment
+much time proven writing censor
+doesn’t make sense
+feel strange jealousy writing
+publishing legendary writer alone wasn’t enough martin felt could almost cheat way writing “great” poetry putting influence hide guise “editing” isn’t editing really like said molestation insecure man went technical overseer facilitator selfappointed judge executioner
+don’t know really interests psychological sense
+greed deep running rationalization little personal masturbatory injection famous poets work get
+pisses
+bukowski would disgusted
+reply mjpinla says january 20 2016 1146 pm later current printings old books fine weren’t changed
+“why” there’s answer
+might able explain away martin removing references drinking drugs assuming christian “scientist”
+way explain vast majority changes assume understand john martin thinks you’re idiot need bukowski writing explained
+seems believe applying best junior college writing class skills work way
+becomes apparent making lot comparisons john martin understand bukowski’s poetry
+reply aw says august 30 2016 226 pm muse compromised since came 96
+thanks
+reply michael phillips says august 30 2016 354 pm betting muse mostly untouched
+compared collections came anyway
+reply alec says january 19 2017 715 would poems 2002when martin retired okay read
+reply michael phillips says january 19 2017 1249 pm anything okay read aware tampered wasn’t
+martin retire 2002 continued edit bukowski’s poetry collections 2009 you’d better served avoid books list article
+hope horizon
+plans underway reissue posthumous collections restoring work bukowski wrote
+may take years complete titles restored eventually
+reply keith mahone says march 16 2017 523 find surpassingly bizarre many bukowski fans like cult worshiping cult leader uncritically
+bukowski sloppy writer made terrible mistakes plain messes
+thing endears many people whether know personality apart consideration writing
+life charming trainwreck
+reading narcissistic spew get follow drunk around get “slice life” insight world one would see without someone like ranting raving
+wish many people actually write poetry would examine discuss work critically
+martin’s worst crime far i’m concerned alive published bunch trash sell paper
+reading insist sixty percent wrote unsuitable publication
+wellcrafted poems hello
+didn’t craft anything
+work haunted low selfesteem overcompensatory egotistical drunken bullshitter narcissismselfloathing
+work obsessively autobiographical
+places company great writers actually knew unlike
+etc
+think greatest appeal willing make spectacle
+drunken lecher poet seems many fans attracted drunken debauchery assume poetry work genius
+could undertake line line word word analysis work show poorlyread selfobsessed drunk typing
+would dismiss joined cult drunk kool aid
+fourth major american poet along frost cummings collins
+boil writing twenty percent published supervision it’s good enough land spot
+grade curve mess
+people say prolific that’s easy explain kept charging forward poets would hang onto stuff consider revise discard etc
+published trash that’s insult readers forcing search haystack find needles
+great tragedy b’s poetry muuch expense less work crafted polished excellent
+i’d like add read b’s poetry fiction publishing quality began read stuff published posthumously immediately recognized scam
+read slouching toward nirvana resolved buy none trash published died first martin selfishly published two three terrible pieces every decent specimen sell paper stretch page count alive
+defied reasoning stuff held back publication could good
+add overwhelming urge many publishers try cash someone’s fame abusing readers everything find wastepaper baskets around home deceased proves much temptation hack like martin resist
+reply michael phillips says december 2017 814 could undertake line line word word analysis work show poorlyread selfobsessed drunk typing
+suspect anyone would entertain idea “undertak[ing] line line word word analysis” anything would find fault since that’s usually purpose undertaking undertaken bloodless undertakers
+world full people criticize bukowski’s writing spent lot time family’s money educated along comes ugly drunken common laborer couldn’t even finish community college yet write circles around
+fills limp academic anger reveals “criticism” course keith mahone people
+you’re different
+reply guy ryan harrelson says july 19 2019 517 outstanding response
+sincerely impressed vicariously entertained
+reply cary bertoncini says may 2017 840 pm emily dickinson’s poems suffered similar treatment argument could probably made many famous examples billy budd sailor melville among
+annoying perhaps even abhorrent many us absolutely without precedent
+dickinson’s case later versions truer originals later came
+possible bukowski’s work
+reply john smith says may 2017 518 moby dick heavily rewritten british first edition
+specific reasons sexual references religious etc
+looking martin changes one hard pressed understand motive
+he’s censoring really
+reminds old boss used rewrite everything wrote could feel better writing chops
+reply michael phillips says may 2017 1211 pm he’s censoring really
+would call removing references drinking drugs insanity it’s censoring
+reply michael phillips says may 2017 1217 pm absolutely without precedent
+say unprecedented
+i’m sure people feel compelled keep making nonpoint
+dickinson’s case later versions truer originals later came
+possible bukowski’s work
+anything possible isn’t
+question likely
+answer absolutely
+evidence abundant perfectly clear
+reply chrisjarmick says may 2017 1110 wish possible get attention without coming overly dramatic titles isn’t
+perhaps would use something like posthumous backstabbing betrayal
+
+
+
+actually important information shared
+disturbing way justifies completely blog post title
+hope unedited poems released point
+maybe there’s path thanks publicity article generate
+thanks much writing letting travesty better known
+kudos
+reply michael phillips says may 2017 1217 pm may happy learn behindthescenes move underway rerelease posthumous titles corrected text additional poems similar way “remastered” music albums marketed
+spearheaded abel debritto edited last four bukowski collections released ecco writing cats love essential bukowski along collection previously uncollected poems due published november 7th storm living dead
+reply nehal says august 25 2020 937 could please tell bit novels… unmolested
+could give list novels unmolested reply michael jerome phillips says september 27 2020 816 novels edited
+one closer original others httpsbukowskiforumcomthreadswomen1968 reply al mohan says july 24 2021 1042 hello france
+far see much happened since post except “the mathematics breath way writers writing” 2018 “on drinking” 2019
+would uptodate news unmartined hank books
+anyway thank great blog
+al mohan reply george says july 11 2017 1225 pm made nauseous fuming mad
+chorizo burrito ate possibly involved somehow truly disappointing least first consideration
+flipside get reread bunch bukowski point near future even better first time around
+reply aileen says september 2017 131 doesn’t surprise astound sadly single submission post questioned accusation
+person swallowed whole allegation appraisal mr martin
+wonder speak john
+give chance respond
+relationship black sparrow press post
+reply michael phillips says september 2017 809 single submission post questioned accusation
+that’s true i’ll assume didn’t read comments articles
+even true would “surprise astound”
+perhaps people “swallowed whole” “allegation appraisal mr martin” eyes minds souls feel animosity toward wrongdoing
+that’s normal human response isn’t
+real question might wouldn’t believe
+what’s relationship martin
+people know friendly seem spring defense without ever considering possibility may acted way disrespectful destructive
+refuse even consider possibility
+it’s tough pill “swallow whole” get eventually come grips idea one perfect innocent earth isn’t flat great bearded god sky create rib bone first man
+faith aileen know one day see light testify highest mountain top heart full love clear conscience truth revealed
+reply maxbohemio says may 22 2021 1137 michael responses great humanity much appreciated
+here’s hoping best able accept worst comes visit
+^5 reply maxbohemio says may 22 2021 1135 aileen defend man paid gifted exchange
+really followed thread beginning noted changes john made posthumously literature could never written shame understanding what’s going
+good thing secrets hidden possibly forgotten buried somewhere beyond exposure recognition eh
+perhaps can’t relate you’ve never poured heart soul anything written art maybe respect others original creations
+take time rethink good luck conscience matters
+best
+reply steve says december 2017 545 thank bringing light
+run hunted one favorite collections based 1994 date believe it’s safe
+poems stories i’ve read early years constantly starving working always trying connect words deeper meaning always listening classical masters reading classics come interpretations everyday life
+someone come change cbs original words even slightest completely disrespect throw away hours suffering create cb thought art
+appreciate helping find purest forms cbs efforts
+feel like i’ve violated way ive held onto cbs words years
+reply michael phillips says december 2017 802 based 1994 date believe it’s safe
+problems every book edited john martin anthology different
+problems became much worse bukowski’s death
+reply paul vincent says january 29 2018 128 arsehole it’s like changing thou shalt kill
+please don’t walk grass
+reply sinan says may 10 2018 1225 pm hello michael phillips came across blog post searching stuff bukowski well written
+wondering ‘on cats’ mentioned one ‘to avoided’ list mentioned
+couldn’t exactly understand one ‘changed’ ones
+it’s posthumous collection it’s unchanged
+
+got copy yesterday curious thanks advance
+reply michael phillips says may 10 2018 210 pm cats edited john martin faithful bukowski’s original manuscripts
+thanks i’ll update article make clear
+reply jr says august 16 2018 233 pm could tell stories guy john martin basically lucked bukowski never even really got writing article clearly reveals
+i’ve heard people know martin two friends proudly bragged writing bukowski’s work
+john martin un named publisher fact introduction written terry zwigoff second edition book line
+robert crumb painted cover book he’d finished illustrating “the captain lunch” ‘97 black sparrow
+crumb good friends since painted three covers published books biggest supporter
+knew bukowski martin
+crumb zwigoff took martin dinner pushed publish line ‘98 agreed
+martin called crumb terry’s house sf chickened next day saying afraid black sparrow would get sued crumb wrote saying horse shit cop letter still rc 400 pages letters
+crumb took ron turner last gasp republished 2000 crumb terry also gave john martin manuscript auto bio novelmemoir “finding cure cancer”
+martin wrote called phone almost immediately got huge fight
+basically told “too much drug use book” said “especially cocaine” laugh mentioned times drug alcohol bukowski’s books drugs guy started yelling alcohol different drug shit flipped
+also said though “great dialogue tone harsh
+bukowski humor writing” couldn’t believe man published bukowski saying things tried explain actually lot humor stuff exactly robert crumb thinks it’s funny
+martin goes long tirade putting crumb says “let tell something new friend crumb thinks funny
+driving car crumb one day…” told long derogatory story robert won’t repeat
+john martin struck completely phony nut
+martin must felt guilty though sent couple huge boxes black sparrow books twice letters never wrote back
+book rejected
+got published year liveright ww norton new title “bad jobs poor decisions” fuck john martin
+bukowski always way loyal
+jr helton
+san antonio texas 2018 reply michael phillips says september 17 2018 1237 pm suppose someone “too loyal” don’t know bukowski ever turned bigger appropriate publisher deference martin
+it’s good bear mind real unapologetic rape happened bukowski six feet
+happened scale alive think loyalty would tested
+would seem exactly martin waited bukowski couldn’t complain begin gutting work
+reply uriah says september 17 2018 506 blog ever read actually real value
+don’t know many times read bukowski got soft later
+read work see films watch interviews know vehemently would stopped writing felt loosing touch
+history lesson everyone people change work message lie stood people fact check one come aid gone history meaningless except see example example self servicing rewrites blatant slandering reinterpretation lies
+exposing mechanism humanity pissed history away choice power ego exactly quit reading history listen words archeologist directly mouths
+humanity fucking traitors self traitors past future words humanities word ain’t worth shit big lies stupid people swallow
+came another swallower triumph miracle story self
+can’t thank enough can’t praise enough went beyond lies side truth go along majority
+already look herd apes come try stop discourage make seem like isn’t important
+like eating shit love word slaves pronoun gimps pimped sponsor gun peoples lot life
+thank standing tyranny human hubris ego
+michael phillips thank
+reply michael phillips says september 17 2018 1242 pm humanity fucking traitors can’t say bukowski didn’t warn us one tombstone mess say humanity never beginning
+reply astrophil says september 30 2018 815 pm
+it’s easy prophet fact like many others say knew
+read couple posthumous collections definitely feeling something amiss
+wasn’t much usual content different
+even sure never thought drinking copulating interesting part work anyway actually example least elision references drinking forms tiny part intervention
+rather style rhythm seemed gone downhill
+may sound like strange complaint things didn’t seem scan
+appeared example lack intermittent outbursts fairly conventional metre view drive powerful lines older work eg
+‘what puts blackbird cat’s mouth us say’ ‘thinking they’re toughthinking they’re menbut really closer mother’s titsthan true evaluation existence’ seemed none given sort irrelevant stuffingin mr martin’s editorial practice seems consisted one see
+stranger still author insisting felt writing getting better age
+lost
+lying
+grown older dumber
+mystery
+course quality work properly presented remains seen
+case makes whole thing downright mindboggling absolute randomness pointlessness changes shown
+one perhaps explain apparently limited ‘bowdlerisartion’ earth would anyone change $40 loss $400 gain track
+what’s point
+respect mr martin making buk’s career possible first place shame shame inexplicable violation
+reply astrophil says october 2018 822 would like add calmer afterthought fairness mr martin already mentioned bukowski fans great lot grateful
+although example editing rather outrageous much thorough study many examples would needed demonstrate merely unfortunate isolated instance editorial malpractice
+thanks reply michael phillips says october 2018 949 hundreds comparisons done
+unfortunate fact example far “isolated instance” beyond doubt systematic consistent rewriting poems posthumous collections
+cite one example many 75 manuscripts sifting madness 75 poems rewritten martin collection
+read examples see kind conclusion draw httpsbukowskinetcomparisons httpsbukowskiforumcomforumspoemcomparisons53 reply tan geers says october 18 2018 852 pm martin hung neck til dead
+right defend hung well
+reply james smith says february 26 2019 138 pm last black sparrow volume night torn mad footsteps sense old hank’s still
+starting sifting madness… first harpercollinsecco title feels thought work gotten really anodyne spirit completely gone
+wonder much sale large mainstream house
+reply michael phillips says february 27 2019 1114 sale black sparrow press didn’t really anything changes
+martin continued edit collections even sale including continual condition
+increase edits started immediately bukowski’s death evident first posthumous collection betting muse
+may feel night torn mad footsteps
+four years earlier 1997’s bone palace ballet virtually every poem shows evidence destructive tampering
+thing night torn mad footsteps
+sale company unrelated far issue concerned
+harpercollinsecco’s credit linda made aware martin’s destructive editing complained put end editorial involvement
+reply uriah aka heavenly kidd says june 16 2020 731 pm light happening today youtube account suspended linking truth lies powers can’t wish could create write parasitic process digging greedy grubby filthy academic proboscis vomit truth sucking blood life right history art intelligence digesting bland corporate slop canned goods fifty star steak house real masters trades arts suffered died spit sucked shit waste
+deals real exists supposed futures legacy big wigs top every food movie chain intent old hollywood call next writer next
+raping text molesting little characters link form words truth understanding defiling language root history prop like shit wound great ass shitting lord us feed us rewrite venom pacify mind word poison spin winding pivotal strike amid distractions
+reason you’ll belly beast see clockwork wound predator snakes pit cave full little allow stomach
+happening end enlightenment way keep us learning mistakes discrimination voice people even ones deep streets war preservation truth justice reality keep us dumb illiterate ie
+victims gagged lolled fantasy
+cause one streets stand pretentious shit academic know phonies won’t read won’t learn read lose truth history meaning default serpent den trickle
+light attack commend happening preservation fought hard survived truth conspiracy false change
+yet hear single writer stand speak show balls fucks sake cowards even ones personally contacted showed books rewrote pulp intended wording don’t know cause next next ones whose books going get old revision
+reminds philip dicks radio free albumuth ghost writers write books increasingly conservative looks like people grow conservative age seems plausible every artists gets hackier time
+keep fight
+reply jr helton says october 2020 818 pm i’m writer jr helton two years ago gave detailed truthful bullshit account people know friends robert crumb terry zwigoff knew worked martin bukowski
+also wrote interactions writer martin site
+curious mjpbookscom
+blog website
+publisher
+bukowski fan site
+curious
+helton reply michael jerome phillips says october 2020 1113 pm comment year thanks
+you’re “curious” curious enough click navigation links
+got
+that’s lowgrade kind curiosity isn’t
+like want say you’re curious can’t bothered actually curious
+impressive
+reply joaquim oliveira says january 2021 410 pm poetry isn’t supposed edited
+reply mark says january 2021 1103 bunch fucking babies
+armchair editors little girls
+get quit thinking know everything
+stupid article
+reply hannah says january 2021 1257 pm thanks thoughtful feedback mark
+might consider getting finding way quit thinking know everything
+may success personal relationships take approach
+know
+say ‘hi’ mr martin
+reply maxbohemio says may 22 2021 1146 mark name one amazingly appropriate label since you’re wall crooked supporters certain prevaricating politician anyone defends supports vandalism real original art
+definition…mark easy target victim
+yes you’re silly mark you’d probably celebrate defend brushstrokes would destroy sacred artworks humanity
+reply leave comment cancel reply documentaddeventlistener'domcontentloaded' function var commentforms documentgetelementsbyclassname'jetpack_remote_comment' var commentformslength i++ commentforms[i]allowtransparency false commentforms[i]scrolling 'no' site uses akismet reduce spam
+learn comment data processed
+leave comment historical pricelists gibson electric guitars much guitar costcategories art 25 audio books 16 internet 48 movies 10 music 34 life great 56 stuff 14 podcasting politics 18 religion television human race 68 transgender writing 23 mjp books blog proudly powered wordpress
+windowwpcom_sharing_counts "https\\mjpbookscom\blog\thesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress\"1898 send email address name email address cancel post sent check email addresses
+email check failed please try sorry blog cannot share posts email
+var jetpacklazyimagesl10n "loading_warning""images still loading
+please cancel print try
+var jqlbsettings "showtitle""1""showcaption""1""shownumbers""1""fittoscreen""0""resizespeed""400""showdownload""0""navbarontop""0""marginsize""0""slideshowspeed""4000""prevlinktitle""previous image""nextlinktitle""next image""closetitle""close image gallery""image""image ""of"" ""download""download""pause""pause slideshow""play""play slideshow" var sharing_js_options "lang""en""counts""1""is_stats_active""1" var windowopen function function matches el sel return
+elmatches elmatches sel || elmsmatchesselector elmsmatchesselector sel documentbodyaddeventlistener 'click' function event
+eventtarget return var el matches eventtarget 'asharetwitter' el eventtarget else eventtargetparentnode matches eventtargetparentnode 'asharetwitter' el eventtargetparentnode el eventpreventdefault there's another sharing window open close
+typeof windowopen == 'undefined' windowopenclose windowopen windowopen elgetattribute 'href' 'wpcomtwitter' 'menubar=1resizable=1width=600height=350' return false var windowopen function function matches el sel return
+elmatches elmatches sel || elmsmatchesselector elmsmatchesselector sel documentbodyaddeventlistener 'click' function event
+eventtarget return var el matches eventtarget 'asharefacebook' el eventtarget else eventtargetparentnode matches eventtargetparentnode 'asharefacebook' el eventtargetparentnode el eventpreventdefault there's another sharing window open close
+typeof windowopen == 'undefined' windowopenclose windowopen windowopen elgetattribute 'href' 'wpcomfacebook' 'menubar=1resizable=1width=600height=400' return false var windowopen function function matches el sel return
+elmatches elmatches sel || elmsmatchesselector elmsmatchesselector sel documentbodyaddeventlistener 'click' function event
+eventtarget return var el matches eventtarget 'asharetumblr' el eventtarget else eventtargetparentnode matches eventtargetparentnode 'asharetumblr' el eventtargetparentnode el eventpreventdefault there's another sharing window open close
+typeof windowopen == 'undefined' windowopenclose windowopen windowopen elgetattribute 'href' 'wpcomtumblr' 'menubar=1resizable=1width=450height=450' return false trident|msieitestnavigatoruseragentdocumentgetelementbyidwindowaddeventlistenerwindowaddeventlistener"hashchange"functionvar te=locationhashsubstring1^[az09_]+$testet=documentgetelementbyide^
+a|select|input|button|textarea$itestttagname||ttabindex=1tfocus1 function var comm_par_el documentgetelementbyid 'comment_parent' comm_par comm_par_el comm_par_elvalue
+comm_par_elvalue '' frame documentgetelementbyid 'jetpack_remote_comment' tellframenewparent tellframenewparent function comm_par framesrc "httpsjetpackwordpresscomjetpackcommentblogid=49696275postid=1898comment_registration=0require_name_email=1stc_enabled=1stb_enabled=1show_avatars=1avatar_default=retrogreeting=%c2%a0greeting_reply=leave+a+reply+to+%25scolor_scheme=lightlang=en_usjetpack_version=102show_cookie_consent=10has_cookie_consent=0token_key=%3bnormal%3bsig=64e160238f9b283eac484ec9209bfd20494169c7#parent=https%3a%2f%2fmjpbookscom%2fblog%2fthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress%2f" 'replytocom=' parseint comm_par 10 tostring else framesrc "httpsjetpackwordpresscomjetpackcommentblogid=49696275postid=1898comment_registration=0require_name_email=1stc_enabled=1stb_enabled=1show_avatars=1avatar_default=retrogreeting=%c2%a0greeting_reply=leave+a+reply+to+%25scolor_scheme=lightlang=en_usjetpack_version=102show_cookie_consent=10has_cookie_consent=0token_key=%3bnormal%3bsig=64e160238f9b283eac484ec9209bfd20494169c7#parent=https%3a%2f%2fmjpbookscom%2fblog%2fthesenselesstragicrapeofcharlesbukowskisghostbyjohnmartinsblacksparrowpress%2f" 'undefined' == typeof addcomment addcomment_jetpack_moveform addcommentmoveform addcommentmoveform function commid parentid respondid postid var returnvalue addcomment_jetpack_moveform commid parentid respondid postid cancelclick cancel false === returnvalue cancel documentgetelementbyid 'cancelcommentreplylink' cancelclick cancelonclick cancelonclick function var cancelreturn cancelclickcall false == cancelreturn return cancelreturn
+comm_par return cancelreturn comm_par tellframenewparent return cancelreturn comm_par == parentid return returnvalue comm_par parentid tellframenewparent return returnvalue post message bit dom loaded
+documentaddeventlistener 'domcontentloaded' function var iframe_url "https\\jetpackwordpresscom" windowpostmessage documentaddeventlistener windowaddeventlistener 'message' function event var origin eventoriginreplace ^http\\i 'https' iframe_urlreplace ^http\\i 'https' == origin return framestyleheight eventdata 'px' else documentattachevent windowattachevent 'message' function event var origin eventoriginreplace ^http\\i 'https' iframe_urlreplace ^http\\i 'https' == origin return framestyleheight eventdata 'px' _stq window_stq || [] _stqpush[ 'view' v'ext'j'1102'blog'49696275'post'1898'tz'7'srv'mjpbookscom' _stqpush[ 'clicktrackerinit' '49696275' '1898'

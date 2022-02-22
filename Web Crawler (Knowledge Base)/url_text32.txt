@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DPTLDW');
+
+
+Charles Bukowski bibliography, manuscripts, poem database, discussion forum
+
+
+
+
+
+
+
+
+
+bukowski.net
+
+
+
+
+
+
+Forum
+
+
+
+          Manuscripts
+        
+
+Poems and stories
+Letters and postcards
+
+
+
+Timeline
+
+
+
+          Database
+        
+
+Search the database
+Book, magazine, audio lists
+
+
+
+Checklist
+
+
+
+          More
+        
+
+Poems, stories, interviews
+Art
+Photos
+Miscellany
+Vote for your favorite books
+FBI Files
+Map of homes and jobs
+
+About/Contact
+ Twitter feed
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Charles Bukowski, American Author
+Prolific and influential 20th-century poet, short story writer, and novelist
+
+
+
+
+
+
+Meet Charles Bukowski
+Charles Bukowski was born in Germany, shortly after World War I, to a German mother and American soldier father. When he was two years, eight months old, his parents put him on a ship and brought him to the United States, where they settled in Los Angeles, California, near the father's family. Shortly after America joined World War II, Bukowski left Los Angeles, traveling to various cities around the country, spending the bulk of his time in Philadelphia and New Orleans. In 1947 he returned to Los Angeles, where he lived for the remainder of his life.
+While "on the road," Bukowski was published for the first time in Story magazine. The year was 1944, and he was 24 years old. At that time he was primarily a short story writer who only occasionally wrote poetry. But a decade later, in 1954, that would change after Bukowski suffered an internal hemorrhage and spent nine days on the cusp of death in Los Angeles County Hospital. After that experience, he began writing much more poetry and quickly became one of the most unique and influential voices in 20th-century American poetry.
+Ultimately, Bukowski is perhaps more well-known for his novels, such as Post Office, Factotum, Women, and Ham on Rye than for his poetry. But even while he was working on novels he continued to write poetry and short stories. In fact, at the time of his death in 1994, Bukowski had written over 5,300 poems and stories. And those are only the titles that we know of. There were likely hundreds more that were written—and subsequently lost—in the 1940s, 50s, and 60s, before he began keeping copies of his work.
+Film adaptations of Bukowski's books
+In 1979 Bukowski began writing the screenplay for what would become the film Barfly. After years of delays and wrangling, the film was eventually made by Barbet Schroeder with Mickey Rourke and Faye Dunaway in the leading roles. Bukowski wrote about the experience in his funny, underrated novel Hollywood. The same year, 1987, a Belgian film was released based on Bukowski short stories called Crazy Love. Other film adaptations of Bukowski's work include the Italian film Tales of Ordinary Madness, starring Ben Gazzara, and Factotum, with Matt Dillon taking his turn playing Bukowski.
+The aftermath of Bukowski's death
+After Bukowski's death in 1994, Black Sparrow Press continued to release new poetry collections every year or so. Unfortunately, those collections suffer from comprehensive—and inexplicable—editorial tampering, which has the overall effect of making the posthumous collections appear as if they were comprised of lesser works. When reading Bukowski's original manuscripts, however, it becomes clear that it is the changes made by Bukowski's then "editor" that lend a clumsy air to much of the work. Efforts are underway to repair the posthumous volumes, and one day we hope to be able to report that the widespread decimation of nearly half of Bukowski's published poetry has been reversed, remedied and repaired.
+How to find information on any Bukowski poem or story
+bukowski.net is the world's most comprehensive resource for information on Charles Bukowski's life and work. Access 1,700 poem and letter manuscripts and search our massive publications database to find extensive details about poems, stories, books, and recordings. The database is the result of decades of research by a wide range of experts and is continuously updated.
+Bukowski bibliography, timeline, art, FBI files and more
+If you're looking for something to read, take a look at our Checklist of every Bukowski book, and browse a selection of Bukowski poems, stories and interviews. You can also read the entire FBI file that was compiled on Bukowski, along with an illustrated timeline of his life and times, hundreds of examples of art that he made, photos, even an interactive map showing where he lived and worked.
+The answer to any Bukowski question
+If you have questions about anything Bukowski-related, you can ask them in our discussion forum where you are guaranteed to get a quick, knowledgeable answer. If you want to know anything at all about the life or work of Charles Bukowski, this is the place to find it.
+Contents of the Bukowski database
+The Bukowski database currently contains information on:
+4848 poems560 stories5450 total works (4690 unique works, 760 alternate titles or versions)5250 works in 133 books2950 works in 1413 magazines57 broadsides1583  poem manuscripts264  letter manuscripts43 releases of 21 different recording sessions or readings268 links to audio recordings863 links to scans of unpublished or uncollected work, first magazine appearances and original texts in the forum410 links to scans of first magazine appearances on other websites
+Find what you love and let it kill you
+Sometimes it's difficult to tell whether misinformation on the Internet comes to life accidentally or purposely, but once it takes hold, it's accepted by many as fact. A good number of the Internet quotes attributed to Charles Bukowski are actually quoting other people or are simply anonymous fabrications. Perhaps most notably, "Find what you love and let it kill you," words attributed to Bukowski just about everywhere you look on the Internet. The only problem with that quote is those are not Bukowski's words, they are the words of songwriter Kinky Friedman. So if you absolutely must get the quote tattooed on your body somewhere (and really, you mustn't, so maybe you shouldn't), be sure to put Kinky Friedman's name under it, not Charles Bukowski's.
+While Charles Bukowski died on March 9, 1994, his influence on modern poetry continues to be felt, despite his epitaph: Don't try.
+
+
+
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Charles Bukowski",
+  "alternateName": "Henry Charles Bukowski, Bukowski, Hank",
+  "birthPlace": "Andernach, Germany",
+  "gender": "Male",
+  "birthDate": "1920-08-16",
+  "deathDate": "1994-03-09",
+  "givenName": "Heinrich Karl Bukowski",
+  "deathPlace": "San Pedro, CA",
+  "jobTitle": "Noted 20th century author of poetry, short stories and novels",
+  "spouse": "Barbara Frye, Linda Bukowski",
+  "children": "Marina Louise Bukowski",
+  "nationality": "United States",
+  "parent": "Katharina Fett, Henry Bukowski"
+}
+
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "about": "Charles Bukowski, American author website",
+  "accountablePerson": "Michael Phillips",
+  "copyrightYear": "1995",
+  "isAccessibleForFree": "True",
+  "keywords": "Bukowski, author, poet, Los Angeles, Black Sparrow Press, Buk, Charles Bukowski",
+  "locationCreated": "Los Angeles",
+  "description": "Comprehensive study of Charles Bukowski's life, work and continuing influence on modern literature, featuring an interactive database of all published work, thousands of manuscripts, and a timeline of Bukowski's life.",
+  "image": "https://e1dbdba346b73069f07c-81b820d24d740fd7f7b854c924de4712.ssl.cf1.rackcdn.com/Bukowski-site-40.jpg",
+  "url": "https://bukowski.net"
+}
+
+
+
+
+
+bukowski.net ©1995-2021 Hannah Phillips and Millionaire Brand Bathtub Gin. All rights reserved. 
+
+
+
+
+
+
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+
+

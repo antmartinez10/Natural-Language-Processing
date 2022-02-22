@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DPTLDW');
+
+Charles Bukowski poem and story database, book: Betting on the Muse
+
+
+
+
+
+
+
+
+bukowski.net
+
+
+
+
+
+
+Forum
+
+
+
+          Manuscripts
+        
+
+Poems and stories
+Letters and postcards
+
+
+
+Timeline
+
+
+
+          Database
+        
+
+Search the database
+Book, magazine, audio lists
+
+
+
+Checklist
+
+
+
+          More
+        
+
+Poems, stories, interviews
+Art
+Photos
+Miscellany
+Vote for your favorite books
+FBI Files
+Map of homes and jobs
+
+About/Contact
+ Twitter feed
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Charles Bukowski poem and story database
+Betting on the MusePublished in 1996 by Black Sparrow PressSplash - pg. 13 - circa 1991The Women - pg. 15The Monkey - pg. 19Whistler - pg. 27The Pleasures Of The Damned - pg. 29 - circa 1962Those Marvelous Lunches - pg. 30 - circa 1991Panties - pg. 35The Dead Flowers Of Myself - pg. 38 - circa 1962Me Against The World - pg. 39The Snails - pg. 42Again - pg. 45The World War One Movies - pg. 46 - circa 1991To Hell And Back In A Buggy Carriage - pg. 50 - circa 1992Stages - pg. 52Escape - pg. 56Woman On The Street - pg. 58 - circa 1962Confessions Of A Coward - pg. 59 - circa 1956The Secret - pg. 66 - circa 1991Somebody Else - pg. 67A View From The Quarter, March 12th, 1965 - pg. 76Drink - pg. 80Black And White - pg. 89And All The Snow Melted - pg. 95 - circa 1969An Empire Of Coins - pg. 97A Nickel - pg. 101Nature Poem - pg. 106 - circa 1966Warning - pg. 108 - circa 1962Answer To A Note On The Dresser - pg. 109 - circa 1962You Don't Know - pg. 110Let Not - pg. 116The Death Of A Roach - pg. 118 - circa 1959The Unwritten - pg. 120Right Now - pg. 123The Sheep - pg. 124 - manuscript - 1991Piss - pg. 126 - circa 1993Last Fight - pg. 128Defining The Magic - pg. 131 - manuscript (differs from Black Sparrow book version) - 1991Writing - pg. 132 - manuscript - 1991Views - pg. 134The Strong Man - pg. 136 - 1991The Terror - pg. 141The Kiss-Off - pg. 143 - circa 1967Betting On The Muse - pg. 144The Unaccommodating Universe - pg. 147Met A Man On The Street - pg. 155 - manuscript - 1991Hell Is Now - pg. 156The Kid - pg. 161To Serve And Protect - pg. 164 - circa 1992Bad Day - pg. 167 - circa 1992The Dick - pg. 168Fall Of The Roman Empire - pg. 173People - pg. 176 - manuscript (differs from Black Sparrow book version) - circa 1991-1994Ransom - pg. 178 - 1975It's Difficult For Them - pg. 183 - circa 1991Think Of It - pg. 186 - circa 1991Chicken Giblets - pg. 188 - circa 1993The Lover - pg. 192 - circa 1990No Win - pg. 197 - circa 1993The Star - pg. 198 - circa 1984An Evaluation - pg. 204 - circa 1991Neon - pg. 206 - manuscript (differs from Black Sparrow book version) - 1990They Think This Is The Way It's Done - pg. 208The Pile-Up - pg. 209 - manuscript - 199112 Minutes To Post - pg. 210 - circa 1991As The Poems Go - pg. 211 - manuscript - 1991The Telephone - pg. 212 - manuscript (differs from Black Sparrow book version) - circa 1991-1994Hideaway - pg. 214This Dirty, Valiant Game - pg. 221Stay Out Of My Slippers, You Fool - pg. 225 - manuscript - 1992The Voice - pg. 227 - circa 1992The Bard Of San Francisco - pg. 233On Biographies - pg. 236A Real Break - pg. 238Avoiding Humanity - pg. 240 - circa 1991What Happened To The Loving, Laughing Girl In The Gingham Dress? - pg. 244The Luck Of The Word - pg. 259Bad Form - pg. 261Last Call - pg. 263 - circa 1992The Shape Of The Star - pg. 268Upon Reading A Critical Review - pg. 271Paris, What? - pg. 273 - circa 1992A Social Call - pg. 275The Girls We Followed Home - pg. 277 - manuscript - circa 1991-1994Slow Starter - pg. 279 - circa 1993Barstool - pg. 283Look Back, Look Up - pg. 286 - circa 1991Paris - pg. 290 - manuscript - 1991The Good Soul - pg. 292 - circa 1991Lousy Mail - pg. 294 - manuscript (differs from Black Sparrow book version) - circa 1991-1994The Suicide - pg. 296 - circa 1985Confession Of A Genius - pg. 309Traffic Report - pg. 316 - manuscript - circa 1991-1994 - circa 1991-1994Hands - pg. 318 - manuscript - 1991Final Score - pg. 320The Misanthrope - pg. 322Putting It To Bed - pg. 325 - manuscript (differs from Black Sparrow book version) - circa 1991-1994 - circa 1991The Trash Can - pg. 327Block - pg. 329 - manuscript - 1991Storm - pg. 331The Similarity - pg. 333 - circa 1992My Madness - pg. 334Pastoral - pg. 337Finis - pg. 339That Rare Good Moment - pg. 342 - circa 1992Doesn't Seem Like Much - pg. 345Strange Luck - pg. 347Until It Hurts - pg. 350 - manuscript (differs from Black Sparrow book version) - 1991Death In The Afternoon - pg. 351The Gods - pg. 360Floss, Brush And Flush - pg. 362 - circa 1992A Great Show - pg. 366Epilogue - pg. 371Fante - pg. 373It Got Away - pg. 375 - manuscript - 1991The Luck Of The Draw - pg. 376 - manuscript - 1991Let It Enfold You - pg. 378The 13th Month - pg. 388Finis, II - pg. 390The Observer - pg. 391August, 1993 - pg. 393This Night - pg. 394 - circa 1993Betting On Now - pg. 396Decline - pg. 398 - circa 1994In The Mouth Of The Tiger - pg. 399 - circa 1992The Laughing Heart - pg. 400 - circa 1993A Challenge To The Dark - pg. 401So Now? - pg. 402 - circa 1994
+
+
+
+
+Search Bukowski works database (searches titles only, see link below for advanced search and lists)
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Clear search
+
+
+
+
+
+
+
+
+
+Advanced search »
+
+
+
+Choose one of the following options to search only: Books Magazines Poems Short stories Manuscripts Uncollected work 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bukowski.net ©1995-2021 Hannah Phillips and Millionaire Brand Bathtub Gin. All rights reserved. 
+
+
+
+
+
+
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+

@@ -1,0 +1,829 @@
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charles Bukowski: The Last Straw (1980) -  | Synopsis, Characteristics, Moods, Themes and Related | AllMovie
+
+
+
+
+
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-7096127-2', 'auto');
+
+                                                ga('send', 'pageview', 'movie/charles-bukowski-the-last-straw-v474007');
+                                setTimeout("ga('send','event','adjusted bounce rate','page visit 15 seconds or more')",15000);
+                            
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-N7GN9NK');
+
+
+
+            (function(a,c,d,e){if(!a[c]){var b=a[c]={};b[d]=[];b[e]=function(a){b[d].push(a)}}})(window,'Scroll','_q','do');
+            Scroll.config = {
+                detected: document.cookie.indexOf("scroll0=") > -1
+            };
+        
+
+
+let catalystConfig = {
+site: 'cmn_allmovie',
+silo: 's_pop',
+zone: 'movie',
+tier: 'to,t2,internal',
+kw: 'blockadexfalse',
+isMobile: isMobile_AllMovie,
+exclude: '',
+toolbar: {
+theme: 'grey'
+}
+};
+if (document.cookie.indexOf('scroll0=') < 0) {
+(function(window,document) {
+if(!window.catalyst) {
+var ns = document.createElement('script');
+ns.src = '//media.complex.com/common/catalyst.js';
+ns.type = 'text/javascript';
+ns.async = true;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ns, s);
+window.catalyst = window.catalyst || {cmd: []};
+}
+})(window, document);
+}
+
+
+            (function() {
+                function async_load(script_url){
+                    var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                    var s = document.createElement('script'); s.src = protocol + script_url;
+                    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+                }
+                bm_website_code = '54B5E7261F7A43C0';
+                jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+                jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+            })();
+        
+
+            {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.allmovie.com/movie/charles-bukowski-the-last-straw-v474007",
+    "name": "Charles Bukowski: The Last Straw",
+    "image": "https://cps-static.rovicorp.com/1/adg/cov310/dru700/u728/u72832zktuz.jpg",
+    "genre": [
+        "Language &amp; Literature",
+        "Theater"
+    ],
+    "datePublished": "1980",
+    "keywords": "poet,writer",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 1,
+        "bestRating": "10.0",
+        "worstRating": "1.0",
+        "ratingValue": "9.0"
+    },
+    "duration": "PT1H14M"
+}        
+
+
+
+
+                AllMovie relies heavily on JavaScript.
+                Please enable JavaScript in your browser to use the site fully.
+            
+
+
+
+
+
+
+
+
+
+
+AllMovie
+
+
+
+
+
+
+
+
+
+
+
+
+New Releases
+
+
+
+
+
+
+In Theaters
+
+
+New on DVD
+
+
+New to Stream
+
+
+
+
+
+
+
+
+
+ 
+
+Discover
+
+
+
+
+
+Genres  ›
+
+
+Moods  ›
+
+
+Themes  ›
+
+
+
+
+
+
+
+
+
+
+
+Action
+
+
+Comedy Drama
+
+
+Comedy
+
+
+
+
+
+
+Horror
+
+
+Thriller
+
+
+Drama
+
+
+
+
+
+
+Science Fiction
+
+
+Romance
+
+
+Adventure
+
+
+
+
+
+
+Fantasy
+
+
+Children's/Family
+
+
+Crime
+
+
+
+
+
+
+Western
+
+
+Mystery
+
+
+All Genres
+
+
+
+ 
+
+
+
+
+
+
+Adrenaline Rush
+
+
+Blood and Gore
+
+
+Carnal Knowledge
+
+
+
+
+
+
+Comedy on the Edge
+
+
+Eyepoppers
+
+
+Fantastic Reality
+
+
+
+
+
+
+Head Trips
+
+
+In the Mood for Love
+
+
+Just for Fun
+
+
+
+
+
+
+Nail-biters
+
+
+Other Dimensions
+
+
+Pick-Me-Ups
+
+
+
+
+
+
+Tough Guys
+
+
+Trashy
+
+
+All Moods
+
+
+
+ 
+
+
+
+
+
+
+Cinderella Stories
+
+
+College Life
+
+
+Demonic Possession
+
+
+
+
+
+
+End of the World
+
+
+Forbidden Love
+
+
+High School Life
+
+
+
+
+
+
+Kidnapping
+
+
+Prostitutes
+
+
+Sexual Awakening
+
+
+
+
+
+
+Teachers & Students
+
+
+Teen Pregnancy
+
+
+Vampires
+
+
+
+
+
+
+Witches
+
+
+Zombies
+
+
+All Themes
+
+
+
+ 
+
+ 
+
+Articles
+
+
+
+
+
+
+Features
+
+
+Reviews
+
+
+Lists
+
+
+
+
+
+
+Watch Online
+
+
+News
+
+
+All Posts
+
+
+
+
+
+
+
+
+
+
+
+Recommendations
+
+
+Advanced Search
+
+
+
+
+
+
+
+Facebook
+
+
+Twitter
+
+
+RSS
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+                                var imageGallery = [{"width":"567","height":"800","url":"http:\/\/cps-static.rovicorp.com\/1\/adg\/cov584\/dru700\/u728\/u72832zktuz.jpg","title":"Charles Bukowski: The Last Straw","credit":""},{"width":"552","height":"800","url":"http:\/\/cps-static.rovicorp.com\/1\/adg\/cov584\/drv600\/v615\/v61592tolk9.jpg","title":"Charles Bukowski: The Last Straw","credit":""}];
+                            
+
+
+
+
+
+                                /* TFP - allmovie.com - white bg */
+                                (function() {
+                                    var opts = {
+                                        artist: "Charles Bukowski: The Last Straw",
+                                        song: "",
+                                        tv_term: "Charles Bukowski: The Last Straw",
+                                        adunit_id: 100000942,
+                                        div_id: "cf_async_" + Math.floor((Math.random() * 999999999))
+                                    };
+                                    document.write('<div id="'+opts.div_id+'"></div>');var c=function(){cf.showAsyncAd(opts)};if(typeof window.cf !== 'undefined')c();else{cf_async=!0;var r=document.createElement("script"),s=document.getElementsByTagName("script")[0];r.async=!0;r.src="//srv.clickfuse.com/showads/showad.js";r.readyState?r.onreadystatechange=function(){if("loaded"==r.readyState||"complete"==r.readyState)r.onreadystatechange=null,c()}:r.onload=c;s.parentNode.insertBefore(r,s)};
+                                })();
+                            
+
+
+
+                                /* TFP - allmovie.com - black bg */
+                                (function() {
+                                    var opts = {
+                                        artist: "Charles Bukowski: The Last Straw",
+                                        song: "",
+                                        tv_term: "Charles Bukowski: The Last Straw",
+                                        adunit_id: 100000940,
+                                        div_id: "cf_async_" + Math.floor((Math.random() * 999999999))
+                                    };
+                                    document.write('<div id="'+opts.div_id+'"></div>');var c=function(){cf.showAsyncAd(opts)};if(typeof window.cf !== 'undefined')c();else{cf_async=!0;var r=document.createElement("script"),s=document.getElementsByTagName("script")[0];r.async=!0;r.src="//srv.clickfuse.com/showads/showad.js";r.readyState?r.onreadystatechange=function(){if("loaded"==r.readyState||"complete"==r.readyState)r.onreadystatechange=null,c()}:r.onload=c;s.parentNode.insertBefore(r,s)};
+                                })();
+                            
+
+
+
+Watch or buy on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+MPAA Rating
+NR
+
+
+Category
+Performance
+
+Submit Corrections
+
+ 
+
+
+
+
+            Charles Bukowski: The Last Straw (1980) 
+
+
+
+
+                    Genres - Language & Literature, Theater  |  
+                
+
+                    Sub-Genres - Literary Studies  |  
+                
+
+                    Run Time - 74 min.  |  
+                
+
+                    Countries - United States   |  
+                
+
+                    MPAA Rating - NR
+
+
+
+
+AllMovie Rating
+
+
+
+
+
+                User Ratings (0)
+
+
+
+
+Your Rating
+
+
+
+
+ 
+
+
+            Overview
+            ↓
+
+
+
+
+            User Reviews
+            ↓
+
+
+
+
+                Cast & Crew
+                ↓
+
+
+
+
+                Releases
+                ↓
+
+
+
+
+            Related
+            ↓
+
+
+
+
+
+        Share on
+    
+
+
+facebook
+
+
+twitter
+
+
+
+
+
+
+ 
+
+            Synopsis
+                            by Jason Buchanan
+
+
+            Presented publicly for the very first time, Charles Bukowski's last public poetry reading comes home courtesy of videographer Jon Monday. The year was 1980, and as consumer grade video cameras began flooding the market, a record label releasing a Bukowski LP hired Monday to videotape a reading by the poet in Redondo Beach. Little did Monday realize that he would be capturing history on camera, and twenty-five years after that reading, poetry fans can see why Bukowski was truly one of the most talented and unpredictable writers of his generation. And while, technically speaking, it may be somewhat raw, this video account of Bukowski's swan song will be a priceless addition to the collection of any longtime fan.        
+
+
+
+Characteristics
+
+
+
+Keywords
+
+
+                                                                                                                        poet, writer            
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+Related Movies
+
+
+
+
+
+
+                            Similar To                        
+
+
+
+
+
+
+                            Similar To                        
+
+
+
+
+
+
+                            Related To                        
+
+
+
+See All Related Movies
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+AllMusic  | 
+                SideReel  | 
+                Celebified
+
+
+About  | 
+                FAQ  | 
+                Copyright Policy  | 
+                Advertise  | 
+                Privacy Notice  | 
+                Terms of Service |
+                Remove Ads
+
+
+                ©2021 AllMovie, Netaktion LLC  |  All Rights Reserved
+        
+
+
+
+
+
+
+            if (User.loggedIn) {
+                ga('set', 'dimension1', 'Yes');
+                                    ga('set', 'dimension4', 'No');
+                            } else {
+                ga('set', 'dimension1', 'No');
+            }
+        
+
+
+    var _comscore = _comscore || [];
+    _comscore.push({c1: "2", c2: "17343944"});
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+
+
+
+
+
+
+
+
+if (document.cookie.indexOf("scroll0=") < 0 && scroll_v7 == "no-scroll") {
+if ( isMobile_AllMovie ) {
+window.catalyst.cmd.push('loadAds',[
+['top', 'AllMovie_LB_Top'],['incontent', 'AllMovie_INCONT_1'],['footer', 'AllMovie_LB_Foot']
+]);
+} else {
+window.catalyst.cmd.push('loadAds',[
+['top', 'AllMovie_LB_Top'],['rect', 'AllMovie_R1'],['incontent_wide', 'AllMovie_LB_B1'],['incontent', 'AllMovie_INCONT_1'],['rect_sidebar', 'AllMovie_R2'],['footer', 'AllMovie_LB_Foot']
+]);
+}
+}
+
+
+
+    if (document.cookie.indexOf("scroll0=") < 0 && scroll_v7 == "no-scroll") {
+        document.write('<img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&cmp=2736444&sid=24324&plc=DV-RTHM20170324001&advid=2908534&region=30&btadsrv=rhythmone&app=appid&sup=sspid&DVP_DV_TT=2&DVP_DV_CT=1&DVP_APPID=NotApplicable&DVP_SSPID=NotApplicable&DVP_PUBID=NotApplicable&DVP_PP_BUNDLE_ID=NotApplicable&DVP_RO_SSPID=NotApplicable&DVP_PP_ORTB_PUB_ID=NotApplicable&DVP_RO_SITEID=NotApplicable&DVP_RO_TRAFFIC=NotApplicable&DVP_PP_DEAL_ID=NotApplicable&DVPX_PP_IMP_ID=NotApplicable&DVPX_PP_UID=NotApplicable&DVP_RO_CDID=NotApplicable&DVPX_PP_AUCTION_UA=Mozilla%2F5.0&DVP_PP_AUCTION_IP=10.128.0.3&turl=AllMovie.com&dvtagver=6.1.img" alt="" width="0" height="0">');
+    }
+
+
+
+        if (document.cookie.indexOf("scroll0=") < 0 && scroll_v7 == "no-scroll") {
+            $.ajax({
+                url:'https://pagead2.googlesyndication.com/pcs/activeview',
+                type:'HEAD',
+                error: function(){
+                                            ga('send', 'event', 'setCustomDimension', 1, {
+                            'dimension2': 'is_adblocking',
+                            'nonInteraction': true
+                        });
+                    
+                    // fire ad block detected GA event
+                    allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "User Has Adblock Enabled"]});
+
+                    if (!Cookie.read('adblock_dismiss')) {
+                        // fire ad block modal fires GA event
+                        allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "AdBlock Modal Fires"]});
+
+                        $.ajax({
+                            url: protocol + urlSubdomain + '.allmovie.com/blocker_check',
+                            type: 'GET',
+                            cache: false,
+                            success: function (data) {
+                                // append to body
+                                $(document).find('body').append(data);
+                                // lock body
+                                $(document).find('body').addClass('noscroll');
+                                document.getElementById('cmn-toolbar-wrap').style.zIndex = 20000;
+                            }
+                        });
+                    } else {
+                        allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "User Has AdBlock Dismiss Cookie"]});
+                    }
+                },
+                success: function(){
+                                            // success block
+                        ga('send', 'event', 'setCustomDimension', 1, {
+                            'dimension2': 'not_adblocking',
+                            'nonInteraction': true
+                        });
+                                    }
+            });
+                            // Log Scroll as No
+                ga('set', 'dimension3', 'No');
+                    } else if (document.cookie.indexOf("scroll0=") < 0) {
+                            ga('set', 'dimension3', 'No');
+                    } else {
+                            // set scroll to yes
+                ga('set', 'dimension3', 'Yes');
+                    }
+    
+
+

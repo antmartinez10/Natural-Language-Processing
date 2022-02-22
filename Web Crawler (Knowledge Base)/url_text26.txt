@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DPTLDW');
+
+Charles Bukowski poem manuscript: 
+ 
+
+
+
+
+
+
+bukowski.net
+
+
+
+
+
+
+Forum
+
+
+
+          Manuscripts
+        
+
+Poems and stories
+Letters and postcards
+
+
+
+Timeline
+
+
+
+          Database
+        
+
+Search the database
+Book, magazine, audio lists
+
+
+
+Checklist
+
+
+
+          More
+        
+
+Poems, stories, interviews
+Art
+Photos
+Miscellany
+Vote for your favorite books
+FBI Files
+Map of homes and jobs
+
+About/Contact
+ Twitter feed
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Charles Bukowski poem and letter manuscripts
+
+Return
+Return
+
+
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "CreativeWork",
+  "name": "",
+  "genre": "Poetry",
+  "description": "Charles Bukowski Poem manuscript: ",
+  "url": "https://bukowski.net/manuscripts/displaymanuscript.php?show=poem1991-00-00-roll-the-dice.jpg",
+  "isAccessibleForFree": "True",
+  "Author": "Charles Bukowski"
+}
+
+
+
+
+
+bukowski.net ©1995-2021 Hannah Phillips and Millionaire Brand Bathtub Gin. All rights reserved. 
+
+
+
+
+
+
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+

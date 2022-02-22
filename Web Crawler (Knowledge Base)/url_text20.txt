@@ -1,0 +1,347 @@
+
+
+
+
+
+
+Book Review: Ham on Rye by Charles Bukowski – Rene Mullen – Host of the Pen & Poet Podcast
+
+window._wca = window._wca || [];
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/renemullen.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.woocommerce-product-gallery{ opacity: 1 !important; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to the content
+
+
+
+
+
+
+
+Rene Mullen - Host of the Pen & Poet Podcast
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle mobile menu
+
+
+
+
+
+Toggle search field
+
+
+
+
+
+Search for:
+
+
+
+ 
+
+Home
+Pen and Poet Podcast
+News/Events
+Poem Blog
+Publications
+
+
+Home
+Pen and Poet Podcast
+News/Events
+Poem Blog
+Publications
+
+
+
+
+
+
+
+
+
+											Book Review: Ham on Rye by Charles Bukowski									
+
+August 14, 2014
+ / 
+renemullen
+ / 
+
+
+
+
+Every once in a while I come across a book that screws with my brain. Bukowski’s Ham on Rye did that to me.
+Ham on Rye by Bukowski
+A friend let me borrow a copy of Ham on Rye on the assumption that because I myself am quite the cynic I would fall in love with Bukowski as he has the same dark, twisted view on life. I had to stop reading Ham on Rye for a while about 50 pages in because he’s so brutally honest about the “working class” and crappy family life that it tended to hit a little too close to home. But jumping back into it recently I pushed through to the end to come to 2 very important realizations.
+1. Bukowski skirts a line between too crass and too simplistic as to almost be a terrible writer and a terrible story. Notice I said almost. Reading him was like eating great green chile. The first bite you love because the taste is heavenly and one of a kind. The second bite you’re hating life because of the pain and spice. It goes back and forth like that the entire experience. Same goes for Bukowski. Every so often, he’d say something so poignant that I fell in love with him. Other times his writing felt SO simplistic it was as if a 12 year old was writing it.
+Where do you draw the line between simplicity and crap writing? Don’t know. But it’s probably right around Bukowski. I tend to side with his philosophy. If you’re writing flowery words just to show what you can create with pretty phrases and million dollar grad school vocabulary, I see through your Bull, roll my eyes, and walk away. Too many writers do this. They think because they are artists they have to prove their intelligence and their mastery of the craft by building a soulless world with fancy words by no plot. To hell with that.
+2. The second realization has less to do with Bukowski directly and more to do with learning about myself…which is why we read, right?
+As mentioned, I read Ham on Rye because a friend loves him and thinks my dark humor follows Bukowski’s own dark humor. Which, she was mostly right about that. I’m a cynic who has no problem being a jerk to you if you’re a jerk. And I usually sugar coat it so most think I’m being funny.
+That said, I’m not like Bukowski. Not anymore.
+Bukowski believes that the world is crap (at least for the poor majority of humans). Everything is crap. It will only be crap. People are crap. Life is crap. Hell, crap is crap. The only thing to look forward to is death, after which you cease to exist. That is the only joy for those born outside of the 1%.
+This used to be me. I used to feel this way. I used to have this terrible view of the world. And though I do think most people are A-holes and that being at the bottom of the pig pile is awful and cruel, I can’t let myself believe that life only has crap to offer.
+I’ve seen true beauty in the world. It’s called the Southwest. I’ve seen amazing things from the most impoverished. I’ve seen the rare wealthy person act with true compassion.
+When I thought like Bukowski I was miserable! Now, though I act cynically and my humor is dark, it’s just a holdover from my terrible, no good, very bad days.
+Do I recommend Bukowski? Sure, if you’re interested in hating yourself and the life around you. Don’t get me wrong. His writing is brilliant. But, like Sylvia Plath, his writing can also make you want to stick your head in an oven and wait it out.
+Share this:Click to share on Facebook (Opens in new window)Click to share on Twitter (Opens in new window)Click to share on Google+ (Opens in new window)Click to share on Reddit (Opens in new window)MoreClick to email this to a friend (Opens in new window)Click to share on Pocket (Opens in new window)Click to print (Opens in new window)Click to share on Tumblr (Opens in new window)
+
+
+ Book Reviews
+
+
+Previous post
+							Book Review: “Unwind” by Neal Shusterman						
+
+Next post
+							Colorless Tsukuru Tazaki: A book review						
+
+
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+ Notify me of follow-up comments by email. Notify me of new posts by email. 
+
+
+
+
+
+
+
+
+
+
+SocialView renemullen’s profile on FacebookView @writermullen’s profile on TwitterView comparative’s profile on Instagram
+
+
+
+
+
+
+
+
+				© 2021 Rene Mullen – Host of the Pen & Poet Podcast
+
+
+Theme by Anders Noren — Up ↑
+
+
+
+
+
+
+
+		window.WPCOM_sharing_counts = {"http:\/\/renemullen.com\/book-review-ham-on-rye-by-charles-bukowski\/":707};
+	
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/renemullen.com","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+
+
+
+
+
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_506e1f8f9536c2b56023529922ab5e89","fragment_name":"wc_fragments_506e1f8f9536c2b56023529922ab5e89"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+
+
+
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-google-plus-1', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-pocket', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-tumblr', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+
+
+
+jQuery(function($) { 
+jQuery( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+				var productID = jQuery( this ).data( 'product_id' );
+				var productDetails = {
+					'id': productID,
+					'quantity': jQuery( this ).data( 'quantity' ),
+				};
+				_wca.push( {
+					'_en': 'woocommerceanalytics_product_view',
+					'blog_id': '62682936',
+					'pi': productDetails.id,
+					'ui': 'null',
+				} );
+				_wca.push( {
+					'_en': 'woocommerceanalytics_add_to_cart',
+					'blog_id': 62682936,
+					'pi': productDetails.id,
+					'pq': productDetails.quantity,
+					'ui': 'null',
+				} );
+			} );
+ });
+
+
+
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.9.2',blog:'62682936',post:'707',tz:'0',srv:'renemullen.com'} ]);
+	_stq.push([ 'clickTrackerInit', '62682936', '707' ]);
+
+

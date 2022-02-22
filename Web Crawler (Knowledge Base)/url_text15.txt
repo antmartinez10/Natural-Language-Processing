@@ -1,0 +1,120 @@
+
+
+
+
+
+
+archive.ph
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+       One more step
+      
+
+
+        Please complete the security check to access
+       
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+          Why do I have to complete a CAPTCHA?
+        
+
+          Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.
+        
+
+
+
+          What can I do to prevent this in the future?
+        
+
+
+
+          If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.
+        
+
+          If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.
+        
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+   var h = window.location.href;
+   if (!window.location.hash)
+     window.history.pushState('/','','/');
+   var onloadCallback = function() {
+     document.getElementById('g-host').innerText = window.location.host;
+     var widgetId = grecaptcha.render('g-recaptcha', {
+       'sitekey': '6LeQbtsSAAAAAHevV56qhVr_0JhQI7N-zTPoOoWJ', // my
+     //'sitekey': '6Lc7CQMTAAAAAIL84V_tPRYEWZtljsJQJZ5jSijw', // linkedin's
+       'callback': function(response) {
+         var xhr = new XMLHttpRequest();
+         xhr.open('POST', "/cdn-cgi/l/chk_captcha");
+         xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+         xhr.send('response='+encodeURIComponent(response)+"&location="+encodeURIComponent(h));
+         xhr.onload = function() { if (xhr.status == 200) { window.location.replace(h); } else grecaptcha.reset(widgetId); }
+         xhr.onerror = function() { grecaptcha.reset(widgetId); }
+       }
+     });
+   };
+
+   setInterval(function() {
+     var e = document.querySelector('body > div[style*="absolute"]');
+     if (e && e.style.left.match(/^-/))
+       e.style.left = "10px";
+   }, 1000);
+ 
+
+
+

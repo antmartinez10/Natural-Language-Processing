@@ -1,0 +1,2109 @@
+
+
+
+
+
+
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27517703-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+The Senseless, Tragic Rape of Charles Bukowski's Ghost by John Martin's Black Sparrow Press - mjp Books Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mjpbooks.com/blog/#website","url":"https://mjpbooks.com/blog/","name":"mjp Books Blog","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mjpbooks.com/blog/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://mjpbooks.com/blog/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press/#primaryimage","inLanguage":"en-US","url":"https://www.assoc-amazon.com/e/ir?t=charlebukowsa-20&amp;l=as2&amp;o=1&amp;a=0876851898","contentUrl":"https://www.assoc-amazon.com/e/ir?t=charlebukowsa-20&amp;l=as2&amp;o=1&amp;a=0876851898"},{"@type":"WebPage","@id":"https://mjpbooks.com/blog/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press/#webpage","url":"https://mjpbooks.com/blog/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press/","name":"The Senseless, Tragic Rape of Charles Bukowski's Ghost by John Martin's Black Sparrow Press - mjp Books Blog","isPartOf":{"@id":"https://mjpbooks.com/blog/#website"},"primaryImageOfPage":{"@id":"https://mjpbooks.com/blog/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press/#primaryimage"},"datePublished":"2013-06-18T22:44:18+00:00","dateModified":"2019-01-12T19:42:40+00:00","author":{"@id":"https://mjpbooks.com/blog/#/schema/person/70289fdfdd8dd069b32e601aa9344afa"},"breadcrumb":{"@id":"https://mjpbooks.com/blog/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mjpbooks.com/blog/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press/"]}]},{"@type":"BreadcrumbList","@id":"https://mjpbooks.com/blog/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mjpbooks.com/blog/"},{"@type":"ListItem","position":2,"name":"The Senseless, Tragic Rape of Charles Bukowski&#8217;s Ghost by John Martin&#8217;s Black Sparrow Press"}]},{"@type":"Person","@id":"https://mjpbooks.com/blog/#/schema/person/70289fdfdd8dd069b32e601aa9344afa","name":"Michael Jerome Phillips","image":{"@type":"ImageObject","@id":"https://mjpbooks.com/blog/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/4803570ea5182f4eb536caa11af18224?s=96&d=retro&r=x","contentUrl":"https://secure.gravatar.com/avatar/4803570ea5182f4eb536caa11af18224?s=96&d=retro&r=x","caption":"Michael Jerome Phillips"},"url":"https://mjpbooks.com/blog/author/mjp/"}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mjpbooks.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+.has-text-align-justify{text-align:justify;}
+
+
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+
+
+
+
+
+
+
+
+
+
+var related_posts_js_options = {"post_heading":"h4"};
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			
+
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			
+
+		p {color: #3f3f3f!important;font-family: 'Open Sans', sans-serif!important;font-size: 21px!important;font-style: normal!important;font-weight: 400!important;line-height: 1.5!important;} p {font-family: 'Open Sans', sans-serif;font-size: 21px;font-style: normal;font-weight: 300;line-height: 1.5;} h1 {color: #3f3f3f;font-family: 'Montserrat', sans-serif;font-size: 10px;font-style: normal;font-weight: 500;} h2 {color: #3f3f3f;font-family: 'Montserrat', sans-serif;font-size: 21px;font-style: normal;font-weight: 500;} h3 {font-family: 'Montserrat', sans-serif;font-style: normal;font-weight: 500;} h4 {} h5 {} h6 {} 	
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+mjp Books Main Site
+Podcast
+
+
+
+
+
+
+
+
+Back
+								
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+The Senseless, Tragic Rape of Charles Bukowski’s Ghost by John Martin’s Black Sparrow Press
+
+
+June 18, 2013January 12, 2019
+
+
+
+
+If you’ve ever read anything by Charles Bukowski, you no doubt remember the feeling you had the first time you came across his work. For better or worse, Bukowski is one of those authors who you don’t easily forget or ignore. Very few people are ambivalent about him.
+
+I have enjoyed reading Bukowski since I picked up South of No North out in the California high desert town of Joshua Tree more than 20 years ago and read the entire thing without once moving from the ratty old couch I was slouched into. You could say I became a fan that day.
+Bukowski died in 1994. But he was a ridiculously prolific poet, so his publisher, Black Sparrow Press, continued to release “new” poetry collections for 15 years after his death. Sounds like a sweet deal, doesn’t it? A seemingly endless stream of new books from a popular poet.
+
+But as I would read each of the posthumous books I couldn’t help feeling that they were a little off. Reading them could give you the distinct and uneasy feeling that maybe Bukowski had lost it when he had written this stuff. That the quality of his work began to slip at some point (forget for a moment that the books were not published in the order the poems were written).
+But thankfully, we have access to a lot of Bukowski’s poem manuscripts and a lot of other uncollected work in the Bukowski forum. And a funny thing happens when you start to compare the manuscripts (or literary magazine publications) with the posthumous Black Sparrow books – you see that a lot of things have been changed. And not for the better.
+In the posthumous collections, Black Sparrow publisher John Martin has made changes to the majority of Bukowski’s poems. Damaging changes that run counter to just about everything Bukowski represented. Wholesale removal of references to drinking, drugs, sex and madness. Changes that completely alter the meaning of the manuscripts. Changes that don’t even begin to make sense. It feels like nothing short of gleeful, unrepentant vandalism and destruction.
+
+I know what you’re thinking, “Yeah, dummy, that’s what editors do.” But Martin did not make changes to Bukowski’s work when Bukowski was alive to complain about it. He waited until Bukowski was safely in the ground, then he pranced out into the sunshine like a cute little baby bear after hibernation and commenced to shit all over the poems. You might say that’s a cowardly move, to wait until an artist dies before you start destroying their work, and I would agree with you.
+Now, when I bring this subject up among a certain crowd, they bristle. They become very defensive of Martin and downright antagonistic toward me while they list the many ways in which he is a wonderful man, a veritable saint some of them would have you believe. They weep and wail, “Why are you trying to drag his name through the mud?!”
+Of course I’m not dragging his name through the mud, I’m merely pointing out what he did, bringing it to light, and giving my opinion of his actions. And my opinion is that what Martin has done is nothing short of a literary crime.
+Martin will soon be dead and quickly forgotten, but his legacy of destruction will live on. 100 years from now people will still be picking up Bukowski books for the first time, and even though they won’t know or care who Martin was, they have a very good chance of suffering from his negative impact on much of Bukowski’s work. An impact that will be felt forever in half of Bukowski’s available poetry collections.
+I didn’t invent or create that legacy for Mr. Martin, he did it all by himself.
+Others make the point that it’s possible that it wasn’t Martin himself who was responsible for the changes. And indeed when Bukowski angrily complained about the changes Martin made to the novel Women, Martin blamed them on “lazy typists” (yes, he really said that). But according to the person who typeset all of those books, there was no laziness or sloppiness involved. And of course, no one would tolerate any such thing from a professional typesetter in a professional publishing house.
+
+Martin had to remove his changes from Women and publish a revised second printing. But if you read the original first edition, the one with Martin’s changes, they have the same amateur creative writing class stink that the posthumous poems do. I have come to recognize it as the stink of John Martin’s hand.
+(You can see a prime example of “the stink” at the end of this post. The words that have been removed are in the red boxes, the words that have been added are in green boxes. You decide whether the changes make the poem better.)
+Here’s the thing – whether he did it intentionally or simply allowed it to happen due to extreme negligence doesn’t even matter. He was the editor. The responsibility for the final product lies with him.
+I don’t pretend to know what he was thinking while he scribbled inane, flowery crap-language all over Bukowski’s manuscripts and chopped away at the guts of the things with his red pencil. Others who have spoken to him have noted his tendency to downplay any inaccuracies or mistakes in his books as unimportant. A wave of the hand and Saint John has officially dismissed you and your concerns.
+Which is tragic. That someone so simultaneously careless and willfully destructive can deface so much of the work of one of the 20th century’s most influential poets and no one thinks it matters, or they believe that nothing can be done.
+While it’s true that nothing can be done about the books that are out there now, something can be done. That something is letting people know that the posthumous poetry collections are tainted and that they should be read with that in mind.
+Honestly, I don’t think they should be read at all, but I know that’s unrealistic, so here’s all of this instead. Make of it what you will.
+But me, I’m sticking to the books that were published during Bukowski’s lifetime, the manuscripts and the literary magazines that published him without castrating him.
+
+For your convenience and edification, here is a list of all of Bukowski’s poetry collections, divided into two groups. The first group are Bukowski poems, read them, enjoy them, bask in their wonderfulness. The second group are John Martin poems. Don’t read from the second group if you can help it. John Martin is a shitty poet.
+Poetry collections that were published during Bukowski’s lifetime and remain mostly unmolested:
+The Days Run Away Like Wild Horses Over The Hills
+ Mockingbird Wish Me Luck
+ Burning in Water Drowning in Flame
+ Love is a Dog From Hell
+ Play the Piano Drunk Like a Percussion Instrument until the Fingers Begin to Bleed a Bit
+ Dangling in the Tournefortia
+ War All the Time
+ You Get So Alone at Times That It Just Makes Sense
+ The Roominghouse Madrigals
+ Septuagenarian Stew
+ The Last Night of the Earth Poems
+The dirty dozen posthumous Black Sparrow/Ecco books that should be avoided:
+Betting on the Muse
+Bone Palace Ballet
+What Matters Most is How Well You Walk Through the Fire
+Open All Night
+The Night Torn Mad With Footsteps
+Sifting Through The Madness For The Word, The Line, The Way
+The Flash of Lightning Behind the Mountain
+Slouching Toward Nirvana
+Come On In!
+The People Look Like Flowers At Last
+The Pleasures of the Damned
+The Continual Condition
+Don’t buy them, don’t read them, and if you already own them, throw them out into the yard for the gophers and weasels to tear up and use to make nests.
+Update: To clarify, the John Martin edits ended with The Continual Condition, so there are more recent posthumous poetry collections that you should seek out. These collections were edited by Abel Debritto, who used original sources such as manuscripts and early magazine appearances, and did not impose any of his own “creative editing” on the poems. They’re all worth reading:
+On Writing
+ On Cats
+ On Love
+ Essential Bukowski: Poetry (anthology of previously published poems)
+Storm for the Living and the Dead
+This article is about Bukowski’s poetry, but it should also be noted that the posthumous short story collections from City Lights books are faithful to what Bukowski wrote, and well worth your time:
+Portions from a Wine-Stained Notebook
+ Absence of the Hero
+ More Notes of a Dirty Old Man
+ The Bell Tolls for No One
+ The Mathematics of the Breath and the Way – On Writers and Writing
+And here’s the comparison I promised you earlier. The words outlined in red were removed from the manuscript version, the words outlined in green were added to the published version:
+
+Haven’t had enough of this subject? Try this related post, The senseless, tragic rape of Charles Bukowski’s ghost; the prequel.
+Click to share on Twitter (Opens in new window)Click to share on Facebook (Opens in new window)Click to share on Pinterest (Opens in new window)Click to share on Tumblr (Opens in new window)Click to share on Reddit (Opens in new window)Click to email this to a friend (Opens in new window)
+
+Related
+ 
+
+
+
+Post navigation
+Previous Post Previous post: Writing the world’s greatest novelNext Post Next post: Wasp Would Sting You
+
+
+
+
+		Join the Conversation		
+
+
+
+
+
+
+
+
+
+
+ 109 Comments
+
+
+
+
+
+
+
+
+chancepress says: 
+
+June 19, 2013 at 11:16 pm 
+
+
+It’s surprising to me how many people are able to maintain a nuanced view of Bukowski (recognizing that he had many failings as a person but was a phenomenal writer), but can’t adopt the same viewpoint regarding John Martin. Yes, he was instrumental in bringing Bukowski to the world’s attention, and we should all love him for that, but he shouldn’t get a free pass for the rest of his career as a result.
+
+
+Reply 
+
+
+
+
+mjp says: 
+
+June 20, 2013 at 12:32 am 
+
+
+No he shouldn’t. What he did after Bukowski’s death casts a pall over what he did while Bukowski was alive. And contrary to what a lot of people seem to believe, Bukowski would have become BUKOWSKI with or without Martin. He was far too ambitious to fail. What his success may have looked like without Black Sparrow, who knows. But the success would have come. I don’t think that’s debatable.
+
+
+Reply 
+
+
+
+
+ken riccio says: 
+
+May 6, 2014 at 10:06 pm 
+
+
+It’s the same old thing over and over, its about MONEY, now I like Martin but what he did is everything Bukowski was against. This tells ,e there is no loyalty from Martin , especially if you wait to after he is gone. the puzzling thing her is where is Linda in all this? just sitting by, I would think she holds all the copyrights . yes ? no ? Anyway this info here is all true I have seen some of buks books under the ecco name and they really are different .. this is a CRIME, A SHAME.. this is like altering Beethoven work !   SHAME ON YOU JOHN.
+
+
+Reply 
+
+
+
+
+
+
+ASKlein says: 
+
+June 20, 2013 at 10:21 am 
+
+
+great, great jeremiad that nearly shoots its own foot off with the stupid and unpoetic use of “rape” in the headline.
+
+
+Reply 
+
+
+
+
+mjp says: 
+
+June 20, 2013 at 11:59 am 
+
+
+Is that what they call a left handed compliment? I had to look up “jeremiad” to find out.
+As for being “unpoetic,” you have mistaken a blog post for poetry. It’s a common mistake when people come across writing as incomprehensibly beautiful as mine, I understand, but a mistake all the same.
+
+
+Reply 
+
+
+
+
+Emma Rayward says: 
+
+February 2, 2014 at 7:51 pm 
+
+
+and you’ve quite simply misunderstood what rape means. you should really consider the implications when using the term to refer to what is most definitely not rape.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+February 4, 2014 at 9:40 am 
+
+
+What are the implications? Maybe you were looking for a different word, because I don’t think that one makes any sense in this context. 
+I can only assume that people who go to the trouble of commenting that they are offended by the use of the word “rape” came to the article specifically to be offended, in which case, congratulations, your masochism has been rewarded. You’ve done your bit to save the world from the likes of an evil man like me. Now you can go have your latte with a clear conscience.
+
+
+Reply 
+
+
+
+
+Ghetto Cat says: 
+
+September 12, 2017 at 12:57 pm 
+
+
+First of all, I always kind of felt that Black Sparrow should have been called Black Vulture Press, so your article resonates with my own opinions.
+As for the use of the word “rape”, it could be in the sense that Alexander Pope used it, except in his epic Lord Petre never dyed or highlighted the lock after he’d appropriated it.
+I don’t think your post is a “jeremiad” as you state your case and supply numerous examples to support it. It’s not some collection of disparate complaints.
+
+
+
+
+
+
+
+
+
+harrytheconsultant says: 
+
+April 30, 2015 at 9:56 am 
+
+
+rape is something that happens to beauty, i think it is used correctly here
+its obvious that Martin is the long suffering wife who is exacting her revenge
+
+
+Reply 
+
+
+
+
+
+
+
+
+				Pingback: Grosse semaine – 22 juin 2013 | POÈME SALE 
+
+
+
+
+
+Dina known as Dora says: 
+
+June 22, 2013 at 11:48 am 
+
+
+My only question is: why. Why did John Martin do such a thing? I still can’t get it.
+I also had the same impression as you when reading the posthumous books, and I was lucky Roni told me about this literary murder before I started working on them for my thesis.
+By the way, I hope you will allow me to quote this article later, because I will have to justify why I didn’t study the last books. Thanks!
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+June 22, 2013 at 2:12 pm 
+
+
+I don’t think the “why” will ever be answered, since Martin claims no knowledge of the changes. We could speculate on why. But I’ve already heaped enough bad vibes on him to do that.
+
+
+Reply 
+
+
+
+
+Crys Stephens says: 
+
+November 27, 2017 at 7:51 pm 
+
+
+Maybe it was jealousy.  
+Bukowski’s writing is deep.  Its penetrating. Its reflective. Its real.
+Its moving. Its weighty.
+If I had to choose one word, it would be profound. 
+Martin… Well, his is clumsy. Its cloddy. Its uncomfortable. Its drab.  Its lacking. Its dim. Its unfortunate.
+In a word… Its shit. 
+So… Jealousy perhaps. Someone he wishes he was. On the other side of the desk.. in a chair he would never sit in — and rightfully so.
+“Amen!” … as they say. Well said.
+(Okay, I will admit it. Im laughing a little also)
+
+
+Reply 
+
+
+
+
+
+
+
+
+Mike says: 
+
+June 24, 2013 at 7:11 pm 
+
+
+I think the “why” is because Martin lived in Bukowski’s shadow for so long. The artistic control probably got to him. Especially because he probably felt equally responsible for Buk’s success, and to a degree, that’s probably true.
+Martin was a pretty good publisher – no one is denying that. And they both made good money – with all the “collectibles” and everything else Martin did to promote the man. It was built off the Webb’s, but Martin jumped right in – for starters, the letter included in the inside cover of At Terror Street & Agony Way. Either Martin or Bukowski wanted to stick the blade in – maybe it was both.
+The truth is, Gypsy Lou and Jon did not have the responsibility or commitment needed to securely handle Buk’s career. Martin did and Buk knew that.
+What Buk didn’t know is that someday he would get the same blade in the crotch — after Martin knew he could no longer fight back.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+June 24, 2013 at 8:02 pm 
+
+
+You could argue that Bukowski’s work ethic was more responsible for his success than any publisher. 
+Black Sparrow helped, City Lights helped. But he didn’t buy the house in San Pedro and the BMWs with Black Sparrow money. He bought those with foreign royalties, which far outweighed his domestic royalties.
+Not to say that Martin had nothing to do with making Bukowski more widely known, he had a lot to do with it, that is undeniable. But Bukowski did have offers from larger publishers which he turned down out of a sense of loyalty to Martin. And this article describes exactly how Martin ultimately repaid that loyalty. 
+Does the harm he did negate the good he did? I suppose that’s for history to decide.
+
+
+Reply 
+
+
+
+
+				Pingback: The senseless, tragic rape of Charles Bukowski'... 
+
+
+
+
+
+Danny Mac says: 
+
+June 26, 2013 at 12:59 pm 
+
+
+Dear mjp, Thanks so very much for your fibe detective work. You are to be commended. I am so glad I joined Bukowski dot net just in time to learn about John Martin’s hideous act of betrayal. One of my uncles who was Irish used to say, “never trust a man who doesn’t drinks.” This old phrase rings so true right here because John Martin was a straight-laced uptight square. This is sickening that Linda Lee aparently allowed this to happen? What’s up with that. That doesn’t sit well with me at all. Thankyou again mjp!
+
+
+Reply 
+
+
+
+
+Sangfroid says: 
+
+June 26, 2013 at 4:03 pm 
+
+
+It says on wiki that “Black Sparrow Press sold the rights to publish Bukowski, Bowles and Fante to HarperCollins Publishers in 2002. At this point, John Martin retired. Martin then sold the remainder of his inventory for $1.00 to David R. Godine, Publisher who adopted the name Black Sparrow Books.” The manuscript that’s so horribly mangled is 2006? Did John Martin actually edit that?
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+June 26, 2013 at 5:41 pm 
+
+
+Yes, he actually did. He edited all the posthumous poetry collections, even those published by HarperCollins/Ecco.
+
+
+Reply 
+
+
+
+
+
+
+BoDiddley says: 
+
+July 17, 2013 at 7:06 pm 
+
+
+To put it bluntly, and I think Charles would have the same passion for a response and might even use the same line, “someone should cut off Martins round ones up nice and tight!”
+Excuse me I cannot help myself having noticed it myself,  now I know the answer to the feeling I got many times in the later work.  Thank you
+
+
+Reply 
+
+
+
+
+Ramsey Campbell! says: 
+
+August 14, 2013 at 6:16 am 
+
+
+‘ I know what you’re thinking, “Yeah, dummy, that’s what editors do.” ‘
+Actually, I’m not. I’m thinking that very few have tried that sort of thing with me, and none has done it twice.
+
+
+Reply 
+
+
+
+
+Amanda says: 
+
+August 14, 2013 at 5:31 pm 
+
+
+“But Martin did not make changes to Bukowski’s work when Bukowski was alive to complain about it. He waited until Bukowski was safely in the ground, then he pranced out into the sunshine like a cute little baby bear after hibernation and commenced to shit all over the poems.”  This is bullshit! A person who does not understand a Poet’s mind, does not respect a Poet’s work, should never be allowed to touch or edit their works. I’d come back from my grave and smother someone with their  pillow if they tried to do this to my poetry after I pass from this already frustrating and castrating existence.
+
+
+Reply 
+
+
+
+
+Ian Anderson (@penforhireSD) says: 
+
+August 15, 2013 at 11:08 am 
+
+
+Unfinished, unpublished work should never be “edited”. Any imperfection should stand to give the audience latent insight into the writer’s process; any incomplete passages should be left to reader interpretation, whether mysterious or embarrassing.
+
+
+Reply 
+
+
+
+
+Howard Fredrics says: 
+
+August 16, 2013 at 5:05 am 
+
+
+This puts into perspective one of Bukowsi’s poems, “How to get rid of the purists,” which he wrote about me, but which was published posthumously in Bone Palace Ballet.  It always struck me that this poem ran counter to the letters he wrote to me, and so now I wonder whether or not the poem is as it is because of Martin, rather than being as a result of some poetic license taken by Bukowski himself.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+August 16, 2013 at 9:33 am 
+
+
+We don’t have a manuscript for that one (yet), but the odds are some part of it has been changed. Bone Palace Ballet is the first book where these kinds of changes start to become evident. In the following poetry collection, What Matters Most, they are pervasive.
+
+
+Reply 
+
+
+
+
+Howard Fredrics says: 
+
+August 16, 2013 at 10:54 am 
+
+
+I would LOVE to see that manuscript if and when you are able to get it.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+February 27, 2019 at 11:30 am 
+
+
+Here it is.
+
+
+Reply 
+
+
+
+
+
+
+
+
+John Melcher says: 
+
+August 16, 2013 at 11:45 pm 
+
+
+Howard, as this was one of the poems I set in “PlayThe Piano Drunk…”  I, too, wonder if I’ve helped perpetuae a fraud.  The others were “regardless” and “inverted love song.”  If I’m going to desecrate someone’s writing by putting it to music, at least I want to desecrate their actual work.
+The 3 poems on my album (out of 12) from the “bad books” are: 1) how to get rid of the purists (Bone Palace Ballet); 2) regardless (Slouching Toward Nirvana); 3) inverted love song (The People Look Like Flowers at Last). WHat’s troubling is, these don’t seem like minor edits to make them safer for a wider audience. They’re completely different. Did he win $400, or did he lose it?
+
+
+Reply 
+
+
+
+
+				Pingback: The senseless, tragic rape of Charles Bukowski’s ghost; the prequel | mjp Books 
+
+
+
+
+
+Chanel says: 
+
+September 6, 2013 at 11:26 am 
+
+
+this is not an appropriate use of the word rape.
+
+
+Reply 
+
+
+
+
+Lindsay says: 
+
+September 6, 2013 at 11:32 am 
+
+
+Another Bukowski fanboy using oh-so-offensive and oh-so-edgy language by completely misusing a word that should never have been used in the title of this piece. Instead, you only succeed in distracting from your point, which I might have commented on otherwise. Words are important. Use them wisely. This is not rape.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+September 6, 2013 at 12:22 pm 
+
+
+“Words are important. Use them wisely,” she says, immediately after laying down a few cliched insults.
+
+
+Reply 
+
+
+
+
+EmJay says: 
+
+September 21, 2016 at 3:07 pm 
+
+
+Unbelievable that people coming here to discuss BUKOWSKI get all PC and particular on the title of the blog entry. Pathetic.
+
+
+Reply 
+
+
+
+
+
+
+Mike says: 
+
+September 6, 2013 at 12:34 pm 
+
+
+Words hurt…
+
+
+Reply 
+
+
+
+
+Lucy says: 
+
+October 1, 2013 at 11:13 am 
+
+
+I worked for Black Sparrow in the 1970s. I can testify that John Martin was no writer then, and I cannot believe he became a writer later. His heavy editing (to be polite about it) of Bukowski’s work clearly hurts the poems, and the strangest thing is that, when we received Bukowski’s mss. in the 70s, John wouldn’t let anyone do more than correct the spelling (which became my job, since he was a notoriously bad speller). John was always a Xian Scientist, teetotaller, etc., and maybe these changes are his attempts to clean Hank up. But I agree it’s a travesty.
+
+
+Reply 
+
+
+				Pingback: The tragic flogging of a dead rape horse, a.k.a. locking the door on Bukowski’s ghost and throwing away the key | mjp Books 
+
+
+
+
+
+Russell says: 
+
+October 30, 2013 at 11:15 am 
+
+
+The extended use of “rape” for severe violation has a long-standing history and I’m not sure why, especially in this context, it seems objectionable. See the Oxford English Dictionary, which cites many examples, including the very similar use in a playwright’s complaint: “Sir, you have committed a rape upon my play”; and cf. the more contemporary use in Ronald Wright’s Stolen Continents: [Cortés] “persuaded the new men to join him in the rape of the Aztec Empire.”
+
+
+Reply 
+
+
+
+
+Ellis says: 
+
+December 26, 2013 at 10:49 am 
+
+
+Meh. I doubt any of bukowski’s thousands of booze stained pages from journals and napkins and sheets from typwriters all hold a firm singular version of any poem or prose. I doubt the differences stemmed entirely from Martin. Anyone who has written poetry or prose knows the scribbles and cross-outs and re-erased white-out lunacy that occurs. Which version was the author most fond of? An editor and publisher make their best guess.
+At least they weren’t lost to mice and weather.
+
+
+Reply 
+
+
+
+
+Mark Miller says: 
+
+January 4, 2014 at 12:51 am 
+
+
+Is it an established fact that the Charles Bukowski manuscripts cited here as a basis for gauging subsequent editorial changes, were not superseded by Bukowski’s own revisions?  Is it possible that CB himself made those changes, perhaps to galleys we are not privy to? Can someone set me straight on this? Thanks.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+January 4, 2014 at 6:26 pm 
+
+
+If you read the articles you’ll see that the changes being discussed are only present in the posthumous collections. So your question should be whether you believe that Bukowski only started making those kinds of “revisions” after he died. And the answer to that should be obvious.
+
+
+Reply 
+
+
+
+
+van zeller says: 
+
+January 17, 2014 at 4:31 pm 
+
+
+I wondered the same thing – do we know for sure there weren’t other versions lying around, that Martin (or someone else) perhaps tried to combine/merge?  Anyway, I’ve just read Betting on the Muse and Septuagenarian Stew and enjoyed both, so if they were over-edited, it didn’t ruin them for me.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+January 18, 2014 at 12:02 am 
+
+
+Neither one of those titles are in question. If you read the article you would know that. Whether Martin’s alteration of the works “doesn’t ruin them” for you (or anyone) isn’t really the point.
+
+
+Reply 
+
+
+
+
+
+
+
+
+thomas draschan says: 
+
+March 6, 2014 at 3:28 pm 
+
+
+thanks for making this public and for the detailed work. thank you for defending CB against this misuse of his writing. there is no way to justify this!
+
+
+Reply 
+
+
+
+
+babylondogs says: 
+
+May 24, 2014 at 3:54 pm 
+
+
+Thank you very much for pointing me in the right direction. I have grown fond of “The Pleasures of the Damned,” and now am rethinking things. I can only imagine John Martin raped this anthology as well. And yes, I think “rape” is an appropriate term. People need to stop getting offended; such weak self esteems.
+
+
+Reply 
+
+
+
+
+eimear mcglynn says: 
+
+September 8, 2014 at 5:25 pm 
+
+
+where can we find the untainted manuscripts? There’s a few poems from Bone Palace Ballet that I quite liked, but after reading this I would prefer if I could read the originals… any ideas?
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+September 8, 2014 at 5:32 pm 
+
+
+You might try the link in the article you’re commenting on. Just saying. 
+There are also book listings on bukowski.net, like this one for Bone Palace Ballet – that include links to manuscripts, when available.
+In general, this is a valuable resource: https://bukowski.net/database/
+
+
+Reply 
+
+
+
+
+eimear mcglynn says: 
+
+September 8, 2014 at 5:43 pm 
+
+
+Actually I had tried all of the links listed in the article, and had already trawled through the Bukowski database looking for the poems, but none of those particular poems had any links for manuscripts etc. Just thought you might have an easy link to the collections 🙂 thanks anyway
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+September 8, 2014 at 6:24 pm 
+
+
+Try this.
+
+
+Reply 
+
+
+
+
+
+
+
+
+
+
+Ana Karina says: 
+
+September 26, 2014 at 12:16 pm 
+
+
+Thanks for the list above of tainted x non-tainted works. I wonder if you could perhaps help me with a question. I want to buy some Bukowski and was wondering if I had to go and find the older editions, rather than the new ones? For example, “The Last Night of the Earth Poems” (link below) is part of your “not-tainted” list, but it has a newer edition (2002). Do you think this one is still intact? It says “Ecco” for publisher. The 1992 edition is also available, but it’s more expensive. Thanks and great post!
+
+
+Reply 
+
+
+
+
+Ana Karina says: 
+
+September 26, 2014 at 12:19 pm 
+
+
+oops, never mind. I figured it out! Your link of this title above is to the same book I found. Thanks again for providing the links!
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+September 26, 2014 at 1:49 pm 
+
+
+The Ecco versions of the non-posthumous books are fine, they correspond with the original Black Sparrow versions. For now, anyway.
+
+
+Reply 
+
+
+
+
+
+
+Richard Butler Mosher says: 
+
+October 9, 2014 at 8:44 pm 
+
+
+What a piece of shit. I remember those first few times reading these adulterated pieces of shit. I was disappointed and dumbfounded. They felt like some long lost manuscripts from a hidden era when he was trapped in some stifling and sterile nursing home and couldn’t stop staring at ‘this goddamned computer typer’ long enough to get an untainted line out. Or maybe during a heavy bout of sobriety he remorsefully and frantically started pumping out work which his daughter could show to friends as proof that he was not really a dirty old drunk, that it was all for show. Now I know what/who is at fault and now I get to read some Bukowski I have never read. It’s been a while.
+
+
+Reply 
+
+
+
+
+Mark Black says: 
+
+December 3, 2014 at 1:08 am 
+
+
+We have all come in contact with cunts like John Martin…what a shame that Bukowski did as well…
+I knew something was wrong !
+
+
+Reply 
+
+
+
+
+John Melcher says: 
+
+January 2, 2015 at 2:49 am 
+
+
+Is there any possibility that Bukowski made the changes?  The manuscript example you gave is from 1981.  Might he have gone through some of his work before his death to prepare them for publication?
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+January 2, 2015 at 3:42 pm 
+
+
+There are examples all the way to the end of his writing, into 1993, hundreds of them, and there are a lot more 1990s manuscripts that will be added to the site. It’s all there for anyone to see. Just compare the manuscripts to the posthumous books.
+To answer your question, might he have gone through old work to remove references to drinking and make the work pedestrian and lame? Sure, anything is possible. The question isn’t “is it possible,” the question is, “is it probable,” knowing what we know. The answer to that is no, it is absolutely not probable.
+He continued writing new poems up until a few weeks before he died. He did not make notations that some work should be “saved” for posthumous publication and he did not spend his last years going through his old work and making it shitty. Someone else did that.
+
+
+Reply 
+
+
+
+
+John Melcher says: 
+
+January 2, 2015 at 10:14 pm 
+
+
+I thought I had read somewhere that, at the end, he collected a lot of unpublished work for posthumous publication.  It does look like a vast amount of last-minute editing, and yet, one wonders why Martin would excise things that helped make him a fortune.  Anyway, I’ll hope for Harper-Collins to eventually publish a more definitive edition.
+
+
+Reply 
+
+
+
+
+
+
+
+
+maxbohemio says: 
+
+January 6, 2015 at 8:08 am 
+
+
+Michael Phillips has exposed THE MOST LOW DOWN BACKSTAB that any publisher can ever commit (heck, he was supposed to protect and insure the writers work!).   John Martins under the radar atrocities are now compounded with DESTRUCTION OF AN ARTISTS WORK with substandard and COMPLETELY ABSURD editing of work that stood on its own and DID NOT NEED SUBSTANDARD SLIMEBALL CHANGES that do not come close to the writers original INTENT and VOICE.  In my humble opinion this publishing practice is worse than outright plagiarism and makes John Martins legacy NULL AND VOID.  John, not even  posthumous payments to Buks wife make this ok.
+
+
+Reply 
+
+
+
+
+Henry R. Kujawa says: 
+
+February 5, 2015 at 6:27 am 
+
+
+It’s Stan Lee all over again. THIS is what the guy did to Jack Kirby’s writing for over 10 years, except, of course, Lee did far, far WORSE. And, stole credit and pay for it, so that the publisher could then claim they owned it.
+
+
+Reply 
+
+
+
+
+Larry "Ratso" Sloman says: 
+
+February 5, 2015 at 8:28 pm 
+
+
+From the example you cited above, the only way that Hank could have made those changes would be if he repented in hell and sent the revised poems back up here. The new tomes should change his author’s credit to Charles P.C. Bukowski.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+February 5, 2015 at 11:16 pm 
+
+
+Thanks for checking in, I remember hearing you on the Stern show back in the 90s. 😉
+You’re right, and the worst part is the example isn’t even one of the really butchered poems.
+
+
+Reply 
+
+
+
+
+John Melcher says: 
+
+February 5, 2015 at 11:39 pm 
+
+
+So, Linda Lee must know about this.  What’s her opinion?
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+February 6, 2015 at 7:58 am 
+
+
+Three or four new collections are coming out starting this fall. John Martin is not the editor of any of them, nor will he be the editor of any subsequent Bukowski books that are published. That’s her opinion.
+
+
+Reply 
+
+
+
+
+
+
+
+
+
+
+fred nemo says: 
+
+June 9, 2015 at 6:20 pm 
+
+
+have you petitioned wikipedia to add a little addendum to their bukowski article? just something like, “it has been suggested that his posthumous poetry collections have been excessively bowdlerized by his long-time editor” with a footnoted link to your stunning side-by-side example.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+June 9, 2015 at 6:40 pm 
+
+
+The wikipedia Bukowski entry is idiotic, and it always will be, because wikipedia is an idiotic concept. So no, I won’t be “petitioning” them to do anything. I’ll leave that up to you.
+
+
+Reply 
+
+
+
+
+
+
+Drew says: 
+
+January 20, 2016 at 8:35 pm 
+
+
+I’m curious, is this appalling over-stepping bullshit limited to posthumous books? I really hope this hasn’t happened to newer editions of his older books? Because if it’s only posthumous books, then I’m still relieved because Buk put out so much work when he was alive that there is still plenty of work to dive into. I’ll always give Martin respect for taking a chance on Bukowski and they both did good for themselves. As far as I understand it, Buk MADE Martin’s publishing career. They both pretty much went all in and came out on top. 
+The thing is, with this coming to light it would seem that Bukowski had the real integrity of character as he didn’t take advantage of Martin (as far as I know) and I’m still curious as to what state of mind or rationalization Martin was in to do such a weird thing? To “Bowdlerize” something is usually to remove unseemly content in a censorship capacity, because they feel uncomfortable or offended or feel the content is morally unsound. But Martin didn’t flinch to publish Buk’s raw, dirty low-life poetry. Maybe he just didn’t have the balls to censor Buk while he was alive but knew he could likely make it a good investment. But with this much time and proven writing, why censor it now? It doesn’t make sense. Did he feel a strange jealousy for his writing? That publishing a legendary writer alone wasn’t enough for Martin, and he felt he could almost cheat his way to writing “great” poetry by putting his own influence in there and hide it under the guise of “editing?” Because this isn’t editing, it really is like you said, a molestation, an insecure man who went from the technical overseer and facilitator to self-appointed judge and executioner. I don’t know, it really interests me in a psychological sense. Greed, or deep running rationalization or his own little personal masturbatory injection into a famous poets work to get himself off. 
+All in all this is pisses me off. Bukowski would be disgusted.
+
+
+Reply 
+
+
+
+
+mjpinla says: 
+
+January 20, 2016 at 11:46 pm 
+
+
+The later or current printings of the old books are fine, they weren’t changed.
+As for the “why” of it, there’s no answer to that. You might be able to explain away Martin removing references to drinking and drugs by assuming it was the Christian “Scientist” in him. But the only way to explain the vast majority of the changes is to assume – or understand – that John Martin thinks you’re an idiot and you need what Bukowski was writing about explained to you. And he seems to believe that applying his best junior college writing class skills to the work is the way to do that. 
+What becomes apparent after making a lot of these comparisons is that John Martin did not understand Bukowski’s poetry.
+
+
+Reply 
+
+
+
+
+
+
+aw says: 
+
+August 30, 2016 at 2:26 pm 
+
+
+Is Muse compromised since it came out in 96??  Thanks!!!
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+August 30, 2016 at 3:54 pm 
+
+
+Betting on the Muse is mostly untouched. Compared to the collections that came after it, anyway.
+
+
+Reply 
+
+
+
+
+
+
+Alec says: 
+
+January 19, 2017 at 7:15 am 
+
+
+Would the poems after 2002(when Martin retired) be okay to read??
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+January 19, 2017 at 12:49 pm 
+
+
+Anything is okay to read, you should just be aware of what was tampered with and what wasn’t. Martin did not retire in 2002, he continued to edit Bukowski’s poetry collections until 2009, so you’d be better served to avoid the books in the list in the article.
+But there is hope on the horizon. There are plans underway to reissue the posthumous collections, restoring the work to what Bukowski wrote. It may take years to complete all of the titles, but they will all be restored eventually.
+
+
+Reply 
+
+
+
+
+
+
+Keith Mahone says: 
+
+March 16, 2017 at 5:23 am 
+
+
+I find it surpassingly bizarre that so many Bukowski fans are like a cult worshiping some cult leader uncritically. Bukowski was a very sloppy writer who made terrible mistakes or just plain messes. The thing that endears him to many people, whether they know it or not, is his personality – apart from any consideration of his writing. His life was a charming trainwreck. Reading his narcissistic spew you get to follow a drunk around and get that “slice of life” insight into a world no one would have see without someone like him ranting and raving about it. But I wish many more people who actually write poetry would examine and discuss his work critically. Martin’s worst crime, as far as I’m concerned, is that, while B was alive – he published a bunch of trash to sell paper. After reading it all, I insist that about sixty percent of what B wrote was unsuitable for publication. They just were not well-crafted poems – because HELLO! – he didn’t craft anything. And his work is haunted by his low self-esteem, over-compensatory, egotistical drunken bullshitter narcissism/self-loathing. His work is obsessively autobiographical. He places himself in the company of great writers who actually knew what they were doing – unlike him. Etc. I think his greatest appeal is being willing to make a spectacle of himself. And if he is a drunken lecher and a poet, it seems many of his fans are attracted more to the drunken debauchery and just assume the poetry is the work of a genius. I could undertake a line by line, word by word analysis of his work and show you why most of it was just a poorly-read, self-obsessed drunk typing. But most would dismiss that, having joined the B cult and drunk the kool aid. He is my fourth major American poet along with Frost, Cummings, and now Collins. But this is because I boil his writing down to about twenty percent of what was published under his supervision – and it’s good enough to land him in that spot for me. But I have to grade on a curve because he is such a mess. People say he was prolific, but that’s easy to explain – he just kept charging forward where other poets would hang onto their stuff, consider it, revise it, discard some of it, etc. B published his trash – and that’s an insult to readers – forcing them to search through a haystack to find the needles. The great tragedy of B’s poetry is that there is too muuch of it at the expense of less work that is more crafted and polished and excellent. I’d like to add that after I read all B’s poetry (his fiction is just not publishing quality) I began to read the stuff that was being published posthumously and I immediately recognized it as a scam. I read Slouching Toward Nirvana and resolved to buy none of the trash that was being published after B died because first of all – Martin selfishly published two or three terrible pieces for every decent specimen just to sell paper and stretch the page count while B was alive. So it defied reasoning  that the stuff held back from publication could be any good. When you add the overwhelming urge for many publishers to try to cash in on someone’s fame by abusing readers with everything they can find in wastepaper baskets around the home of the deceased, it just proves to be too much of a temptation for a hack like Martin to resist.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+December 2, 2017 at 8:14 am 
+
+
+> I could undertake a line by line, word by word analysis of his work and show you why most of it was just a poorly-read, self-obsessed drunk typing.
+I suspect that anyone who would entertain the idea of “undertak[ing] a line by line, word by word analysis” of anything would find fault, since that’s usually the purpose of such an undertaking, undertaken by bloodless undertakers.
+The world is full of people who criticize Bukowski’s writing because they spent a lot of time and (their family’s) money being educated, and along comes this ugly, drunken, common laborer who couldn’t even finish community college, yet he can write circles around them. It fills them with a limp academic anger, which reveals itself in their “criticism.”
+Not you of course, Keith Mahone, those other people. You’re different.
+
+
+Reply 
+
+
+
+
+Guy Ryan Harrelson says: 
+
+July 19, 2019 at 5:17 am 
+
+
+What an outstanding response. I am sincerely impressed and vicariously entertained.
+
+
+Reply 
+
+
+
+
+
+
+
+
+Cary Bertoncini says: 
+
+May 3, 2017 at 8:40 pm 
+
+
+Emily Dickinson’s poems suffered similar treatment, and the argument could probably made with many other famous examples – Billy Budd, Sailor by Melville among them. It is annoying and perhaps even abhorrent for many of us, but it is absolutely not without precedent. In Dickinson’s case, later versions truer to her originals later came out. Is this possible with Bukowski’s work?
+
+
+Reply 
+
+
+
+
+John Smith says: 
+
+May 4, 2017 at 5:18 am 
+
+
+Moby Dick was heavily rewritten in the British First Edition. But it was for specific reasons (sexual references, religious, etc.)  Looking at the Martin changes, one is hard pressed to understand his motive. He’s not censoring really.  Reminds me of an old boss who used to rewrite everything I wrote, just so he could feel he had better writing chops.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+May 4, 2017 at 12:11 pm 
+
+
+> He’s not censoring really.
+What would you call removing references to drinking, drugs and insanity then if it’s not censoring?
+
+
+Reply 
+
+
+
+
+
+
+Michael Phillips says: 
+
+May 4, 2017 at 12:17 pm 
+
+
+> it is absolutely not without precedent. 
+I did not say it was unprecedented. I’m not sure why people feel compelled to keep making that non-point.
+> In Dickinson’s case, later versions truer to her originals later came out. Is this possible with Bukowski’s work?
+Anything is possible, isn’t it. The question is, is it likely. And the answer is, absolutely not. The evidence is abundant and perfectly clear.
+
+
+Reply 
+
+
+
+
+
+
+chrisjarmick says: 
+
+May 8, 2017 at 11:10 am 
+
+
+I wish it was possible to get attention without coming up with overly dramatic titles – but it isn’t.  I perhaps would have use something like The posthumous back-stabbing and betrayal. . . . but what is actually important is the information that is shared here.  It is very disturbing (which in a way justifies completely the blog post title).   I hope the un-edited poems are released at some point.  And maybe there’s a path now to doing just that.. thanks to the publicity this article should generate.    Thanks very much for writing this and letting this travesty be better known.  Kudos!
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+May 8, 2017 at 12:17 pm 
+
+
+You may be happy to learn that there is a behind-the-scenes move underway to re-release the posthumous titles with corrected text (and additional poems, similar to the way “remastered” music albums are marketed). It is being spearheaded by Abel Debritto, who edited the last four Bukowski collections released by Ecco (On Writing, On Cats, On Love and Essential Bukowski), along with a collection of previously uncollected poems due to be published on November 7th (Storm for the Living and the Dead).
+
+
+Reply 
+
+
+
+
+Nehal says: 
+
+August 25, 2020 at 9:37 am 
+
+
+could you please tell a bit about the novels… are they unmolested??  if not then could you give a list of those novels that are unmolested
+
+
+Reply 
+
+
+
+
+Michael Jerome Phillips says: 
+
+September 27, 2020 at 8:16 am 
+
+
+All of the novels are edited. one is closer to the original than the others: https://bukowskiforum.com/threads/women.1968/
+
+
+Reply 
+
+
+
+
+
+
+Al Mohan says: 
+
+July 24, 2021 at 10:42 am 
+
+
+Hello (from France).
+As far as I can see not much has happened since your post, except for “The Mathematics of the Breath and the Way: On Writers and Writing” (2018) and “On Drinking” (2019).
+Would you have more up-to-date news about unMartined Hank books?
+Anyway THANK YOU for the great blog.
+Al Mohan
+
+
+Reply 
+
+
+
+
+
+
+
+
+George says: 
+
+July 11, 2017 at 12:25 pm 
+
+
+This made me nauseous and fuming mad. The chorizo burrito I just ate is possibly involved somehow, but this is truly disappointing, at least at first consideration. 
+The flip-side is that I get to re-read a bunch of Bukowski at some point in the near future and that it will be even better than the first time around.
+
+
+Reply 
+
+
+
+
+Aileen says: 
+
+September 8, 2017 at 1:31 am 
+
+
+What doesn’t surprise or astound me, sadly, is not a single submission to your post questioned your accusation. Each person swallowed whole both your allegation and appraisal of Mr. Martin. I wonder, did you speak with John? Did you give him a chance to respond? What was your relationship to Black Sparrow Press before this post and after?
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+September 8, 2017 at 8:09 am 
+
+
+> not a single submission to your post questioned your accusation.
+That’s not true, so I’ll have to assume that you didn’t read all of the comments on the article(s).
+Even if it were true, why would it “surprise or astound” you? Perhaps the people who “swallowed whole” the “allegation and appraisal of Mr. Martin” have eyes and minds and souls and feel animosity toward wrongdoing. That’s a normal human response, isn’t it?
+The real question might be why you wouldn’t believe it. What’s your relationship to Martin? People who know or are friendly with him seem to spring to his defense without ever considering the possibility that he may have acted in a way that is disrespectful or destructive. Why do you refuse to even consider that possibility?
+It’s a tough pill to “swallow whole,” I get it, but eventually you have to come to grips with the idea that no one is perfect and innocent, the earth isn’t flat, and a great bearded god in the sky did not create you from the rib bone of the first man.
+But I have faith in you Aileen, and I know that one day you will see the light and testify from the highest mountain top with a heart full of love and a clear conscience the very truth that has been revealed to you here.
+
+
+Reply 
+
+
+
+
+maxbohemio says: 
+
+May 22, 2021 at 11:37 am 
+
+
+Michael, your responses and great humanity are very much appreciated.  Here’s hoping for the best and being able to accept the worst when it comes to visit.  ^5
+
+
+Reply 
+
+
+
+
+
+
+maxbohemio says: 
+
+May 22, 2021 at 11:35 am 
+
+
+Aileen,  how can you defend a man that paid and gifted you in exchange for what?  If you really followed this thread from the beginning and noted CHANGES John made posthumously on literature he could have NEVER written himself; shame on you for not understanding what’s going on here.  Good thing other secrets (hidden and possibly forgotten) are buried somewhere beyond exposure and recognition , eh?   Perhaps you can’t relate because you’ve never poured your heart and soul into anything that was written art or maybe you just have no respect for others original creations.   Take some time to rethink and good luck with your conscience on these matters.  All the best to you.
+
+
+Reply 
+
+
+
+
+
+
+Steve C says: 
+
+December 2, 2017 at 5:45 am 
+
+
+Thank you for bringing this to light. Run with the hunted is one of my favorite collections, and based on the 1994 date I believe it’s safe. From all of the poems and stories I’ve read, in his early years he was constantly starving, only working when he had to because he was always trying to connect his words to some deeper meaning, always listening to classical masters and reading the classics to come up with his own interpretations in everyday life. So to have someone come in and change CBs original words, even in the slightest, is to completely disrespect and throw away all those hours and all that suffering to create what CB thought was art. I appreciate you helping me find only the purest forms of CBs efforts. I feel like I’ve been violated in some way, as Ive held onto CBs words for years.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+December 2, 2017 at 8:02 am 
+
+
+> based on the 1994 date I believe it’s safe.
+There are problems with every book edited by John Martin, so that anthology is no different. The problems just became much worse after Bukowski’s death.
+
+
+Reply 
+
+
+
+
+
+
+Paul Vincent says: 
+
+January 29, 2018 at 1:28 am 
+
+
+Arsehole, it’s like changing thou shalt not kill. To please don’t walk on the grass.
+
+
+Reply 
+
+
+
+
+Sinan says: 
+
+May 10, 2018 at 12:25 pm 
+
+
+Hello Michael Phillips, came across this blog post while searching stuff about Bukowski, well written!
+I was wondering if the ‘On Cats’ you mentioned was one of the ‘to be avoided’ list you mentioned? I couldn’t exactly understand if it was one of the ‘changed’ ones. It’s a posthumous collection but it’s unchanged? Or not? I just got my copy yesterday and was curious about this, thanks in advance.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+May 10, 2018 at 2:10 pm 
+
+
+On Cats was not edited by John Martin, so it is more faithful to Bukowski’s original manuscripts.
+Thanks, I’ll update the article to make that more clear.
+
+
+Reply 
+
+
+
+
+
+
+J.R. says: 
+
+August 16, 2018 at 2:33 pm 
+
+
+I could tell you some stories about that guy John Martin who basically just lucked into Bukowski and never even really got his writing as your article clearly reveals. I’ve heard from people that know Martin, two friends of his, that he proudly bragged about re writing some of Bukowski’s work. John Martin is the un named publisher in fact in the introduction written by Terry Zwigoff to the second edition of my book Below the Line. Robert Crumb painted the cover for that book just after he’d finished illustrating “The Captain is out to Lunch” in ‘97 for Black Sparrow. Crumb and I are now good friends and he has since then painted three more covers for my other published books and he is my biggest supporter. He knew Bukowski and Martin. Crumb and Zwigoff took Martin out to dinner and pushed him to publish Below the Line in ‘98 and he agreed. Then Martin called Crumb at Terry’s house in SF and chickened out the NEXT day saying he was very afraid Black Sparrow would get sued which Crumb wrote to me saying that was a horse shit cop out in a letter I still have (RC and I have about 400 pages of letters to each other now). Crumb took it to Ron Turner then at Last Gasp who republished it in 2000. Crumb and Terry also gave John Martin the manuscript to my auto bio novel/memoir “Finding the Cure for Cancer”. Martin then wrote to me and then he called me on the phone but we almost immediately got into a huge fight. He basically told me there was “too much drug use in the book” he said “especially cocaine.” I had to laugh and when I mentioned all the times the drug alcohol is in Bukowski’s books (and other drugs) the guy just started yelling at me that alcohol is a different drug (no shit) and flipped out. He also said though I was “great with dialogue, your tone is too harsh. Bukowski had more humor in his writing.” Again, I couldn’t   believe the man who published Bukowski was saying these things and I tried to explain that there is actually a lot of humor in my stuff and that that is exactly why Robert Crumb thinks it’s so funny! So then Martin goes into a long tirade putting down Crumb and says “Let me tell you something about your new friend Crumb and what HE thinks is funny. I was driving in a car with Crumb one day…” and told me some long derogatory story about Robert I won’t repeat here. John Martin struck me as a completely phony nut. Martin must have felt guilty though because he then sent me a couple of huge boxes of Black Sparrow books, twice, with letters but I never wrote him back. And that book he rejected? It just got published this year by Liveright/ WW Norton under the new title “Bad Jobs and Poor Decisions.” So, fuck John Martin. Bukowski was always way too loyal to him. J.R. Helton. San Antonio, Texas 2018
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+September 17, 2018 at 12:37 pm 
+
+
+I suppose someone can be “too loyal,” but I don’t know that Bukowski ever turned down a bigger, more appropriate publisher in deference to Martin. It’s good to bear in mind too that the real, unapologetic rape happened after Bukowski was six feet under. If it had happened at such a scale when he was alive, I think that loyalty would have been tested. 
+Which would seem to be exactly why Martin waited until Bukowski couldn’t complain to begin his gutting of the work.
+
+
+Reply 
+
+
+
+
+
+
+Uriah says: 
+
+September 17, 2018 at 5:06 am 
+
+
+This is the only blog I have ever read that actually has real value to it. You don’t know how many times I have read Bukowski got soft later. If you read his work, see his films, and watch all his interviews, you know he was vehemently against that, he would have stopped writing had he felt he was loosing his touch. This should be a history lesson to everyone, not only that people will change your work, your message, lie about what you stood for, but that few people fact check, no one will come to your aid when you are gone, and that history is meaningless, except to see example after example of self servicing rewrites, and blatant slandering reinterpretation in lies. What you are doing here, exposing the mechanism for which humanity has pissed its own history away, by choice, over and over, to power ego, this is exactly why I quit reading any history at all, and now listen to the words from archeologist directly from their mouths. Humanity are fucking traitors to the self, traitors to each other, the past and the future, for words, humanities word ain’t worth shit; big lies for stupid people to swallow. How you came to not be just another swallower, is a triumph miracle story in it self. I can’t thank you enough, I can’t praise you enough, you have went beyond these lies, and you now side with truth against a just go along majority. Already look at all the herd apes that have come here to try and stop you, discourage you, make it seem like this isn’t important. They like eating shit, they love being word slaves, and pronoun gimps, being pimped out under the sponsor gun is most peoples only lot in life. Thank you for standing up to the tyranny of human hubris ego. Michael Phillips thank you.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+September 17, 2018 at 12:42 pm 
+
+
+> Humanity are fucking traitors
+We can’t say Bukowski didn’t warn us:
+one tombstone for the mess,
+I say:
+humanity, you never had it
+from the beginning.
+
+
+Reply 
+
+
+
+
+
+
+Astrophil says: 
+
+September 30, 2018 at 8:15 pm 
+
+
+My! It’s too easy to be a prophet after the fact, but like many others here i have to say: i knew it! I read a couple of the posthumous collections and there was definitely a feeling of something amiss there. It wasn’t so much that the usual content was different. Even if it was (of which i am not sure) i never thought that all the drinking and copulating was the most interesting part of the work anyway, and, actually, in the above example at least, the elision of references to drinking forms just a tiny part of the intervention.
+     It was rather the style and the rhythm that seemed to have gone downhill. This may sound like a strange complaint, but the things didn’t seem to scan at all! They appeared, for example, to lack those intermittent outbursts of fairly conventional metre that, in my view, drive some of the most powerful lines in the older work, E.g.: ‘what puts the blackbird in the cat’s mouth / is not for us to say.’ Or: ‘thinking they’re tough/thinking they’re men/but really closer to their mother’s tits/than to a true evaluation of existence!’ Now, there seemed to be none of that (and given the sort of irrelevant stuffing-in that Mr Martin’s editorial practice seems to have consisted in, one can see why). Stranger still, the author himself was insisting that he felt his writing was getting better with age. Had he lost it? Was he lying? Had i myself grown older and dumber? A mystery!
+     Of course, the quality of that work, when properly presented, remains to be seen. In any case, what makes the whole thing downright mind-boggling is the absolute randomness and pointlessness of the changes shown here. One can perhaps explain the (apparently limited) ‘bowdlerisartion’ but why on earth would anyone change a $40 loss to a $400 gain at the track? What’s the point of that? So, respect to Mr Martin for making Buk’s career possible in the first place, but shame on him, and shame again, for this inexplicable violation.
+
+
+Reply 
+
+
+
+
+Astrophil says: 
+
+October 4, 2018 at 8:22 am 
+
+
+I would like to add a calmer afterthought in fairness to Mr Martin (to whom, as I already mentioned, we, Bukowski fans, have a great lot to be grateful for). Although the above example of editing is rather outrageous, a much more thorough study, with many more examples, would be needed to demonstrate it is not merely an unfortunate, isolated instance of editorial malpractice. Thanks
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+October 4, 2018 at 9:49 am 
+
+
+Hundreds of comparisons have been done. The unfortunate fact is the above example is far from an “isolated instance.” There was – beyond any doubt – a systematic, consistent rewriting of the poems in the posthumous collections.
+To cite just one example of many, we have 75 manuscripts from Sifting Through the Madness, all 75 poems were rewritten by Martin in the collection.
+Read these examples and see what kind of conclusion you draw:
+https://bukowski.net/comparisons/
+https://bukowskiforum.com/forums/poem-comparisons.53/
+
+
+Reply 
+
+
+
+
+
+
+Tan Geers says: 
+
+October 18, 2018 at 8:52 pm 
+
+
+Martin should be hung by the neck til dead. He had NO right to do what he did and any who defend him should be hung as well!
+
+
+Reply 
+
+
+
+
+James Smith says: 
+
+February 26, 2019 at 1:38 pm 
+
+
+Up to the last Black Sparrow volume (The Night Torn Mad With Footsteps) I have a sense that the old Hank’s still there. Starting with Sifting Through the Madness… (the first HarperCollins/Ecco title) it feels as thought the work has gotten really anodyne, that the spirit is completely gone. I wonder how much the sale to a  large mainstream house had to do with that.
+
+
+Reply 
+
+
+
+
+Michael Phillips says: 
+
+February 27, 2019 at 11:14 am 
+
+
+The sale of Black Sparrow Press didn’t really have anything to do with the changes. Martin continued to edit the collections even after the sale, up to, and including The Continual Condition. 
+The increase in edits started immediately after Bukowski’s death and is evident in the first posthumous collection, Betting on the Muse. You may not feel them until after The Night Torn Mad With Footsteps, but they are there. Four years earlier, in 1997’s Bone Palace Ballet, virtually every poem shows evidence of the destructive tampering. Same thing with The Night Torn Mad With Footsteps.
+So the sale of the company was unrelated as far as this issue is concerned. And to HarperCollins/Ecco’s credit, when Linda was made aware of Martin’s destructive editing and complained about it, they put an end to his editorial involvement.
+
+
+Reply 
+
+
+
+
+
+
+Uriah aka Heavenly Kidd says: 
+
+June 16, 2020 at 7:31 pm 
+
+
+In light of what is happening here today, and me having my youtube account suspended for linking to truth against the lies of powers that be, those who can’t, those who wish they could, do, create, write, because they are now in the parasitic process of digging their greedy, grubby, filthy, academic proboscis vomit into our truth, and sucking the blood life right from our history, art, intelligence, and digesting it into a bland corporate slop, canned goods out the fifty star steak house real masters of the trades and arts suffered and died for, spit on, sucked up, shit out waste. They are now in deals with what is real, what exists, what is supposed to be our futures legacy, with big wigs at the top of every food and movie chain intent on doing the old Hollywood in and out, call the next writer in, in and out, next! in and out, raping our text, molesting the little characters that link and form our words into truth and understanding, defiling our very language at the root of its history, to prop themselves up like shit that just wound down from some great ass above, shitting down to lord over us, feed us their rewrite venom, pacify the mind with word poison and spin, all the while winding up for the pivotal strike amid distractions. The reason for this is you’ll be in the belly of the beast before you see them for the clockwork, wound, predator snakes they are, their pit, their cave, full of what little they allow you to stomach. What is happening is an end to enlightenment, a way to keep us from learning from mistakes, a discrimination against the voice of the people, even the ones deep in the streets, it is a war against the preservation of truth, justice, and reality, to keep us down, dumb, illiterate, I.E. victims- gagged and lolled into a fantasy. Cause no one from the streets can stand pretentious shit from academic know it all phonies, so they won’t read it and won’t learn to read, and will lose truth, history, meaning, as a default, the serpent den trickle down. In light of this attack, once more I have to commend what is happening here, preservation of fought for and hard survived truth above the conspiracy of false change. I have yet to hear a single writer stand up, speak out, show some balls for fucks sake you cowards, even the ones I have personally contacted and showed books rewrote to a pulp of their intended wording, why I don’t know, cause they are next, the next ones whose books going to get the old in and out revision. It reminds me of Philip K Dicks Radio free Albumuth, they have ghost writers who will write your books for you increasingly more conservative so it looks like people grow more conservative with age and seems plausible that every artists gets hackier with time. Keep up the fight.
+
+
+Reply 
+
+
+
+
+JR Helton says: 
+
+October 8, 2020 at 8:18 pm 
+
+
+I’m the writer JR Helton and two years ago, I gave a detailed truthful no bullshit account of people who I know and am friends with, Robert Crumb and Terry Zwigoff,  who knew and worked with Martin and Bukowski. I also wrote about my own interactions as a writer with Martin on this site. I am curious now as to who or what mjpbooks.com is. Is this a blog/ website? Or a publisher ? or Bukowski fan site or what? Just curious.
+J. R. Helton
+
+
+Reply 
+
+
+
+
+Michael Jerome Phillips says: 
+
+October 8, 2020 at 11:13 pm 
+
+
+Comment of the year, thanks.
+You’re “curious,” but not curious enough to click the navigation links. Got it. That’s a low-grade kind of curiosity, isn’t it. Like, you want to say you’re curious but can’t be bothered to actually be curious.
+Impressive.
+
+
+Reply 
+
+
+
+
+
+
+Joaquim E. Oliveira says: 
+
+January 1, 2021 at 4:10 pm 
+
+
+Poetry isn’t supposed to be edited, at all.
+
+
+Reply 
+
+
+
+
+mark says: 
+
+January 3, 2021 at 11:03 am 
+
+
+what a bunch of fucking babies. armchair editors and little girls. get over it and quit thinking you know everything. stupid article.
+
+
+Reply 
+
+
+
+
+Hannah says: 
+
+January 3, 2021 at 12:57 pm 
+
+
+Thanks for the thoughtful feedback, Mark. But you might consider getting over it and finding some way to quit thinking you know everything. You may have more success in your personal relationships if you take that approach. But you know, to each his own. Say ‘hi’ to Mr. Martin.
+
+
+Reply 
+
+
+
+
+maxbohemio says: 
+
+May 22, 2021 at 11:46 am 
+
+
+mark,  your name is one amazingly appropriate label since you’re as off the wall crooked as any other supporters of a certain prevaricating politician or anyone that defends or supports vandalism of real original ART.   ( DEFINITION…..mark ; an easy target or victim. and yes, you’re a silly mark)  you’d probably celebrate and defend brushstrokes that would destroy the most sacred artworks of humanity.
+
+
+Reply 
+
+
+
+
+Leave a comment
+
+ 					Cancel reply
+
+
+
+
+
+
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					
+
+
+
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed. Leave a comment
+
+
+
+
+
+
+
+
+Historical Price-Lists for Gibson Electric Guitars - How much does a guitar cost?Categories
+
+Art (25)
+
+Audio (3)
+
+Books (16)
+
+Internet (48)
+
+Movies (10)
+
+Music (34)
+
+My Life and How Great It Is (56)
+
+Other Stuff (14)
+
+Podcasting (7)
+
+Politics (18)
+
+Religion (8)
+
+Television (8)
+
+The Human Race (68)
+
+Transgender (1)
+
+Writing (23)
+
+
+ 
+
+
+mjp Books Blog,
+						
+				Proudly powered by WordPress.			
+
+
+
+
+		window.WPCOM_sharing_counts = {"https:\/\/mjpbooks.com\/blog\/the-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press\/":1898};
+	
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+
+
+
+
+var JQLBSettings = {"showTitle":"1","showCaption":"1","showNumbers":"1","fitToScreen":"0","resizeSpeed":"400","showDownload":"0","navbarOnTop":"0","marginSize":"0","slideshowSpeed":"4000","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+
+
+
+
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+
+
+
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-tumblr' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-tumblr' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+
+
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	
+
+
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=49696275&postid=1898&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=retro&greeting=%C2%A0&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=10.2&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=64e160238f9b283eac484ec9209bfd20494169c7#parent=https%3A%2F%2Fmjpbooks.com%2Fblog%2Fthe-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=49696275&postid=1898&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=retro&greeting=%C2%A0&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=10.2&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=64e160238f9b283eac484ec9209bfd20494169c7#parent=https%3A%2F%2Fmjpbooks.com%2Fblog%2Fthe-senseless-tragic-rape-of-charles-bukowskis-ghost-by-john-martins-black-sparrow-press%2F";
+					}
+				};
+
+				
+				if ( 'undefined' !== typeof addComment ) {
+					addComment._Jetpack_moveForm = addComment.moveForm;
+
+					addComment.moveForm = function ( commId, parentId, respondId, postId ) {
+						var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ),
+							cancelClick, cancel;
+
+						if ( false === returnValue ) {
+							cancel = document.getElementById( 'cancel-comment-reply-link' );
+							cancelClick = cancel.onclick;
+							cancel.onclick = function () {
+								var cancelReturn = cancelClick.call( this );
+								if ( false !== cancelReturn ) {
+									return cancelReturn;
+								}
+
+								if ( ! comm_par ) {
+									return cancelReturn;
+								}
+
+								comm_par = 0;
+
+								tellFrameNewParent();
+
+								return cancelReturn;
+							};
+						}
+
+						if ( comm_par == parentId ) {
+							return returnValue;
+						}
+
+						comm_par = parentId;
+
+						tellFrameNewParent();
+
+						return returnValue;
+					};
+				}
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								frame.style.height = event.data + 'px';
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								frame.style.height = event.data + 'px';
+							});
+						}
+					}
+				})
+
+			})();
+		
+
+
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.2',blog:'49696275',post:'1898',tz:'-7',srv:'mjpbooks.com'} ]);
+	_stq.push([ 'clickTrackerInit', '49696275', '1898' ]);
+
+
+

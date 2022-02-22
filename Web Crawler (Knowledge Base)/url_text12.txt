@@ -1,0 +1,841 @@
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver (1979) - Dennis Del Torre | Synopsis, Characteristics, Moods, Themes and Related | AllMovie
+
+
+
+
+
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-7096127-2', 'auto');
+
+                                                ga('send', 'pageview', 'movie/charles-bukowski-theres-gonna-be-a-god-damn-riot-in-here-live-in-vancouver-perf-v474008');
+                                setTimeout("ga('send','event','adjusted bounce rate','page visit 15 seconds or more')",15000);
+                            
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-N7GN9NK');
+
+
+
+            (function(a,c,d,e){if(!a[c]){var b=a[c]={};b[d]=[];b[e]=function(a){b[d].push(a)}}})(window,'Scroll','_q','do');
+            Scroll.config = {
+                detected: document.cookie.indexOf("scroll0=") > -1
+            };
+        
+
+
+let catalystConfig = {
+site: 'cmn_allmovie',
+silo: 's_pop',
+zone: 'movie',
+tier: 'to,t2,internal',
+kw: 'blockadexfalse',
+isMobile: isMobile_AllMovie,
+exclude: '',
+toolbar: {
+theme: 'grey'
+}
+};
+if (document.cookie.indexOf('scroll0=') < 0) {
+(function(window,document) {
+if(!window.catalyst) {
+var ns = document.createElement('script');
+ns.src = '//media.complex.com/common/catalyst.js';
+ns.type = 'text/javascript';
+ns.async = true;
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ns, s);
+window.catalyst = window.catalyst || {cmd: []};
+}
+})(window, document);
+}
+
+
+            (function() {
+                function async_load(script_url){
+                    var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                    var s = document.createElement('script'); s.src = protocol + script_url;
+                    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+                }
+                bm_website_code = '54B5E7261F7A43C0';
+                jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+                jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+            })();
+        
+
+            {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.allmovie.com/movie/charles-bukowski-theres-gonna-be-a-god-damn-riot-in-here%21-live-in-vancouver-v474008",
+    "name": "Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver",
+    "image": "https://cps-static.rovicorp.com/1/adg/cov310/dru700/u728/u72833aejk4.jpg",
+    "genre": [
+        "Language &amp; Literature",
+        "Theater"
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "url": "https://www.allmovie.com/artist/dennis-del-torre-p609564",
+            "name": "Dennis Del Torre"
+        }
+    ],
+    "datePublished": "1979",
+    "keywords": "poet,writer",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 1,
+        "bestRating": "10.0",
+        "worstRating": "1.0",
+        "ratingValue": "9.0"
+    },
+    "duration": "PT1H37M"
+}        
+
+
+
+
+                AllMovie relies heavily on JavaScript.
+                Please enable JavaScript in your browser to use the site fully.
+            
+
+
+
+
+
+
+
+
+
+
+AllMovie
+
+
+
+
+
+
+
+
+
+
+
+
+New Releases
+
+
+
+
+
+
+In Theaters
+
+
+New on DVD
+
+
+New to Stream
+
+
+
+
+
+
+
+
+
+ 
+
+Discover
+
+
+
+
+
+Genres  ›
+
+
+Moods  ›
+
+
+Themes  ›
+
+
+
+
+
+
+
+
+
+
+
+Action
+
+
+Comedy Drama
+
+
+Comedy
+
+
+
+
+
+
+Horror
+
+
+Thriller
+
+
+Drama
+
+
+
+
+
+
+Science Fiction
+
+
+Romance
+
+
+Adventure
+
+
+
+
+
+
+Fantasy
+
+
+Children's/Family
+
+
+Crime
+
+
+
+
+
+
+Western
+
+
+Mystery
+
+
+All Genres
+
+
+
+ 
+
+
+
+
+
+
+Adrenaline Rush
+
+
+Blood and Gore
+
+
+Carnal Knowledge
+
+
+
+
+
+
+Comedy on the Edge
+
+
+Eyepoppers
+
+
+Fantastic Reality
+
+
+
+
+
+
+Head Trips
+
+
+In the Mood for Love
+
+
+Just for Fun
+
+
+
+
+
+
+Nail-biters
+
+
+Other Dimensions
+
+
+Pick-Me-Ups
+
+
+
+
+
+
+Tough Guys
+
+
+Trashy
+
+
+All Moods
+
+
+
+ 
+
+
+
+
+
+
+Cinderella Stories
+
+
+College Life
+
+
+Demonic Possession
+
+
+
+
+
+
+End of the World
+
+
+Forbidden Love
+
+
+High School Life
+
+
+
+
+
+
+Kidnapping
+
+
+Prostitutes
+
+
+Sexual Awakening
+
+
+
+
+
+
+Teachers & Students
+
+
+Teen Pregnancy
+
+
+Vampires
+
+
+
+
+
+
+Witches
+
+
+Zombies
+
+
+All Themes
+
+
+
+ 
+
+ 
+
+Articles
+
+
+
+
+
+
+Features
+
+
+Reviews
+
+
+Lists
+
+
+
+
+
+
+Watch Online
+
+
+News
+
+
+All Posts
+
+
+
+
+
+
+
+
+
+
+
+Recommendations
+
+
+Advanced Search
+
+
+
+
+
+
+
+Facebook
+
+
+Twitter
+
+
+RSS
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+                                var imageGallery = [{"width":"570","height":"800","url":"http:\/\/cps-static.rovicorp.com\/1\/adg\/cov584\/dru700\/u728\/u72833aejk4.jpg","title":"Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver","credit":""}];
+                            
+
+
+
+
+
+                                /* TFP - allmovie.com - white bg */
+                                (function() {
+                                    var opts = {
+                                        artist: "Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver",
+                                        song: "",
+                                        tv_term: "Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver",
+                                        adunit_id: 100000942,
+                                        div_id: "cf_async_" + Math.floor((Math.random() * 999999999))
+                                    };
+                                    document.write('<div id="'+opts.div_id+'"></div>');var c=function(){cf.showAsyncAd(opts)};if(typeof window.cf !== 'undefined')c();else{cf_async=!0;var r=document.createElement("script"),s=document.getElementsByTagName("script")[0];r.async=!0;r.src="//srv.clickfuse.com/showads/showad.js";r.readyState?r.onreadystatechange=function(){if("loaded"==r.readyState||"complete"==r.readyState)r.onreadystatechange=null,c()}:r.onload=c;s.parentNode.insertBefore(r,s)};
+                                })();
+                            
+
+
+
+                                /* TFP - allmovie.com - black bg */
+                                (function() {
+                                    var opts = {
+                                        artist: "Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver",
+                                        song: "",
+                                        tv_term: "Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver",
+                                        adunit_id: 100000940,
+                                        div_id: "cf_async_" + Math.floor((Math.random() * 999999999))
+                                    };
+                                    document.write('<div id="'+opts.div_id+'"></div>');var c=function(){cf.showAsyncAd(opts)};if(typeof window.cf !== 'undefined')c();else{cf_async=!0;var r=document.createElement("script"),s=document.getElementsByTagName("script")[0];r.async=!0;r.src="//srv.clickfuse.com/showads/showad.js";r.readyState?r.onreadystatechange=function(){if("loaded"==r.readyState||"complete"==r.readyState)r.onreadystatechange=null,c()}:r.onload=c;s.parentNode.insertBefore(r,s)};
+                                })();
+                            
+
+
+
+Watch or buy on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+MPAA Rating
+NR
+
+
+Category
+Performance
+
+Submit Corrections
+
+ 
+
+
+
+
+            Charles Bukowski: There's Gonna Be a God Damn Riot in Here! Live in Vancouver (1979) 
+
+                Directed by 
+Dennis Del Torre 
+
+
+
+
+
+                    Genres - Language & Literature, Theater  |  
+                
+
+                    Sub-Genres - Literary Studies  |  
+                
+
+                    Run Time - 97 min.  |  
+                
+
+                    Countries - United States   |  
+                
+
+                    MPAA Rating - NR
+
+
+
+
+AllMovie Rating
+
+
+
+
+
+                User Ratings (0)
+
+
+
+
+Your Rating
+
+
+
+
+ 
+
+
+            Overview
+            ↓
+
+
+
+
+            User Reviews
+            ↓
+
+
+
+
+                Cast & Crew
+                ↓
+
+
+
+
+                Releases
+                ↓
+
+
+
+
+            Related
+            ↓
+
+
+
+
+
+        Share on
+    
+
+
+facebook
+
+
+twitter
+
+
+
+
+
+
+ 
+
+            Synopsis
+                            by Jason Buchanan
+
+
+            Re-discovered during the production of John Dullaghan's 2003 documentary Bukowski: Born into This, Dennis B. Del Torre's videotaped account of the poet's last reading outside of the United States sat in the Bukowski's archives for nearly twenty-five years before finally being released to the public. The year was 1979. Del Torre had arranged a screening of a recent Bukowski appearance for his friends when he realized, to his horror, that the tape of the performance did not exist. Determined to capture on of Bukowski's readings on camera for posterity, Del Torre invited the writer back to Vancouver. Much to his delight, Bukowski accepted. Later, at an old hall in the Downtown Eastside on Hastings Street, a crowd of 650 people gathered to see what would few at the time suspected would be an historical performance, Del Torre's video camera rolling to capture the entire evening for posterity. Now, for the first time ever, Bukowski fans can own that performance for themselves, and revisit the author's spoken word any time they wish.        
+
+
+
+Characteristics
+
+
+
+Keywords
+
+
+                                                                                                                        poet, writer            
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+Related Movies
+
+
+
+
+
+
+                            Similar To                        
+
+
+
+
+
+
+                            Similar To                        
+
+
+
+
+
+
+                            Related To                        
+
+
+
+See All Related Movies
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+AllMusic  | 
+                SideReel  | 
+                Celebified
+
+
+About  | 
+                FAQ  | 
+                Copyright Policy  | 
+                Advertise  | 
+                Privacy Notice  | 
+                Terms of Service |
+                Remove Ads
+
+
+                ©2021 AllMovie, Netaktion LLC  |  All Rights Reserved
+        
+
+
+
+
+
+
+            if (User.loggedIn) {
+                ga('set', 'dimension1', 'Yes');
+                                    ga('set', 'dimension4', 'No');
+                            } else {
+                ga('set', 'dimension1', 'No');
+            }
+        
+
+
+    var _comscore = _comscore || [];
+    _comscore.push({c1: "2", c2: "17343944"});
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+
+
+
+
+
+
+
+
+if (document.cookie.indexOf("scroll0=") < 0 && scroll_v7 == "no-scroll") {
+if ( isMobile_AllMovie ) {
+window.catalyst.cmd.push('loadAds',[
+['top', 'AllMovie_LB_Top'],['incontent', 'AllMovie_INCONT_1'],['footer', 'AllMovie_LB_Foot']
+]);
+} else {
+window.catalyst.cmd.push('loadAds',[
+['top', 'AllMovie_LB_Top'],['rect', 'AllMovie_R1'],['incontent_wide', 'AllMovie_LB_B1'],['incontent', 'AllMovie_INCONT_1'],['rect_sidebar', 'AllMovie_R2'],['footer', 'AllMovie_LB_Foot']
+]);
+}
+}
+
+
+
+    if (document.cookie.indexOf("scroll0=") < 0 && scroll_v7 == "no-scroll") {
+        document.write('<img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&cmp=2736444&sid=24324&plc=DV-RTHM20170324001&advid=2908534&region=30&btadsrv=rhythmone&app=appid&sup=sspid&DVP_DV_TT=2&DVP_DV_CT=1&DVP_APPID=NotApplicable&DVP_SSPID=NotApplicable&DVP_PUBID=NotApplicable&DVP_PP_BUNDLE_ID=NotApplicable&DVP_RO_SSPID=NotApplicable&DVP_PP_ORTB_PUB_ID=NotApplicable&DVP_RO_SITEID=NotApplicable&DVP_RO_TRAFFIC=NotApplicable&DVP_PP_DEAL_ID=NotApplicable&DVPX_PP_IMP_ID=NotApplicable&DVPX_PP_UID=NotApplicable&DVP_RO_CDID=NotApplicable&DVPX_PP_AUCTION_UA=Mozilla%2F5.0&DVP_PP_AUCTION_IP=10.128.0.3&turl=AllMovie.com&dvtagver=6.1.img" alt="" width="0" height="0">');
+    }
+
+
+
+        if (document.cookie.indexOf("scroll0=") < 0 && scroll_v7 == "no-scroll") {
+            $.ajax({
+                url:'https://pagead2.googlesyndication.com/pcs/activeview',
+                type:'HEAD',
+                error: function(){
+                                            ga('send', 'event', 'setCustomDimension', 1, {
+                            'dimension2': 'is_adblocking',
+                            'nonInteraction': true
+                        });
+                    
+                    // fire ad block detected GA event
+                    allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "User Has Adblock Enabled"]});
+
+                    if (!Cookie.read('adblock_dismiss')) {
+                        // fire ad block modal fires GA event
+                        allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "AdBlock Modal Fires"]});
+
+                        $.ajax({
+                            url: protocol + urlSubdomain + '.allmovie.com/blocker_check',
+                            type: 'GET',
+                            cache: false,
+                            success: function (data) {
+                                // append to body
+                                $(document).find('body').append(data);
+                                // lock body
+                                $(document).find('body').addClass('noscroll');
+                                document.getElementById('cmn-toolbar-wrap').style.zIndex = 20000;
+                            }
+                        });
+                    } else {
+                        allmovie.gaTrackEvent({data: ["AdBlock", "Interaction", "User Has AdBlock Dismiss Cookie"]});
+                    }
+                },
+                success: function(){
+                                            // success block
+                        ga('send', 'event', 'setCustomDimension', 1, {
+                            'dimension2': 'not_adblocking',
+                            'nonInteraction': true
+                        });
+                                    }
+            });
+                            // Log Scroll as No
+                ga('set', 'dimension3', 'No');
+                    } else if (document.cookie.indexOf("scroll0=") < 0) {
+                            ga('set', 'dimension3', 'No');
+                    } else {
+                            // set scroll to yes
+                ga('set', 'dimension3', 'Yes');
+                    }
+    
+
+

@@ -1,0 +1,35 @@
+*<
+[cdata[* var cmcontexturl 'gppalgrave' *]]>* palgrave *<
+[cdata[* documentdocumentelementclassname documentdocumentelementclassnamereplace'nojs' 'js' *]]>* shareddatalayer ["session""authentication""loginstatus""logged out""customevents"[]"page""shareddatalayer""present""user""segment""profile"] function sprmergecurrent update objectkeysupdateforeachfunctionkey currenthasownpropertykey typeof current[key] === 'object'
+current[key] instanceof array sprmergecurrent[key] update[key] else current[key] update[key] return current appdatalayer ['geocountrycode' 'us'] shareddatalayer shareddatalayer || [] datalayer sprmergeshareddatalayer appdatalayer functionwdsliw[l]=w[l]||[]w[l]push'gtmstart' new dategettimeevent'gtmjs'var f=dgetelementsbytagnames[0] j=dcreateelementsdl=l='datalayer'
+'l='+l''jasync=truejsrc= 'httpswwwgoogletagmanagercomgtmjsid='+i+dl+'gtm_auth=e7qtxrpoot0mebatmdbbwqgtm_preview=env1gtm_cookies_win=x'fparentnodeinsertbeforejf windowdocument'script''datalayer''gtmw65kpz' *<
+[cdata[* nojs productgraphic lazy display block linkimage color #333333 linkimage lookinsidebadge color #ffffff cmsteaser color #333333 cmsrowmultiline6 productteaser productinformation display none *]]>* *<
+[cdata[* var trackedaffiliates ['ppcgoogle adwords3epr653sm' 'affiliatecommissionjunction3epr868en' 'pdmsoquero3epr653' 'ppcgoogle adwordsepr653googleshopping_product_en' 'ppcgoogle adwords3epr653dal' 'affiliatezanox3epr868de' 'ppcgoogle adwords3epr653gmt' 'affiliatecommissionjunction3epr868de' 'ppcgoogle adwordsepr653googleshopping_product_ch' 'pdmchanneladvisor3epr653' 'bannerbanner rtb3epr653sociomantic' 'ppcgoogle adwordsepr653googleshopping_product_de' 'affiliatezanox3epr868en' 'ppcgoogle adwords3epr653it' 'ppcgoogle adwords3epr653fr' 'ppcbing3epr632dsppcdal' 'ppcgoogle adwords3epr653west' 'ppcgoogle adwordsepr653googleshopping_product_uk' 'bannerbanner rtb3epr653criteo' 'ppcbing3epr632west' 'ppcbing3epr632dal'] var generalcookiedomain 'palgravecom' *]]>* wwwpalgravecom *<
+[cdata[* #basketwidget float left display inlineblock position relative #basketwidget flyoutcaptionbefore display none #basketwidget flyoutcaptionafter margintop 2px *]]>* loading cart empty
+find products shopping cart
+total€23999 view cart <li> <div class="cartitem"> <div class="cover"> covertemplate <div>< ><div class="title"> titletemplate <p class="description">description<p> <p class="quantity"> resourcesquantity quantity <p> <div>< ><div class="totalprice">price<div> <div> <li> <a datahref="productlinkfragment"> <img datasrc="coverurl" width="41" alt="title"> <a> <img datasrc="coverurl" width="41" alt="title"> login account bookshelf login subjects business economics humanities politics international studies social science publishing us book authors journal authors palgrave macmillan worldclass publisher books journals 175 years’ experience humanities social sciences
+collection books journal articles magazine content amplifies black voices issues raised black lives matter movement black lives matter supporting global covid19 response direct access latest available research data resources delve research us politics know
+us politics elections daily deal save 90% ebooks ireland climate crisis 999 8559 get deal
+free worldwide shippingimmediate ebook downloadsdaily deals discount promotions shop >> join newsletter short history palgrave explore social science hub latest releases brief history olstein 2021 format ebook softcover 2460 researching virtual play experiences bailey 2021 format ebook hardcover 9308 great promise educational technology mamlok 2021 format ebook hardcover 7489 rules contracts law enforcement ottoman empire altay
+et al
+2021 format ebook hardcover 4600 government communications crisis trust garland 2021 format ebook hardcover 8559 phenomenological revision harris's dialectical holism schofield
+2021 format ebook hardcover 9308 regionalizing global human rights norms southeast asia sundrijo da
+2021 format ebook hardcover softcover 6239 capacity building maritime security bueger et al
+eds
+2021 format ebook hardcover softcover 7279 race class gender immigrant identities education wynn
+et al
+2021 format ebook hardcover 8559 money laundering terrorist financing tax evasion campbell 2021 format ebook hardcover 9308 musical entanglements germany east asia cho jm
+ed
+2021 format ebook hardcover 9629 rule law emergency colonial india inagaki 2021 format ebook hardcover 8559 brazilindia renewable energy cooperation de miranda mousinho mca
+2021 format ebook hardcover 8559 creative writing practice adelaide et al
+eds
+2021 format ebook hardcover 9308 lobotomy nation kragh jv
+2021 format ebook hardcover 9308 managing healthcare organisations challenging policy contexts kislov et al
+eds
+2021 format ebook hardcover 11769 dark money politics school privatization cunningham mt
+2021 format ebook softcover 2139 speech etiquette slavic online communities duskaeva
+ed
+2021 format ebook hardcover 9629 buying shop books »palgrave shop come free worldwide shipping print copies ebooks read device
+books across fields scholarship research professional learning ebooks used reading devices free shipping print books worldwide browse disciplines business economics humanities politics international studies social science help accessibilitycontacting editorscontacting sales repsebook collectionshelp overviewrights permissionsnewsletter information affiliatesauthorsbook reviewersbooksellerscustomersjournalistslecturerslibrarians sites products macmillan educationmacmillan international higher educationpalgrave journalsspringer linkspringer nature palgrave macmillan publishes journals monographs reference books print online
+us 2021 palgrave part springer nature terms use manage cookiesdo sell dataprivacy policycalifornia privacy statement *<
+[cdata[* var webtrekkconfig webtrekkconfig || trackid '161653801023457' trackdomain 'springergmbh01webtrekknet' domain 'wwwpalgravecomcheckoutpalgravecomsecureworldpaycom' cookie '1' executepluginfunction 'wt_socialmediawt_scrollposition' var pageconf contentid 'gp' contentgroup "1""gp" customparameter "5""cmspagegroupunmapped" linktrack 'link' linktrackattribute 'id' heatmap '0' form '0' var wt new webtrekkv3pageconf wtcustomerid='' wtcustomsessionparameter= wtmediacode='wt_mccm_mmc' wtlinktrackdownloads='avibmpcsvdocdocxdotxepsexegifgzjpegjpgm4vmovmp3mp4mpgpdfpngpptpptxpsrssrtfswftartargztgztiftxtwmvxlsxlsxzip' wtsendinfo *]]>* javascript currently disabled site works much better enable javascript browser

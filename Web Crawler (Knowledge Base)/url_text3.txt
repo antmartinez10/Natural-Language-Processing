@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DPTLDW');
+
+Charles Bukowski FBI files
+
+
+
+
+
+
+
+
+bukowski.net
+
+
+
+
+
+
+Forum
+
+
+
+          Manuscripts
+        
+
+Poems and stories
+Letters and postcards
+
+
+
+Timeline
+
+
+
+          Database
+        
+
+Search the database
+Book, magazine, audio lists
+
+
+
+Checklist
+
+
+
+          More
+        
+
+Poems, stories, interviews
+Art
+Photos
+Miscellany
+Vote for your favorite books
+FBI Files
+Map of homes and jobs
+
+About/Contact
+ Twitter feed
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+FEDERAL BUREAU OF INVESTIGATION
+SUBJECT: Charles Bukowski FILE: 140-35907
+In 1968 the FBI and U.S. Postal Service - Charles Bukowski's employer - took offense to some of his writing (mainly the notes of a dirty old man column that appeared in the Los Angeles paper, Open City), so they performed an investigation into his background. The bulk of these files are reports on interviews with neighbors and employers, few of whom who seem to remember Bukowski. The files do contain some surprises however, not the least of which is that Bukowski claimed he was married to Jane Cooney Baker, the "Jane" of many of his most heartfelt works.
+    While biographers have always referred to Barbara Frye as Bukowski's first wife, in 1952 (three years before marrying Frye) Bukowski told the FBI that he was married to Jane. Jane's name was redacted from the copies of the FBI files released to the public, but we have included a close up scan in which you can see Jane's name (misspelled as JANE S. COONYE).
+    You can view the file in order, or skip to interesting pages via the links below. As an added bonus, we have included detailed instructions for requesting your own copy of the files from the FBI.
+    View the pages in order
+Or go directly to these pages:
+     • Addresses and jobs through 1957
+         • Arrest records
+         • A "notes of a dirty old man" column
+         • Arrested for dodging the draft
+         • Married to Jane in 1952
+         • Married to Jane (close-up)
+         • Writing is "highly romanticized"
+         • Never seen women in his apartment
+         • College from 1939 to 1941
+         • Drunk, night in jail
+         • Second "notes of a dirty old man" column
+         • Third "notes of a dirty old man" column
+         • Unfit for military service
+Get your own copy of the Bukowski FBI files
+NOTES:
+    1) Every page of the files is included here, even mostly blank pages and copies of envelopes.
+    2) Despite what the FBI file says about Bukowski and Jane being married, no official record of a marriage to Jane has been found. To add another layer to the mystery, you may want to read these poems where Bukowski wrote about being married twice (long before he was married to Linda):
+    
+         This 1959 poem from Gallows magazine that makes mention of his second wife (referring to Barbara Frye).
+         This 1960 poem manuscript excerpt in which he refers to himself as "twice divorced."
+         This 1966 poem manuscript excerpt which says he has had "2 wives."
+
+
+
+
+
+
+
+
+bukowski.net ©1995-2021 Hannah Phillips and Millionaire Brand Bathtub Gin. All rights reserved. 
+
+
+
+
+
+
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+

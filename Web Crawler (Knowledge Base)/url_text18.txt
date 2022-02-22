@@ -1,0 +1,535 @@
+
+
+Pacific Rim Review of Books
+
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+
+
+ 
+ 
+
+
+
+
+ 
+Pacific 
+        Rim Review of Books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ 
+Back to Issue Features ]The Word, the Look, the Way: Another Side of Charles Bukowski 
+by John Carroll 
+ It's 
+  
+  difficult to gauge how long the reputation of a writer like Charles 
+  
+  Bukowski will endure. However, it's more than likely that as long 
+  
+  as it does, he will be known as the raw, cynical, pockmarked poet 
+  
+  who favours the disenfranchised, the down-and-out, the loser and 
+  
+  the misfit. He is pictured as the gruff wincing mug, beer bottle 
+  
+  clasped in his meaty fist, eyes fixed on the seamy underbelly 
+  
+  of Americana, the world that he lived in and knew so well until 
+  
+  fame bought him some relief. This is a reputation that he earned-to 
+  
+  some extent, a persona that he put on, but in many ways a true 
+  
+  part of his nature. He was a man uncomfortable with life, especially 
+  
+  the way others lived it. 
+  
+
+ The publication that first brought him some notice was Post 
+  
+  Office (1970), a novel about his experiences in a job he worked 
+  
+  at for eleven years. Readers were attracted by the stark prose 
+  
+  and the attention to unsightly details of a world where the souls 
+  
+  of men dried up and died. He was seen as perhaps a latter day 
+  
+  B. Traven, but his narrative voice no longer expressed the hope 
+  
+  of an uncovered treasure. In Bukowski's world there was little 
+  
+  hope left, except the prospect of simply enduring and keeping 
+  
+  one's soul, no matter how many others fell by the wayside. His 
+  
+  attraction was then like the grotesquery of the side show. And 
+  
+  if the public was drawn to him, it was only to be insulted, and 
+  
+  have its nose rubbed a little in the dirt; afterward, it could 
+  
+  retreat to safe lodgings and a Mr. Clean existence. 
+  
+
+
+
+I became enamoured with Bukowski's demotic style when I was in 
+  
+  my twenties and happened to purchase a copy of his Drowning 
+    
+    in Fire, Burning in Flame. What appealed to me was the directness 
+  
+  of tone, and the vision of American life that seemed like a New 
+  
+  World version of Hieronymus Bosch, or maybe a verbal version of 
+  
+  Diane Arbus photos. I had other heroes, ones who wrote more recognizably 
+  
+  in the tradition of Western poetry, and who were more prone to 
+  
+  employ chiasmus, synecdoche, zeugma and so on. (My worship of 
+  
+  Dylan Thomas, for example, took me all the way to Wales where, 
+  
+  buoyed by Guinness, a friend and I broke into his boathouse, lit 
+  
+  candles and sat at his writing desk hoping to feed our inspiration 
+  
+  on his spirit.) But I, like many others, was attracted to Bukowski's 
+  
+  apparent simplicity of style, his broad palette when it came to 
+  
+  subject matter, his uncensored diction, and his unfiltered visions 
+  
+  of the materialist dream deferred. 
+  
+
+I know that not everyone has felt this complimentary about his 
+  
+  work, and many of us who loved him when we were younger have suffered 
+  
+  over the years an entropy of regard, as we have become comfortable, 
+  
+  cynical, or resigned. His rawness has become crudity. His simplicity, 
+  
+  simplistic. His subjects, mundane. His narratives, flat. His philosophy, 
+  
+  rancid. And his commitment to it, flaccid. In short, to some, 
+  
+  the chronographer of the underclass has become the pornographer 
+  
+  with no class. Why bother with a man who obviously had so much 
+  
+  trouble with life, who seemed to go out of his way to insult or 
+  
+  impress others with his drunkenness and bravado? Why look to a 
+  
+  poet who treats the world, and his readers, with such disdain? 
+  
+
+ Recently, I discovered several posthumous collections of Bukowski's 
+  
+  poems, all published fairly recently-Open All Night (Black 
+  
+  Sparrow Press); Sifting Through the Madness for the Word, the 
+    
+    Line, the Way; The Night Torn with Mad Footsteps; The Flash of 
+    
+    Lightning Behind the Mountain; and What Matters Most is How Well 
+    
+    You Walk Through the Fire (HarperCollins). I hadn't even thought 
+  
+  about Bukowski for decades, but I found myself reading him with 
+  
+  the same exhilaration I had experienced years ago. This time around, 
+  
+  however, I found something that I had not noticed before: Bukowski 
+  
+  is often a lyric poet of exquisite sensibility. The tactics he 
+  
+  uses in his writing now seem subtler and more thought-through 
+  
+  than I originally gave him credit for. I'd like to suggest to 
+  
+  others who have lost their taste for him, or to those who never 
+  
+  found him to their liking, that he is a major poet worth reading, 
+  
+
+ To begin with, the standard image of Bukowski as the hard cynic 
+  
+  and drunken nihilist is belied by certain pieces. The poem "unblinking 
+  
+  grief", a requiem for a dead lover, is an example: 
+  
+
+
+
+ the last cigarettes are smoked, the loaves are sliced, 
+      and lest this be taken for wry sorrow, 
+      drown the spider in wine. 
+ you are much more than simply dead: 
+      I am a dish for your ashes, 
+      I am a fist for your vanished air. 
+ the most terrible thing about life
+      is finding it gone. 
+
+
+ Bukowski's childhood, at least the part of it that he reveals 
+                
+                in his poems, was anything but carefree. His relationship with 
+                
+                his father was founded in fear and violence. I'm inspired to speculate, 
+                
+                in my amateur psychiatrist way, that all the cynicism, all the 
+                
+                nihilism, all the unflinching visions of a heartless and godless 
+                
+                world spring from the depths of a damaged child. And there are 
+                
+                some pretty harsh judgments of his father in many of his poems, 
+                
+                which do reveal the darker side of the poet's nature. But "unblinking 
+                
+                grief" exposes another side, one of vitality and passion. It is 
+                
+                a concise and eloquent affirmation of life in the face of life's 
+                
+                denial. 
+                
+              
+ Bukowski's 
+                
+                power as a writer is most often at its height when he memorializes 
+                
+                or anticipates a loss, as in "1966 Volkswagen minivan." The poet 
+                
+                is waiting for his lover to return home, and to soothe his anxiety, 
+                
+                he is listening to Bach. Still, his imagination won't allow him 
+                
+                any peace. He prays, "please let me die/first because/I am older/much 
+                
+                older." Finally, he addresses the spirit of Bach: "I want you 
+                
+                to/tell me that everything is all/right/and that her red and gold 
+                
+                hair will be/spread/upon my pillow again." In contrast to his 
+                
+                many poems about drunken arguments with his many women, he ends 
+                
+                this one with an agonized attempt to hold back the inevitable 
+                
+                cruelties of the human condition; his final image suggests peace, 
+                
+                comfort, and the magic of love. 
+                
+              
+A cursory reading of Bukowski might reveal only his dark side; 
+                
+                he has little religion and it's not often that he can look past 
+                
+                the palpable images of despair and disappointment that surround 
+                
+                him. At times, in his blackest moments, he arrives at the conclusion 
+                
+                that has haunted the last hundred years or so of Western culture: 
+                
+                life and its attendant suffering have no inherent meaning. But 
+                
+                if the poet can honestly say he finds no purpose in suffering-"even 
+                
+                your suffering is a mirage"-or if he sees most of us as broken 
+                
+                spirits trapped in automaton bodies-"he was like a /slab of/meat/in 
+                
+                a/butcher shop"-he also finds dignity in the human ability to 
+                
+                suffer and endure. Unlike the characters populating Becket's universe, 
+                
+                Bukowski's are often ennobled by their stoical endurance, as is 
+                
+                the jockey in "a happening" whose wife has committed suicide and 
+                
+                who now rides like "a tiger in the/sun": 
+                
+              
+
+
+ he's each one of us
+                    alone
+                    forever
+                    fiercely ignoring
+                    the
+                    pain
+
+
+ I hear an echo of Aeschylus in these lines. 
+                
+              
+In other words, it is entirely wrong to assume that his machismo, 
+                
+                pose or not, crowds out compassion. By all accounts, Bukowski 
+                
+                could be difficult; he was not one to observe social niceties. 
+                
+                He tended to be reclusive, and his early years of drink, drugs, 
+                
+                and violence are well-documented although there is some question 
+                
+                about how much of himself Bukowski hid behind a carefully calculated 
+                
+                persona (a.k.a. Henry Chinaski). Nevertheless, there are numerous 
+                
+                examples of Bukowski's sentimental side, as much as he might try 
+                
+                to veil it, as well as a genuine strain of empathy for others. 
+                
+              
+ Take for example his poem "her only son." This piece offers 
+                
+                an exquisite paradigm of the poet's ability to feel his way inside 
+                
+                the life of another. Returning from the funeral of his lover, 
+                
+                the poet listens as her son tells him how much money he is making 
+                
+                at his current job, ignoring the fact of his mother's "neglected 
+                
+                and lonely / adult life." The poet takes this as a sign that the 
+                
+                son has not in fact "endured" as he might believe. In truth, he 
+                
+                has become one of those walking dead, a category to which Bukowski 
+                
+                assigns most of us. And in a poignant final stanza, the sorrow 
+                
+                expands to include his dead lover: 
+                
+              
+
+
+ and to think
+                    she used to
+                    talk about
+                    him lovingly
+                    almost / every night
+                    before we
+                    fell
+                    asleep. 
+
+
+ Some critics have complained about how in a Bukowski poem we 
+                
+                often get what appear to be unshaped narratives that come to no 
+                
+                definite conclusion. I have often felt the same way. Coupled with 
+                
+                bland diction and no metaphorical or adjectival embellishment, 
+                
+                these "faults" led me to the conclusion that Bukowski was lazy 
+                
+                in his technique and that he sometimes lacked imaginative engagement 
+                
+                with his subject. But after spending more time familiarizing myself 
+                
+                with the poet's huge opus, I've come around. Now, on the contrary, 
+                
+                I would argue that most of his narrative poems are carefully constructed, 
+                
+                with the clear intent "to make as real as possible / the word 
+                
+                on the page." There is a conscious aversion to psychology and 
+                
+                to movement of the poem toward explanation, as well as a clear 
+                
+                preference for objects rather than subjects, and event rather 
+                
+                than commentary. As Russell Harrison puts it: "In Bukowski, the 
+                
+                refusal to psychologize is closely connected to the preference 
+                
+                for metonymy, for things, rather than explanation" (Against 
+                  
+                  the American Dream: Essays on Charles Bukowski). 
+                
+              
+Also, if anyone doubts how effective this kind of narrative poem 
+                
+                can be, I suggest teaching his poems, as I have done, to a class 
+                
+                of students not enamoured by poetry. They are taken by the clarity 
+                
+                of his images and by the utter lack of pretension, yet they have 
+                
+                no difficulty finding more complex implications behind the simple 
+                
+                statements And, equally important: they respond well to his wry 
+                
+                humour which is a frequent presence in his work. 
+                
+              
+ One other point on this topic needs mentioning. The unresolved 
+                
+                endings of many of his poems result from a purposeful evasion 
+                
+                of the typical resonant ending. Instead he leaves the reader with 
+                
+                something like, "She liked sweets and she was / from Pennsylvania," 
+                
+                or "she went to the bathroom / while I kicked back and / popped 
+                
+                a bottle of Hvemeyer / Bernkastel Riesling." In part, these endings 
+                
+                also suggest that the poet never took himself too seriously-as 
+                
+                if once the poem was finished, his connection with it was no longer 
+                
+                important to him. This attitude has much to do with his poetics. 
+                
+              
+If there is any doubt about Bukowski's sincerity, reference to 
+                
+                a poem like "notes on some poetry" can offer reassurance. At the 
+                
+                core of his poetics is the conviction that faking emotion can 
+                
+                be left to the academics or the dilettantes; for an artist, untruthfulness 
+                
+                is unforgivable. All his life, Bukowski fought against becoming 
+                
+                too comfortable, even after he had become famous and could finally 
+                
+                afford to live in something more than a dingy one room apartment. 
+                
+                True artists never
+                
+              
+
+
+ forget what we are really about
+                    and the more we forget this
+                    the less we are able to write a
+                    poem that
+                    stands and screams and laughs on
+                    the page. 
+
+
+ Bukowski stated jokingly that he believed in "keeping the / 
+                
+                bowels loose"; but he is at his most serious when discussing the 
+                
+                essence of his ars poetica. Truth first, and the most direct route 
+                
+                to that is through simplicity. 
+                
+              
+
+
+ the word should be like butter or avocados or
+                    steak or hot biscuits, or onion rings or
+                    whatever is really needed. it should be almost
+                    as if you could pick up the words and 
+                    eat them
+
+
+ In the end, however, true poems come into being like forces 
+                
+                of nature, unasked for and unstoppable. In his advice to writers 
+                
+                ("so you want to be a writer?"), Bukowski puts it this way: 
+                
+              
+
+
+ unless it comes out of 
+                    your soul like a rocket, 
+                    unless being still would
+                    drive you to madness or
+                    suicide or murder, don't do it
+
+
+ Bukowski did it and he often did it well. Many of his poems 
+                
+                exist like rockets on the page, ready to tear at our emotions, 
+                
+                or lunge at our preconceptions of a sterile world, with the passion 
+                
+                and ferocity of a truth made known. 
+                
+              
+ John Carroll lives in Abbotsford, BC. He has worked as an 
+                
+                actor, director, writer, and educator. He is working on a series 
+                
+            of vignettes called Falling. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

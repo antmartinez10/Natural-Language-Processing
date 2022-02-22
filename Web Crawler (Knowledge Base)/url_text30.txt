@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DPTLDW');
+
+Charles Bukowski works database - recordings listed by release date
+
+
+
+
+
+
+
+
+bukowski.net
+
+
+
+
+
+
+Forum
+
+
+
+          Manuscripts
+        
+
+Poems and stories
+Letters and postcards
+
+
+
+Timeline
+
+
+
+          Database
+        
+
+Search the database
+Book, magazine, audio lists
+
+
+
+Checklist
+
+
+
+          More
+        
+
+Poems, stories, interviews
+Art
+Photos
+Miscellany
+Vote for your favorite books
+FBI Files
+Map of homes and jobs
+
+About/Contact
+ Twitter feed
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Recordings listed by release date, Charles Bukowski works database
+Order by: Release date | Release name | Recording date
+At Terror Street and Agony WayRelease: 1968, Open reel tape  Black SparrowRecording notes: Home recording for At Terror Street and Agony Way reel to reel tape, December, 1967
+Poetry - Charles Bukowski, Steven RichmondRelease: 1968, LP Recording notes: LP is Bukowski on one side and Richmond on the other. 100 copies were pressed. Presumably the record was sold at Richmond's Earth Rose book store, but very few copies have surfaced. These five tracks also appear on 90 Minutes in Hell.
+A Cold Turkey Press SpecialRelease: 1972, LP  Cold TurkeyRecording notes: Home recording, February 18, 1967
+Totally Corrupt, The Dial-A-Poem PoetsRelease: 1976, LP  Dial-A-PoemRecording notes: Studio recording at MCCC-TV (Macomb County Community College), Warren, MI, October 31, 1974
+90 Minutes in HellRelease: 1977, Double LP  Earth BooksRecording notes: Home recording, 1966
+Hello. It's good to be back.Release: 1978, LP  ZweitausendeinsRecording notes: Live reading in Hamburg, Germany, May 5, 1978
+Bukowski Reads His PoetryRelease: 1980, LP  TakomaRecording notes: Live reading at the City Lights Poets Theater in San Francisco, September 14, 1972
+Voices of the AngelsRelease: 1982, LP  Freeway RecordsRecording notes: One poem taken from the final live reading at the Sweetwater in Redondo Beach, CA, March 31, 1980 (appears on the "Hostage" recording)
+English As A Second LanguageRelease: 1983, LP  Freeway RecordsRecording notes: One poem taken from the final live reading at the Sweetwater in Redondo Beach, CA, March 31, 1980 (appears on the "Hostage" recording)
+Neighborhood RhythmsRelease: 1984, LP  Freeway RecordsRecording notes: One poem taken from the final live reading at the Sweetwater in Redondo Beach, CA, March 31, 1980 (appears on the "Hostage" recording)
+Cassette GazetteRelease: 1985, Cassette  NOLA ExpressRecording notes: Home recording, 1970, for Nola Express cassette
+HostageRelease: 1985, LP  RhinoRecording notes: Final live reading at the Sweetwater in Redondo Beach, CA, March 31, 1980
+Movable Feast #3Release: 1986, Cassette  In Our Time Arts MediaRecording notes: Interview and reading for Movable Feast #3, 1986
+The Charles Bukowski TapesRelease: 1987, VHS  Lagoon VideoRecording notes: Short film interviews and readings for Barbet Schroeder, 1985
+Bukowski at BellevueRelease: 1988, VHS  Black SparrowRecording notes: Live reading at Bellevue Community College, May 30, 1970
+Beat Scene Magazine #12Release: 1991, Flexi-disc  Beat SceneRecording notes: Two poems from the 1978 live reading in Hamburg, Germany
+HostageRelease: 1994, CD  RhinoRecording notes: Final live reading at the Sweetwater in Redondo Beach, CA, March 31, 1980
+King of PoetsRelease: 1995, CD  Chinaski Records (bootleg)Recording notes: Home recording, 1970, for Nola Express cassette
+70 Minutes in HellRelease: 1997, CD  Chinaski Records (bootleg)Recording notes: Home recording, 1966. Release is an edited version of original LP, 90 Minutes in Hell.
+At Terror Street and Agony WayRelease: 1998, Double CD  King MobRecording notes: Home recording, January 1969, for Beatles Zapple label (never released by Zapple)
+Run with the HuntedRelease: 1993, Cassette  Caedmon AudioRecording notes: Home recording/interview for Run With the Hunted audio book, 1992
+Charles Bukowski: UncensoredRelease: 2000, Double CD Caedmon AudioRecording notes: Home recording/interview for Run With the Hunted audio book, 1992
+Born Into ThisRelease: 2003, DVD  Magnolia PicturesRecording notes: Home video recording, February 25, 1992 (in the DVD extras)
+Bukowski at BellevueRelease: 2004, DVD  Screen EdgeRecording notes: Live reading at Bellevue Community College, May 30, 1970
+Bukowski Reads His PoetryRelease: 2004, CD  TakomaRecording notes: Live reading at the City Lights Poets Theater in San Francisco, September 14, 1972
+Bukowski Reads His PoetryRelease: 2004, CD  Black SparrowRecording notes: Home recording, January 1969, for Beatles Zapple label (never released by Zapple)
+Poems and InsultsRelease: 2004, CD  Grey MatterRecording notes: Live reading at the City Lights Poets Theater in San Francisco, September 14, 1972 (last two poems on the disc were taken from a home recording made on February 18, 1967)
+Solid CitizenRelease: 2004, CD  Chinaski Records (bootleg)Recording notes: Live reading in Hamburg, Germany, May 5, 1978. Originally released in Germany as Hello, it's good to be back. The CD includes four tracks at the end that are taken from 90 Minutes in Hell.
+12 Great AmericansRelease: 2006, CD  Cold TurkeyRecording notes: Home recording, February 18, 1967
+The Charles Bukowski TapesRelease: 2006, DVD  BarrelRecording notes: Short film interviews and readings for Barbet Schroeder, 1985
+Baudelaire's ReadingRelease: 2007, mp3 (bootleg)Recording notes: Live reading at Baudelaire's in Santa Barbara, 1977
+Underwater Poetry FestivalRelease: 2007, CD  The Temple/LitmusRecording notes: Live reading at the Underwater Poetry Festival in Salt Lake City, October 25, 1974
+Hello. It's good to be back.Release: 2008, CD  ZweitausendeinsRecording notes: Live reading in Hamburg, Germany, May 5, 1978
+Poetry of Charles BukowskiRelease: 2008, CDR  Pacifica RadioRecording notes: Home recording broadcast on KPFK radio, Los Angeles, August 5th, 1962
+There's Gonna Be a God Damn Riot in HereRelease: 2008, DVD  Monday MediaRecording notes: Live reading at the Viking Inn, Vancouver, October 12, 1979 (The two dvd set, One Tough Mother includes poems not on this single disc release: The Secret Of My Endurance and The Beast)
+The Last StrawRelease: 2008, DVD  Monday MediaRecording notes: Final live reading at the Sweetwater in Redondo Beach, CA, March 31, 1980 (The two dvd set, One Tough Mother includes poems not on this single disc release: The 9 Horse, I Don't Need A Cleopatra and The Recess Bells Of School)
+One Tough Mother, Disc 1: There's Gonna Be a God Damn Riot in HereRelease: 2010, DVD  Monday MediaRecording notes: Box set of the two final reading releases. This disc includes two poems not on the single disc release of There's Gonna Be a God Damn Riot in Here: The Secret Of My Endurance and The Beast.
+One Tough Mother, Disc 2: The Last StrawRelease: 2010, DVD  Monday MediaRecording notes: Box set of the two final reading releases. This disc includes three poems not on the single disc release of The Last Straw: The 9 Horse, I Don't Need A Cleopatra and The Recess Bells Of School.
+San Francisco Museum of ArtRelease: 2010, Cassette  San Francisco Museum of ArtRecording notes: Live reading at the San Francisco Museum of Art Poetry Center, December 6, 1973
+San Francisco Museum of ArtRelease: 2010, VHS  San Francisco Museum of ArtRecording notes: Live reading at the San Francisco Museum of Art Poetry Center, December 6, 1973
+Thomas Schmitt film, 1978 Hamburg readingRelease: 2015 not commercially releasedRecording notes: Live reading in Hamburg, Germany, May 5, 1978. Film of the entire reading without German voiceover. Includes three poems not on any audio releases: An Exaggeration (uncollected), Chilled and Girls Coming Home.
+Charles Bukowski: UncensoredRelease: 2019, LP Harper AudioRecording notes: Selections from home recording/interview for Run With the Hunted audio book, 1992
+
+
+
+
+Search Bukowski works database (searches titles only, see link below for advanced search and lists)
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Clear search
+
+
+
+
+
+
+
+
+
+Advanced search »
+
+
+
+Choose one of the following options to search only: Books Magazines Poems Short stories Manuscripts Uncollected work 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bukowski.net ©1995-2021 Hannah Phillips and Millionaire Brand Bathtub Gin. All rights reserved. 
+
+
+
+
+
+
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+

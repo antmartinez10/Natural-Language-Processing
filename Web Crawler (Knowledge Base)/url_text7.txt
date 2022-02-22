@@ -1,0 +1,794 @@
+
+
+
+
+Charles Bukowski's Famous Childhood Home in Mid-City LA is For Sale - Curbed LA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var chorusInitQueue=[],volume_embed_host="https://volume.vox-cdn.com";var Chorus=Chorus||{};Chorus.windowLoaded=!1,Chorus.AddScript=function(t,e){var o=document.createElement("script");o.async=!0,o.type="text/javascript",o.src=t,"function"==typeof e&&(o.onload=e);var a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(o,a),o},Chorus.ready=function(t){"loading"!=document.readyState?t():document.addEventListener?document.addEventListener("DOMContentLoaded",t):document.attachEvent("onreadystatechange",function(){"loading"!=document.readyState&&t()})},Chorus.OnLoad=function(t){if(Chorus.windowLoaded=!0)return void t();var e=window.onload;"function"!=typeof window.onload?window.onload=t:window.onload=function(){e(),t()}},Chorus.OnLoad(function(){Chorus.windowLoaded=!0});var dataLayer=dataLayer||[];Chorus.OnLoad(function(){var t;void 0!==navigator.doNotTrack?t=navigator.doNotTrack:void 0!==window.doNotTrack?t=window.doNotTrack:void 0!==navigator.msDoNotTrack&&(t=navigator.msDoNotTrack),t=void 0!==t?/1|yes|true/.test(String(t).toLowerCase())?"true":"false":"undefined";var e={DNT:t};dataLayer.push(e)});var VoxMediaFontLoader=function(t){function e(t,e){var o=window.performance;if(o&&o.mark&&o.measure){var a=t.toLocaleLowerCase().replace(/\W+/g,"_")+(e?"_"+e:"");o.mark(a),o.measure(a+"_time","navigationStart",a)}}function o(){s.classList.add(c),e("fonts_success")}function a(){s.classList.add(c),e("fonts_fail")}function n(t){var o=[t.family,t.style,t.weight,"loaded"].join(" ");e(o)}function r(t){var e=u.font_stylesheets||[];t&&(e=e.filter(function(e){return!e.match(t)})),e.forEach(i)}function i(e){var o=t.createElement("link");o.href=e,o.rel="stylesheet",o.media="all",f.parentNode.insertBefore(o,f)}function d(e){var o,a=t,n=a.documentElement,r=setTimeout(function(){n.className=n.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},e.scriptTimeout),i=a.createElement("script"),d=!1,c=a.getElementsByTagName("script")[0];n.className+=" wf-loading",i.src="https://use.typekit.net/"+e.kitId+".js",i.async=!0,i.onload=i.onreadystatechange=function(){if(o=this.readyState,!(d||o&&"complete"!=o&&"loaded"!=o)){d=!0,clearTimeout(r);try{Typekit.load(e)}catch(t){}}},c.parentNode.insertBefore(i,c)}var c="fonts-loaded",s=t.documentElement,f=t.getElementById("chorus-fonts");if(f){var u=JSON.parse(f.getAttribute("data-cdata"));if(t.fonts){r("voxmedia.com");var l=[];u.fonts_catalog.forEach(function(e){if(e.woff2_url||e.woff_url){var o=[e.woff2_url,e.woff_url].filter(function(t){return t}).map(function(t){return"url("+t+")"}).join(", "),a=new FontFace(e.family,o,{weight:e.weight,style:e.style,display:"swap"});t.fonts.add(a),l.push(a.load())}}),l.length>0?Promise.allSettled(l).then(function(t){o(),t.filter(function(t){return"fulfilled"===t.status}).forEach(function(t){n(t.value)})})["catch"](function(){a()}):t.fonts.ready.then(o,a)}else r();u.typekit_ids.forEach(function(t){d({kitId:t,scriptTimeout:3e3,async:!0})}),u.font_tracker_stylesheets.forEach(i)}};VoxMediaFontLoader(document);
+
+  dataLayer = [{"Network":"archive.curbed","Community":"la.curbed","root_domain":"archive.curbed.com","GA Primary ID":"UA-189494-74","GA Secondary ID":"UA-189494-3","GA CrossDomains":"archive.curbed.com,atlanta.curbed.com,austin.curbed.com,boston.curbed.com,chicago.curbed.com,detroit.curbed.com,la.curbed.com,ny.curbed.com,sf.curbed.com","Content ID":"9720987","Story Word Count":457,"Entry Groups":"front-page:celebrity-houses-real-estate","Hermano Records":"mid-city","articleSection":"Front Page","Author":"Adrian Glick Kudler","Last Time Updated":"2018-09-06 08:47","Hour of Update":"08","Publish Date":"2015-05-26 16:44","Hour of Publish":"16","Evergreen URL":"no value set","commerceAffiliateDisclosure":"no value set:no value set","Demand Post":"no","All Chorus Categories":"archive.curbed:la.curbed:front-page:celebrity-houses-real-estate:mid-city","Content Type":"article","chartbeat_domain":"la.curbed.com","chartbeat_zone":"172968584/curbed/la.curbed.com","chartbeat_authors":"Adrian Glick Kudler","Logged in Status":"Logged Out","auth0_id":"No Auth0 ID","enable_url_cleaning":true,"ScrollSubscription":"false"}];
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8JKW6');
+
+
+
+
+
+
+
+
+  var concertAdsQueue = concertAdsQueue || [];
+
+  CONCERT_ADS_CONFIG = {"production":true,"slug":"/172968584/curbed/la.curbed.com","dfpVariables":{"network":["curbed"],"affiliation":["general"],"unison":[true],"entry_id":[9720987],"entry_type":["article"],"entry_slug":["2015/5/26/9956946/charles-bukowski-childhood-home"],"entry_author":["Adrian Glick Kudler"],"entry_blurb":[""],"entry_title":["Charles Bukowski's Famous Childhood Home in Mid-City LA is For Sale"],"entry_published_date":["2015-05-26T13:44:29.000-07:00"],"entry_group":["front-page","celebrity-houses-real-estate"],"hub_page":["celebrity-houses-real-estate"],"page_type":["interior_page"],"keywords":["charles","bukowski","s","famous","childhood","home","in","mid","city","la","is","for","sale","curbed","la","front-page","celebrity-houses-real-estate"]},"isUnison":true,"is_unison":true,"prebid":{"biddingEnabled":false,"prebidEnabled":false,"rubiconDemandManagerEnabled":false,"analyticsAdapters":[{"provider":"concert"}],"ats":{"enabled":false},"amazonScriptTimeout":3000,"rdmScriptTimeout":3500,"timeout":1500,"amazonTimeout":900,"observerThreshold":"500px","amazonPubId":3176,"amazonUrl":"https://c.amazon-adsystem.com/aax2/apstag.js","priceGranularity":"dense","defaultConfig":{"openx":{"delDomain":"sbnationbidder-d.openx.net"},"rubicon":{"accountId":7470,"position":"btf"},"rubiconLite":{"accountId":18288,"siteId":193902,"sizes":[213,270,271,272],"position":"btf"},"consumable":{"networkId":9969,"siteId":1039096},"rubi__mm":{"accountId":21670,"siteId":294140,"zoneId":1480258,"zoneName":"SBNation_MediaMath DC"},"rubi__ttd":{"accountId":21670,"siteId":294142,"zoneName":"SBNation_TTD DC","zoneId":1480284},"usersync":{"userIds":[{"name":"unifiedId","params":{"url":"https://match.adsrvr.org/track/rid?ttd_pid=gs8reto\u0026fmt=json"},"storage":{"type":"cookie","name":"pbjs-unifiedid","expires":14},"syncDelay":3000}]}},"prelude":{"trustx":{"uid":2663},"consumable":{"unitId":7423,"unitName":"cnsmbl-video-970x250"}},"reskin":{"trustx":{"uid":2664}},"desktop_leaderboard_variable":{"trustx":{"uid":2665}},"medium_rectangle_variable":{"trustx":{"uid":2666}},"btf_medium_rectangle_variable":{"trustx":{"uid":2668}},"desktop_article_medrec_dynamic":{"trustx":{"uid":2669}},"btf_leaderboard_variable":{"trustx":{"uid":2670}},"native_ad_latest":{"trustx":{"uid":2671}},"native_ad_ymal_link":{"trustx":{"uid":2672}},"mobile_leaderboard":{"trustx":{"uid":2673}},"mobile_article_body":{"trustx":{"uid":2674}},"native_ad_mobile":{"trustx":{"uid":2675}},"mobile_article_body_med_rec_dynamic":{"trustx":{"uid":2676}},"mobile_footer":{"trustx":{"uid":2677}},"tablet_leaderboard":{"trustx":{"uid":2678}},"tablet_medium_rectangle":{"trustx":{"uid":2679}},"tablet_btf_leaderboard":{"trustx":{"uid":2680}},"native_ad_content_link":{"trustx":{"uid":2681}},"hub_river_leaderboard":{"trustx":{"uid":2682}},"hub_river_med_rec":{"trustx":{"uid":2684}},"mobile_med_rec_athena":{"trustx":{"uid":2685}}},"slots":[{"name":"buy_button","type":"buy_button","selector":"[id^=\"buy-button-\"], .buy-button","watcherEligible":false,"productElementStyle":"-15px 0 35px 0"},{"name":"connatix-article","type":"connatix","selector":".l-segment:not(.l-feature) .c-entry-content","insertion":"after","maxSlots":1,"watcherEligible":false,"filters":{"hideIfPresent":{"selector":".c-stream-list"}}},{"name":"connatix-hub","type":"connatix","selector":".l-hub-page .c-pagination","insertion":"after","maxSlots":1,"watcherEligible":false},{"name":"connatix-article-desktop","type":"connatix","selector":".l-segment:not(.l-feature) .c-entry-content","insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"min":728},"hideIfPresent":{"selector":".c-stream-list"}}},{"name":"connatix-article-mobile","type":"connatix","selector":".l-segment:not(.l-feature) .c-entry-content","insertion":"after","maxSlots":1,"watcherEligible":false,"filters":{"viewportWidth":{"max":727},"hideIfPresent":{"selector":".c-stream-list"}}},{"name":"connatix-feature","type":"connatix","selector":".l-feature .c-entry-content","insertion":"after","maxSlots":1,"watcherEligible":false},{"name":"connatix-feature-mobile","type":"connatix","selector":".l-feature .c-entry-content","insertion":"after","maxSlots":1,"watcherEligible":false,"filters":{"viewportWidth":{"max":727},"hideIfPresent":{"selector":".c-package-subnav__recirc"}}},{"name":"connatix-feature-desktop","type":"connatix","selector":".l-feature .c-entry-content","insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"min":728},"hideIfPresent":{"selector":".c-package-subnav__recirc"}}},{"name":"connatix-feature-mobile-packaged-content","type":"connatix","selector":".l-feature .c-package-subnav__recirc","insertion":"after","maxSlots":1,"watcherEligible":false,"filters":{"viewportWidth":{"max":727}}},{"name":"connatix-feature-desktop-packaged-content","type":"connatix","selector":".l-feature .c-package-subnav__recirc","insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"min":728}}},{"name":"editorially_placed_athena_mobile","slotClassName":"m-ad__editorially_placed_athena","prebidName":"mobile_article_body","selector":".m-ad.m-ad__editorial-athena-placement","sizes":[[1030,590],[620,366],[325,508],[325,204],[300,250],[300,"250v"]],"holdSize":[300,500],"filters":{"viewportWidth":{"max":727}}},{"name":"editorially_placed_athena_desktop","slotClassName":"m-ad__editorially_placed_athena","prebidName":"desktop_article_body","selector":".m-ad.m-ad__editorial-athena-placement","sizes":[[1030,590],[728,90],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,295],"filters":{"viewportWidth":{"min":728}}},{"name":"editorially_placed_leaderboard","prebidName":"desktop_article_body","selector":".m-ad.m-ad__editorial-leaderboard-placement","sizes":[[728,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":728}}},{"name":"native_quicklistings","selector":".l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(2), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(6), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(8), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(10)","sizes":["fluid"],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"matchDomain":{"domains":"curbed.com, atlanta.curbed.com, austin.curbed.com, boston.curbed.com, chicago.curbed.com, detroit.curbed.com, hamptons.curbed.com, la.curbed.com, miami.curbed.com, nola.curbed.com, ny.curbed.com, philly.curbed.com, sf.curbed.com, seattle.curbed.com, dc.curbed.com"}}},{"name":"native_quicklistings_article","selector":".l-segment .l-segment .c-compact-river__entry","sizes":["fluid"],"maxSlots":1,"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"insertion":"after","filters":{"matchDomain":{"domains":"curbed.com, atlanta.curbed.com, austin.curbed.com, boston.curbed.com, chicago.curbed.com, detroit.curbed.com, hamptons.curbed.com, la.curbed.com, miami.curbed.com, nola.curbed.com, ny.curbed.com, philly.curbed.com, sf.curbed.com, seattle.curbed.com, dc.curbed.com"}}},{"name":"csk_mobile_article","prebidName":"mobile_article_body_med_rec_dynamic","slotClassName":"m-ad__csk_mobile_article","selector":".ad-placemarker-mobile","sizes":[[300,250],[300,"250v"],[320,50]],"previewHoldSize":[300,250],"maxSlots":8,"insertion":"after","filters":{"viewportWidth":{"max":779}}},{"name":"csk_athena","prebidName":"athena","slotClassName":"m-ad__athena","selector":".ad-placemarker-athena","sizes":[[1030,590],[728,90],[970,250]],"holdSize":[728,295],"insertion":"after","maxSlots":8,"filters":{"viewportWidth":{"min":780}}},{"name":"csk_athena_mobile","prebidName":"mobile_med_rec_athena","selector":".ad-placemarker-athena-mobile","sizes":[[1030,590],[325,508],[325,204],[300,250],[300,"250v"]],"holdSize":[300,250],"filters":{"viewportWidth":{"max":779}}},{"name":"csk_article_sponsorship","slotClassName":"m-ad__article_sponsorship","selector":".ad-placemarker-light-logo-desktop","insertion":"after","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"prelude","selector":".l-root","reveal":{"enabled":true,"offset":0,"zIndex":-1000,"observationTarget":".l-header"},"sizes":[[1400,600],[1180,450]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"allowSiblings":true,"filters":{"viewportWidth":{"min":881},"deviceType":"desktop"}},{"name":"reskin","selector":".l-root","sizes":[[2,2]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":1280},"hideIfPresent":{"selector":".l-feature, .c-maps-hub"}}},{"name":"desktop_leaderboard_variable","selector":".l-header","sizes":[[728,90],[970,90],[1020,90]],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-feature"}}},{"name":"tablet_leaderboard","selector":".l-header","sizes":[[728,90]],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":729,"max":880}}},{"name":"mobile_leaderboard_hub","slotClassName":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-hub-page .l-header","sizes":[[300,250],[300,"250v"]],"holdSize":[300,250],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"mobile_leaderboard_group","slotClassName":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-group-page .l-header","sizes":[[320,50],[300,250],[300,"250v"]],"holdSize":[320,50],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"package_cover_ad","prebidName":"desktop_leaderboard_variable","selector":".c-package-subnav","sizes":[[728,90],[970,250],[970,90],[1020,90],[1030,590],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":729}}},{"name":"package_cover_ad_mobile","prebidName":"mobile_leaderboard","selector":".c-package-subnav","sizes":[[320,50],[300,250],[300,"250v"],[1030,590],[325,508],[325,204]],"holdSize":[320,50],"insertion":"after","filters":{"viewportWidth":{"max":729}}},{"name":"btf_leaderboard_variable","classNames":["mt-3","mr-a","mb-3","ml-a"],"selector":".c-footer","sizes":[[728,90],[1020,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":881}}},{"name":"tablet_btf_leaderboard","selector":".c-footer","sizes":[[728,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":729,"max":888}}},{"name":"mobile_footer","classNames":["mt-2","mb-2"],"selector":"body:not(.entry_layout_unison_package_landing) .c-footer","sizes":[[320,50],[300,250],[300,"250v"],[325,204],[1030,590]],"holdSize":[300,250],"filters":{"viewportWidth":{"min":0,"max":728}}},{"name":"package_mobile_footer","prebidName":"mobile_footer","selector":".entry_layout_unison_package_landing .c-footer","sizes":[[320,50],[300,250],[300,"250v"],[1030,590],[325,508],[325,204]],"holdSize":[300,250],"filters":{"viewportWidth":{"min":0,"max":728}}},{"name":"desktop_feature_footer","selector":".l-feature .c-entry-content \u003e p:last-of-type","classNames":["pb-2"],"insertion":"after","maxSlots":1,"sizes":[[728,90],[1020,90]],"holdSize":[728,90],"filters":{"spacing":{"before":700},"viewportWidth":{"min":881}}},{"name":"mobile_feature_footer","selector":".c-entry-content","insertion":"after","sizes":[[320,50],[300,250],[300,"250v"],[325,204],[325,508]],"maxSlots":1,"holdSize":[300,250],"filters":{"spacing":{"before":500},"viewportWidth":{"min":0,"max":728},"hideIfPresent":{"selector":".c-stream-list"}}},{"name":"mobile_feature_body","slotClassName":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[300,250],[300,"250v"],[325,508],[325,204],[320,50],[1030,590]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"spacing":{"before":150},"viewportWidth":{"max":779}}},{"name":"desktop_feature_body","prebidName":"desktop_article_body","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[728,90],[620,366],[1030,590]],"previewHoldSize":[728,90],"maxSlots":1,"insertion":"after","filters":{"avoidFloats":true,"spacing":{"before":300,"after":1200},"paragraphHeight":{"above":100},"viewportWidth":{"min":780},"hideIfPresent":{"selector":".c-buying-guide"}}},{"name":"desktop_feature_body_dynamic","slotClassName":"m-ad__desktop_feature_body","prebidName":"desktop_article_body","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[728,90],[300,250],[300,"250v"],[620,366],[1030,590]],"previewHoldSize":[728,90],"maxSlots":3,"filters":{"avoidFloats":true,"spacing":{"before":1200,"after":1200},"paragraphHeight":{"above":200},"viewportWidth":{"min":780},"hideIfPresent":{"selector":".c-buying-guide"}}},{"name":"athena_features_mobile","slotClassName":"m-ad__athena_features","prebidEligible":false,"selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"avoidFloats":true,"paragraphHeight":{"above":200},"viewportWidth":{"max":779},"spacing":{"before":1500}}},{"name":"athena_features_dynamic_mobile","slotClassName":"m-ad__athena_features_dynamic","prebidName":"athena_features_dynamic","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,"250v"],[300,265],[325,204]],"previewHoldSize":[300,250],"maxSlots":10,"filters":{"avoidFloats":true,"paragraphHeight":{"above":200},"viewportWidth":{"max":779},"spacing":{"before":1500}}},{"name":"athena_features_desktop","slotClassName":"m-ad__athena_features","prebidName":"desktop_article_body","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[620,366],[620,371],[620,415],[728,90]],"previewHoldSize":[726,415],"filters":{"paragraphHeight":{"above":200},"avoidFloats":true,"viewportWidth":{"min":779},"spacing":{"after":1200,"before":1200}}},{"name":"mobile_leaderboard","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[1030,590],[320,50],[300,250],[300,"250v"]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"desktop_article_body","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p, .l-article .c-entry-content \u003e p + p","sizes":[[1030,590],[620,366],[620,371],[620,415],{"size":[728,90],"filters":{"containerWidth":{"min":700}}}],"previewHoldSize":[726,415],"holdSize":[620,366],"maxSlots":1,"filters":{"avoidFloats":true,"paragraphHeight":{"above":150,"below":250},"spacing":{"before":750,"after":450},"containerWidth":{"min":620}}},{"name":"mobile_article_body","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,"250v"]],"previewHoldSize":[300,250],"holdSize":[325,300],"prebidEligible":false,"maxSlots":1,"filters":{"viewportWidth":{"max":728},"spacing":{"before":600}}},{"name":"native_ad_mobile","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,"250v"],[300,265],[325,204]],"previewHoldSize":[300,250],"holdSize":[325,300],"maxSlots":1,"filters":{"viewportWidth":{"max":728},"spacing":{"before":600}}},{"name":"mobile_article_body_med_rec_dynamic","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[300,250],[300,"250v"],[1030,590],[325,508],[325,204],[320,50]],"previewHoldSize":[300,250],"holdSize":[325,300],"filters":{"viewportWidth":{"max":728},"spacing":{"before":900},"paragraphHeight":{"above":100,"below":100}}},{"name":"desktop_article_medrec_dynamic","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p, .l-article .c-entry-content \u003e p + p","sizes":[[300,250],[300,"250v"]],"holdSize":[300,250],"filters":{"paragraphHeight":{"above":150,"below":250},"viewportWidth":{"min":729},"avoidFloats":true,"spacing":{"before":1500,"after":750}}},{"name":"medium_rectangle_variable","selector":".l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:first-of-type, .l-article-sidebar \u003e *:first-child","sizes":[[300,250],[300,"250v"],[300,600]],"holdSize":[300,250],"maxSlots":1,"allowSiblings":true,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"},"elementHeight":{"selector":".l-article-body-segment .l-col__main, .l-main-content \u003e .l-col__main","min":2001}}},{"name":"medium_rectangle_short","prebidName":"desktop_article_medrec_dynamic","selector":".l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:first-of-type, .l-article-sidebar \u003e *:first-child","sizes":[[300,250],[300,"250v"]],"holdSize":[300,250],"maxSlots":1,"allowSiblings":true,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"},"elementHeight":{"selector":".l-article-body-segment .l-col__main, .l-main-content \u003e .l-col__main","max":2000}}},{"name":"btf_medium_rectangle_variable_article","slotClassName":"m-ad__btf_medium_rectangle_variable","prebidName":"btf_medium_rectangle_variable","selector":"body[data-entry-id] .l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:last-of-type","allowSiblings":true,"sticky":{"enabled":true,"offset":100},"sizes":[[300,250],[300,"250v"],{"size":[300,600],"filters":{"viewportHeight":{"min":600}}}],"holdSize":[300,250],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"min":881}},"refreshRate":15},{"name":"btf_medium_rectangle_variable_hub","slotClassName":"m-ad__btf_medium_rectangle_variable","prebidName":"btf_medium_rectangle_variable","selector":".l-hub-page .l-col__sidebar \u003e div:last-of-type, .l-group-page .l-col__sidebar \u003e div:last-of-type","sticky":{"enabled":true,"offset":50},"sizes":[[300,250],[300,"250v"],[300,600]],"holdSize":[300,250],"insertion":"after","maxSlots":2,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"}},"refreshRate":15},{"name":"in_map_legacy","slotClassName":"m-ad__in_map","prebidName":"in_map","selector":".c-mapstack__ad","sizes":[[300,250],[300,"250v"]],"previewHoldSize":[300,250]},{"name":"in_map","selector":".c-mapstack__card--ad","sizes":[[300,250],[300,"250v"],[1030,590],[620,366],[620,371],[620,415]],"previewHoldSize":[300,250],"holdSize":[620,366],"insertion":"after"},{"name":"mapstack_sponsorship","slotClassName":"m-ad__mapstack_sponsorship","selector":".c-mapstack__content","insertion":"before","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"athena_hub","slotClassName":"m-ad__athena","prebidName":"athena","selector":".l-hub-page .river-segment-0, .l-group-page .river-segment-0","sizes":[[1030,590],[970,250],[728,90],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[620,366],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"min":728}}},{"name":"athena_article","slotClassName":"m-ad__athena","prebidName":"athena","selector":".l-article-body-segment","sizes":[[1030,590],[728,90],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[970,250],"filters":{"viewportWidth":{"min":970}}},{"size":[620,371],"filters":{"containerWidth":{"max":1059}}},{"size":[620,415],"filters":{"containerWidth":{"max":1059}}}],"holdSize":[620,366],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"min":728},"hideIfPresent":{"selector":".c-package-subnav"}}},{"name":"hub_river_leaderboard","classNames":["mt-3","mr-a","mb-3","ml-a"],"selector":".l-hub-page .c-compact-river__entry, .l-group-page .c-compact-river__entry","sizes":[[728,90],[1030,590],[620,366]],"holdSize":[620,366],"filters":{"spacing":{"before":700,"after":500,"exceptSlot":"native_quicklistings"},"containerWidth":{"min":728}}},{"name":"mobile_med_rec_athena","selector":".l-hub-page .river-segment-0","sizes":[[300,250],[300,"250v"],[1030,590],[325,508],[300,265],[325,204]],"holdSize":[325,300],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"max":728}}},{"name":"hub_river_med_rec","selector":".l-hub-wrapper .c-compact-river__entry, .l-group-page .c-compact-river__entry","sizes":[[300,250],[300,"250v"],[1030,590],[325,204],[325,508]],"customSizes":[{"placement":1,"sizes":[[300,250],[300,"250v"],[1030,590],[325,204],[325,508]]}],"holdSize":[325,300],"filters":{"spacing":{"before":600,"after":400},"viewportWidth":{"max":728}}},{"name":"gift_guide_leaderboard_variable_desktop","slotClassName":"m-ad__desktop_article_body","prebidName":"desktop_article_body","selector":".l-feature .c-buying-guide","sizes":[[1030,590],[620,366],[728,90],[620,371],[620,415]],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"viewportWidth":{"min":728}}},{"name":"gift_guide_leaderboard_mobile","slotClassName":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-feature .c-buying-guide","sizes":[[320,50],[300,250],[300,"250v"],[1030,590]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"storystream_top_leaderboard_desktop","slotClassName":"m-ad__hub_river_leaderboard","prebidName":"desktop_leaderboard_variable","selector":".l-main-content \u003e .c-entry-group-labels--stream","sizes":[[728,90],[970,90],[970,250],[1020,90]],"holdSize":[728,90],"maxSlots":1,"filters":{"viewportWidth":{"min":880}}},{"name":"storystream_bottom_leaderboard_variable_desktop","slotClassName":"m-ad__desktop_article_body","prebidName":"btf_leaderboard_variable","selector":".c-entry-group-labels--stream ~ .c-entry-update-bar","sizes":[[1030,590],[620,366],[620,371],[620,415],[728,90]],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"hideIfPresent":{"selector":".connatix-article"},"avoidFloats":true,"containerWidth":{"min":729}}},{"name":"storystream_river_leaderboard_variable_desktop","slotClassName":"m-ad__hub_river_leaderboard","classNames":["mt-3","mb-3"],"prebidName":"hub_river_leaderboard","selector":".c-stream-list .c-stream-list__entry:nth-of-type(6n)","sizes":[[1030,590],[620,366],[620,371],[620,415],[728,90]],"previewHoldSize":[726,415],"insertion":"after","filters":{"viewportWidth":{"min":729}}},{"name":"storystream_top_leaderboard_mobile","slotClassName":"m-ad__hub_river_leaderboard","prebidName":"mobile_leaderboard","selector":".l-main-content \u003e .c-entry-group-labels--stream","sizes":[[320,50],[300,250],[300,"250v"]],"holdSize":[320,50],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"storystream_bottom_leaderboard_variable_mobile","slotClassName":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_footer","selector":".c-entry-group-labels--stream ~ .c-entry-update-bar","sizes":[[320,50],[300,250],[300,"250v"],[1030,590],[325,508],[325,204],{"size":[620,366],"filters":{"viewportWidth":{"min":620}}}],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"containerWidth":{"max":728}}},{"name":"storystream_river_leaderboard_variable_mobile","slotClassName":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".c-stream-list .c-stream-list__entry:nth-of-type(6n) .c-entry-box--stream-item","sizes":[[320,50],[300,250],[300,"250v"]],"customSizes":[{"placement":2,"sizes":[[320,50],[300,250],[300,"250v"],[1030,590],[325,508],[325,204]]}],"previewHoldSize":[300,250],"insertion":"after","filters":{"viewportWidth":{"max":728}}},{"name":"site_sponsorship_logo_white","selector":".site_sponsorship_logo.site_sponsorship_logo-white","sizes":[[26,1]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":601}}},{"name":"site_sponsorship_logo_color","selector":".site_sponsorship_logo:not(.site_sponsorship_logo-white), .c-tab-bar__sponsorship","sizes":[[26,2]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":601}}},{"name":"site_sponsorship_logo_mobile_white","selector":".site_sponsorship_logo_mobile.site_sponsorship_logo-white","sizes":[[26,3]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"max":600}}},{"name":"site_sponsorship_logo_mobile_color","selector":".site_sponsorship_logo_mobile:not(.site_sponsorship_logo-white), .c-tab-bar__sponsorship","sizes":[[26,4]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"max":600}}},{"name":"native_ad_latest","selector":".dynamic-native-ad-native_ad_latest","prebidName":"desktop_article_medrec_dynamic","sizes":[[300,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_video","selector":".dynamic-native-ad-native_ad_video","sizes":[[200,200]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_ymal_link","selector":".dynamic-native-ad-native_ad_ymal_link","sizes":[[1200,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_linkset_link","selector":".dynamic-native-ad-native_ad_linkset_link","sizes":[[1200,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_content_link","selector":".dynamic-native-ad-native_ad_content_link","sizes":[[650,150]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_module","selector":".c-related-list","sizes":["fluid",[1100,250]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"maxSlots":1},{"name":"branded_content_feedback_form","selector":".branded_content_feedback_form","sizes":[[300,200]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"maxSlots":1},{"name":"article_sponsorship","slotClassName":"m-ad__article_sponsorship","selector":".entry_template_package_landing .c-package-cover__title-body, body.entry_layout_unison_main .c-entry-hero--feature .c-entry-hero__content .c-byline, body.entry_layout_unison_main div.c-entry-hero:not(.c-entry-hero--feature)","insertion":"after","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"hub_sponsorship","slotClassName":"m-ad__hub_sponsorship","selector":".c-hub-title__inner, .c-group-header .p-page-title","insertion":"after","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"failsafe_article_med_rec_athena_mobile","slotClassName":"m-ad__mobile_med_rec_athena","prebidName":"mobile_med_rec_athena","selector":"body:not(.entry_template_stream):not(.entry_template_package_landing) .c-entry-content \u003e *:last-child","sizes":[[300,250],[300,"250v"],[1030,590],[325,508],[300,265],[325,204]],"holdSize":[300,250],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"max":728},"spacing":{"before":300},"hideIfPresent":{"selector":".c-entry-content .m-ad","count":2}}},{"name":"failsafe_mobile_leaderboard","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p:nth-of-type(2)","sizes":[[320,50],[300,250],[300,"250v"]],"holdSize":[300,250],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"max":728},"hideIfPresent":{"selector":".m-ad__mobile_leaderboard"}}},{"name":"desktop_article_body_failsafe","classNames":["mb-3"],"prebidName":"desktop_article_body","selector":".l-segment:not(.l-feature) .c-entry-content p + p, .l-article .c-entry-content p + p","sizes":[[1030,590],[620,366],[620,371],[620,415],{"size":[728,90],"filters":{"containerWidth":{"min":700}}}],"previewHoldSize":[726,415],"insertion":"after","maxSlots":1,"filters":{"avoidFloats":true,"paragraphHeight":{"above":100,"below":100},"spacing":{"before":200,"after":200},"containerWidth":{"min":620},"hideIfPresent":{"selector":".c-entry-content .m-ad__desktop_article_body"}}}],"adConfigurationUrl":"https://concertads-configs.vox-cdn.com/sbn/curbed/config.json"};
+
+
+
+
+
+  function instantiateConcertAds() {
+    var concertAdsConfig = {
+      cmd: window.concertAdsQueue
+    };
+
+    for (var property in window.CONCERT_ADS_CONFIG) {
+      concertAdsConfig[property] = window.CONCERT_ADS_CONFIG[property];
+    }
+
+    window.concertAds = new ConcertAds(concertAdsConfig);
+  }
+
+
+
+
+
+
+
+// Formatter for Curbed Handbook
+document.addEventListener("DOMContentLoaded", function() { 
+  var groups = document.querySelectorAll('.c-entry-hero .c-entry-group-labels li span');
+  for (var i = 0; i<groups.length; i++){
+    // If it has "Curbed Handbook" in the groups
+    if (groups[i].innerText.toLowerCase() === 'curbed handbook') {
+      // set the text of the "in this story stream" module to be "In This Chapter"
+      document.querySelector('.c-simple-link-list.c-simple-link-list-stream .p-breaker-head__wrapper').innerText = "In This Chapter";
+      return;
+    }
+  }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://la.curbed.com/2015/5/26/9956946/charles-bukowski-childhood-home","url":"https://la.curbed.com/2015/5/26/9956946/charles-bukowski-childhood-home","headline":"Charles Bukowski\u0026#39;s Famous Childhood Home in Mid-City LA is For Sale","description":"Put on your pilgrimage beanies, disaffected young white boys—a famous childhood home of your hero Charles Bukowski is up for sale (will it be long for this world?). Bukowski\u0026amp;#39;s family moved to 2122...","speakable":{"@type":"SpeakableSpecification","xpath":["/html/head/title","/html/head/meta[@name='description']/@content"]},"datePublished":"2015-05-26T13:44:29-07:00","dateModified":"2015-05-26T13:44:29-07:00","author":[{"@type":"Person","name":"Adrian Glick Kudler"}],"publisher":{"@type":"Organization","name":"Curbed LA","logo":{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/uploads/chorus_asset/file/13668559/google_amp.0.png","width":116,"height":60}},"articleSection":"Front Page","keywords":["Front Page","Los Angeles Celebrity Homes"],"image":[{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/eZWRFoOwn5Zf20HVdkQ1qyTiA-E=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/12855843/2015.05_bukowski.0.1488794175.jpg","width":1400,"height":1400},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/1lSUPRJrV_MP7bf3l1NzT5UWhGE=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/12855843/2015.05_bukowski.0.1488794175.jpg","width":1400,"height":1050},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/PwqpYNjoE8RTCkp-khlWMxSVtp8=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/12855843/2015.05_bukowski.0.1488794175.jpg","width":1400,"height":788}],"thumbnailUrl":"https://cdn.vox-cdn.com/thumbor/eZWRFoOwn5Zf20HVdkQ1qyTiA-E=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/12855843/2015.05_bukowski.0.1488794175.jpg"}
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+
+
+
+
+
+
+
+
+Curbed LA homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Los Angeles
+
+
+
+
+
+Log in or sign up
+
+
+
+Log In
+
+
+Sign Up
+
+
+
+
+Site search
+
+Search
+Search
+
+
+
+
+
+Curbed LA main menu
+
+
+
+              Cities
+              
+                
+
+
+
+
+              Homes
+              
+                
+
+
+
+
+              Neighborhoods
+              
+              
+
+
+
+              News
+              
+                
+
+
+
+
+            More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Cities
+            
+              
+
+
+
+
+
+                          Atlanta
+                        
+
+
+
+                          Austin
+                        
+
+
+
+                          Boston
+                        
+
+
+
+
+
+                          Chicago
+                        
+
+
+
+                          Detroit
+                        
+
+
+
+                          Los Angeles
+                        
+
+
+
+
+
+                          New York
+                        
+
+
+
+                          San Francisco
+                        
+
+
+
+                          Archive.curbed.com
+                        
+
+
+
+
+
+
+          Homes
+          
+            
+
+
+
+
+                          For Sale  in LA
+                        
+
+
+
+                          For Rent in LA
+                        
+
+
+
+                          Curbed Comparisons
+                        
+
+
+
+                          Home Tours
+                        
+
+
+
+
+
+            Neighborhoods
+            
+          
+
+
+
+          News
+          
+            
+
+
+
+
+
+                          Real Estate Market Reports
+                        
+
+
+
+                          Rental Market Reports
+                        
+
+
+
+                          Homelessness
+                        
+
+
+
+
+
+                          Development  News 
+                        
+
+
+
+                          Transportation
+                        
+
+
+
+                          Architecture  
+                        
+
+
+
+
+✕
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filed under:
+
+
+
+Mid-City
+
+
+
+
+Los Angeles Celebrity Homes
+
+
+
+
+
+Charles Bukowski's Famous Childhood Home in Mid-City LA is For Sale
+
+
+
+
+    New,
+  
+
+
+        15
+      
+comments
+
+
+
+
+
+
+    
+      By
+      
+Adrian Glick Kudler
+
+
+
+          May 26, 2015,  1:44pm PDT
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bukowski via Getty Images
+
+
+
+Put on your pilgrimage beanies, disaffected young white boys—a famous childhood home of your hero Charles Bukowski is up for sale (will it be long for this world?). Bukowski's family moved to 2122 S. Longwood Ave., in Mid-City, in 1931, when Bukowski was 11 and the house was about six years old; they were living here while the budding degenerate attended Mount Vernon Junior High, Dorsey High, and Los Angeles High, and while his abusive father pretended to go to a job he'd lost, according to Bukowski.net. They were also here when Bukowski wrote his first short story (in 1935) and was published for the first time (in 1940). And it's the house where Bukowski's father flew into a rage over his stories and threw all his things (typewriter, clothes, writing) out on the lawn. Bukowski left in 1942, but returned to the house through 1947. He lightly fictionalized some of his life here in Ham on Rye.
+.site-cla .post .post-title { width: 1000px !important; padding-bottom: 8px; padding-top:6px } .site-cla .post h1.post-title a { font-size:35px !important} .site-cla #leadintro { width:1000px; font-size:16px } .site-cla .post .post-body .post-more {width:660px;} .site-cla .post .post-body img.bigpic {width:640px; max-width:640px !important; height:auto } .site-cla .post .post-body #leadphoto {width:640px; max-width:640px !important; height:auto } .site-cla .post .post-body .pullquote { float:right; width:250px; margin: 0 0 10px 14px !important; padding: 8px 4px; font-family:TradeGothicLTStdBoldCondensed; Helvetica, Arial; font-size:32px !important; line-height: 35px !important; border-top: 4px double #FF0000; border-bottom: 4px double #FF0000; } .post p { font-size: 17px; line-height:27px; margin-bottom:10px } .post h3 { font-family:TradeGothicLTStdBoldCondensed; Helvetica, Arial; font-weight:normal; font-size:38px; width: 640px; padding: 18px 0; } .post h4 { font-family:TradeGothicLTStdBoldCondensed; Helvetica, Arial; font-weight:normal; font-size:36px; width: 660px; padding-bottom:5px; padding-top:14px; } .site-cla .post .post-title { font-size:36px !important; width: 660px; padding-bottom: 8px; padding-top:6px; line-height:40px !important } .post-metadata {margin-top: 340px !important } #column-right { padding-top: 126px } .post .post-body object, .post .post-body img { max-width: inherit !important; } .firstcharacter { float: left; color: #FF0000; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px;
+ And now the house is up for sale for the first time since 1996, asking $569,900. It has three bedrooms, two bathrooms, a "[g]ood size kitchen with tile counter and [tile] floors," a dining room, an da two-car garage. According to the listing, "Home have just been painted inside" and "PRICE HAVE BEEN REDUCED FOR FAST SALE."
+ 
+ · 2122 South Longwood Ave [Redfin]
+
+
+
+
+
+
+
+
+
+
+
+    Next Up In
+    
+        Los Angeles Celebrity Homes
+
+
+
+Jason Segel is selling his Los Feliz house for $2.8M
+
+
+Hollywood Hills home previously owned by Mark Ruffalo, Zooey Deschanel asking $3M
+
+
+Peep Dita Von Teese’s decadent Los Feliz home
+
+
+Topanga retreat once owned by Neil Young seeks $1.45M
+
+
+‘Hunger Games’ actress selling tranquil two-bedroom in Mount Washington for $1.1M
+
+
+Dr. Phil’s house with gun-filled dining room for sale for $5.75M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Most Read
+        
+
+
+
+
+
+
+
+
+
+    
+
+
+  <source
+    srcset="https://cdn.vox-cdn.com/thumbor/Ld_cfjAChuKc8JigBNJ2H5F8lBk=/0x0:800x582/250x188/filters:focal(336x227:464x355):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55676037/Helena_Modjeska_Arden.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/B-xtYhsvdrlvN5I8oiqyw7IJids=/0x0:800x582/500x375/filters:focal(336x227:464x355):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55676037/Helena_Modjeska_Arden.0.jpg 500w"
+    sizes="250px"
+    type="image/webp"
+  >
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/n6J5Ze1UC9KaIDm_AYskA97ig1w=/0x0:800x582/250x188/filters:focal(336x227:464x355)/cdn.vox-cdn.com/uploads/chorus_image/image/55676037/Helena_Modjeska_Arden.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/m_ujx43ftxfQXVWm7dpXehY2eO8=/0x0:800x582/500x375/filters:focal(336x227:464x355)/cdn.vox-cdn.com/uploads/chorus_image/image/55676037/Helena_Modjeska_Arden.0.jpg 500w" sizes="250px" alt="" data-upload-width="800" src="https://cdn.vox-cdn.com/thumbor/ejPYmqg42_w4lMgw59H9dIGjmBg=/0x0:800x582/1200x900/filters:focal(336x227:464x355)/cdn.vox-cdn.com/uploads/chorus_image/image/55676037/Helena_Modjeska_Arden.0.jpg" />
+
+  
+
+    
+<img class="c-dynamic-image " alt="" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1634096777_3977_88625" data-cdata='{"image_id":55676037,"ratio":"standard"}'>
+<noscript><img alt="" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/55676037/Helena_Modjeska_Arden.0.jpg"></noscript>
+
+  
+
+
+
+Helena Modjeska’s California paradise 
+The 19th century’s most famous actress built a rambling cottage in a wood-studded valley at the foot of the Santa Ana Mountains.
+
+
+
+
+
+
+
+
+    
+
+
+  <source
+    srcset="https://cdn.vox-cdn.com/thumbor/SKq8mj_hlDgEKOov-3LD_jckNy4=/0x0:3000x2000/250x188/filters:focal(1260x760:1740x1240):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66291210/LizKuball_180614_0027_HighRes_Hollywood_Mama_Shelter_rooftop.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/se27vUTMFrYLIfklOPScwzDvI64=/0x0:3000x2000/500x375/filters:focal(1260x760:1740x1240):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66291210/LizKuball_180614_0027_HighRes_Hollywood_Mama_Shelter_rooftop.0.jpg 500w"
+    sizes="250px"
+    type="image/webp"
+  >
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/ZSlb6wJZ7CY71w0TjKXuONVfHRI=/0x0:3000x2000/250x188/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66291210/LizKuball_180614_0027_HighRes_Hollywood_Mama_Shelter_rooftop.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/B6bwLmPLO2UOKhjrvkYymdfeS90=/0x0:3000x2000/500x375/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66291210/LizKuball_180614_0027_HighRes_Hollywood_Mama_Shelter_rooftop.0.jpg 500w" sizes="250px" alt="Aerial view of Los Angeles neighborhood, low rise buildings, some tall ones, with palm trees interspersed and the hills behind." data-upload-width="3000" src="https://cdn.vox-cdn.com/thumbor/aj-a1VFG35gOdjTPqfn_pLgUZR0=/0x0:3000x2000/1200x900/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66291210/LizKuball_180614_0027_HighRes_Hollywood_Mama_Shelter_rooftop.0.jpg" />
+
+  
+
+    
+<img class="c-dynamic-image " alt="Aerial view of Los Angeles neighborhood, low rise buildings, some tall ones, with palm trees interspersed and the hills behind." data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1634096777_6233_88627" data-cdata='{"image_id":66291210,"ratio":"standard"}'>
+<noscript><img alt="Aerial view of Los Angeles neighborhood, low rise buildings, some tall ones, with palm trees interspersed and the hills behind." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/66291210/LizKuball_180614_0027_HighRes_Hollywood_Mama_Shelter_rooftop.0.jpg"></noscript>
+
+  
+
+
+
+Where to live in LA in 2020
+In increasingly expensive LA, choosing where to live can be tough. We’re here to help.
+
+
+
+
+
+
+
+
+
+concertAdsQueue.push(function() {concertAds.addVariable("trending_sidebar", ["true"])});
+
+
+
+
+
+
+(function(){
+  // load outbrain js
+  function loadOutbrain(){
+    var ref = document.querySelector("div.OUTBRAIN");
+
+    var script = document.createElement('script');
+    script.setAttribute('type','text/javascript');
+    script.setAttribute('src', 'https://widgets.outbrain.com/outbrain.js');
+    script.setAttribute('async', 'async');
+
+    ref.appendChild(script);
+  }
+
+  // Disable on mobile and tablet screens
+  // 880px is the upper bound for the `medium` breakpoint defined in UserAgent JS lib.
+  var shouldDisable = false && screen.width <= 880;
+  var scrollSubscriber = document.cookie.indexOf("scroll0=") > -1;
+  var hymnalPreviewContent = !!(window.location.href.indexOf("concert_preview") > -1);
+
+  if (!shouldDisable && !scrollSubscriber && !hymnalPreviewContent) {
+    // first, set a timeout to loadOutbrain, in case no ads load in 5s
+    // (i.e., blocked). once an ad has loaded, create a new timeout that
+    // will load outbrain if openmic doesn't get loaded in 2s
+    //
+    var adBlockerTimeoutId = setTimeout(loadOutbrain, 5000);
+    document.body.addEventListener('first_ad_rendered', function(){
+      clearTimeout(adBlockerTimeoutId);
+      var outbrainTimeoutId = setTimeout(loadOutbrain, 2000);
+      document.body.addEventListener('playlistRendered', function(){
+        clearTimeout(outbrainTimeoutId);
+      });
+    });
+  }
+})();
+
+
+
+
+
+(function(){
+  // load outbrain js
+  function loadOutbrain(){
+    var ref = document.querySelector("div.OUTBRAIN");
+
+    var script = document.createElement('script');
+    script.setAttribute('type','text/javascript');
+    script.setAttribute('src', 'https://widgets.outbrain.com/outbrain.js');
+    script.setAttribute('async', 'async');
+
+    ref.appendChild(script);
+  }
+
+  // Disable on mobile and tablet screens
+  // 880px is the upper bound for the `medium` breakpoint defined in UserAgent JS lib.
+  var shouldDisable = false && screen.width <= 880;
+  var scrollSubscriber = document.cookie.indexOf("scroll0=") > -1;
+  var hymnalPreviewContent = !!(window.location.href.indexOf("concert_preview") > -1);
+
+  if (!shouldDisable && !scrollSubscriber && !hymnalPreviewContent) {
+    // first, set a timeout to loadOutbrain, in case no ads load in 5s
+    // (i.e., blocked). once an ad has loaded, create a new timeout that
+    // will load outbrain if openmic doesn't get loaded in 2s
+    //
+    var adBlockerTimeoutId = setTimeout(loadOutbrain, 5000);
+    document.body.addEventListener('first_ad_rendered', function(){
+      clearTimeout(adBlockerTimeoutId);
+      var outbrainTimeoutId = setTimeout(loadOutbrain, 2000);
+      document.body.addEventListener('playlistRendered', function(){
+        clearTimeout(outbrainTimeoutId);
+      });
+    });
+  }
+})();
+
+
+
+
+
+
+
+Loading comments...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Community Guidelines
+Masthead
+About Curbed
+Editorial Ethics and Guidelines
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2021 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Los Angeles
+
+
+Share this story
+
+
+
+
+
+
+
+
+
+      var phonographEvents = phonographEvents || [];
+      (function() {
+        var continent = document.cookie.match(/_chorus_geoip_continent=([^;]+)/i) || [];
+        var data = { 'Page Title':document.title, 'GA Track Prefix':'t1.', 'geoip_continent': continent[1] };
+        var dataLayer = window.dataLayer || [];
+        dataLayer
+          .filter(function(m) { return !!m['Network'] })
+          .forEach(function(m) {
+            Object.keys(m).forEach(function(k) { data[k] = m[k] });
+          });
+
+        var userid = data['Logged in Status'];
+        data['User ID'] = (typeof userid === 'number') ? userid : null;
+        phonographEvents.push(['pageload', data]);
+      })();
+    
+
+
+
+  (function(a,c,d,e){if(!a[c]){var b=a[c]={};b[d]=[];b[e]=function(a){b[d].push(a)}}})(window,'Scroll','_q','do');
+  Scroll.config = {
+    detected: false
+  };
+
+
+
+

@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+This: Bukowski | Poet; Don't Know It
+
+
+
+
+
+
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sites.psu.edu\/caradorercl1314\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '17f349026d';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://sites.psu.edu/caradorercl1314/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        
+
+
+
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'UA-2861904-31', {
+				'anonymize_ip': false,
+				'allow_google_signals': false,
+			})
+					
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+
+
+body.custom-background { background-image: url("https://sites.psu.edu/caradorercl1314/wp-content/uploads/sites/5809/2013/09/photo-41.jpg"); background-position: center top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+
+#wpadminbar { display:none; }
+
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+
+#wp-admin-bar-abm-login{display:block!important}body .wp-video-shortcode video,body video.wp-video-shortcode{margin:0;padding:0;background:0 0;border:none;box-shadow:none;min-width:0;height:auto;min-height:0}.screen-reader-text:not(button){clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}
+
+
+
+Sites at Penn StateLog InSearch 
+
+
+
+
+Poet; Don't Know It
+
+
+
+Menu
+Skip to content
+
+HomeBienvenue!
+
+
+
+
+
+
+
+
+This: Bukowski
+
+6 Replies 
+
+
+San Francisco is a beautiful, pulsing city, full of culture and diversity. When I visited a few summers ago, one of my favorite areas was North Beach. Although the outdoor murals and sculptures splattered all over the buildings and sidewalks definitely played a part in that, the main reason I loved North Beach so much is a bookstore called City Lights.
+
+City Lights was the oasis of the Beatnik generation. Poets and authors would gather there throughout the 1950’s and 60’s to discuss controversial prose and banned literature. In the present day, City Lights remains a safe haven for the alternative and presents a labyrinth of books to venture through. I spent several hours wandering through the stacks and trying out various genres. Eventually, I came upon a sign leading me towards the poetry section. Here, I discovered one of my all-time favorite poets/authors: Charles Bukowski. I picked up a collection of his poems called “The Last Night of the Earth Poems” and fell in love.
+
+Throughout Charles Bukowski’s fifty years of writing, he composed six novels, several books of short stories, and dozens of collections of poetry. The overwhelming majority of his writing overflows with disillusionment, anger, and (copious amounts of) alcohol. Though Bukowski is one of the most cynical authors I can think of, his work continues to charm me. I think this is due to the unapologetic realism Bukowski injects into his writing. (His weariness towards society is characteristic of the Beatnik generation, though Bukowski was not a Beatnik himself.) **For more information on Bukowski or to browse some of his work, click here.
+
+The poem “This” illustrates Bukowksi’s style well.
+this
+ 
+self-congratulatory nonsense as the
+famous gather to applaud their seeming
+greatness
+ 
+you
+wonder where
+the real ones are
+ 
+what
+giant cave
+hides them
+ 
+as
+the deathly talentless
+bow to
+accolades
+ 
+as
+the fools are
+fooled
+again
+ 
+you
+wonder where
+the real ones are
+ 
+if there are
+real ones.
+ 
+this
+self-congratulatory nonsense
+has lasted
+decades
+and
+with some exceptions
+ 
+centuries.
+ 
+this
+is so dreary
+is so absolutely pitiless
+ 
+it
+churns the gut to
+powder
+shackles hope
+ 
+it
+makes little things
+like
+pulling up a shade
+or
+putting on your shoes
+or
+walking out on the street
+ 
+more difficult
+near
+damnable
+ 
+as
+the famous gather to
+applaud their
+seeming
+greatness
+ 
+as
+the fools are
+fooled
+again
+ 
+humanity
+you sick
+motherfucker.
+ 
+Bukowski separates the “the little things” physically by moving to the next line after each one: “pulling up a shade/ or/ putting on your shoes/ or/ walking out on the street.” This is effective because it interrupts the flow of these words, making them harder to progress through. This syntactical challenge matches Bukowski’s implication that simple, mundane tasks become difficult when one has to deal with “self-congratulatory nonsense” all the time. I also like how Bukowski starts the second and third to last stanzas with “as.” The repetition of “as” allows the reader to connect the two stanzas and compare them. “The famous” become “the fools.”
+
+
+
+			This entry was posted in passion and tagged babcock, passion, rcl1314 on March 26, 2014 by Cara Dore.								
+
+
+Post navigation
+Previous post:← Dancers Among Us
+Next post: Keeping Track →
+
+
+
+			6 thoughts on “This: Bukowski”		
+
+
+
+
+ank5283 April 3, 2014 at 11:00 am 
+
+I don’t have any experience with this particular poet, or with poetry in general for that matter, but you definitely did a good job of painting a good picture of this man and his attitude toward his work. I feel like this type of thing fits perfectly with the SanFran beatnik scene, and I can just picture the little bookstore with all of these types of eclectic and classic poetry books.
+
+
+
+
+
+
+
+
+arm5738 April 3, 2014 at 10:36 am 
+
+Bookstores like these are my favorite.  I feel like the Barnes and Nobles of the world have really taken over.  I was in New York with a friend a few weeks ago, and while we were walking back to his apartment we found the cutest bookstore.  It was family owned and run, and was the most charming place.  We spent about an hour in there sitting on these huge comfy chairs and reading poetry actually!  I am not exactly a poetry guru, but my friend is and he wanted to buy everything!  It seems like you would have loved this place!
+
+
+
+
+
+
+
+
+Kaylie Maines April 3, 2014 at 10:27 am 
+
+My high school English class actually did a small segment on Bukowski. I agree with you that I really appreciate how unapologetic he it. Throughout reading his work I always felt that he was just calling things the way he saw them. That’s fairly unique for poets of the Beatnik era. Most poetry from the time seems to be fraught with distress directed to the “man” and you can feel the poets personal stake in his or her work. But Bukowski just states his piece and seems to just move on.
+
+
+
+
+
+
+
+
+cxz5056 April 3, 2014 at 10:02 am 
+
+I found it great that you went to a place filled with thousands of texts of poetry and then you found something that you personally connected to you. I often find that when I have some of those moments in a new city for the first time, they are often some of the most rewarding. As for Bukowski, I think yes, the man is a cynic, however I believe the words that he says in his poem are maybe not cynical but more satirical.
+
+
+
+
+
+
+
+
+mjh5696 March 27, 2014 at 10:03 am 
+
+The way you dissect this poem is really well done. I wouldn’t have thought of the use of “as” to connect the two stanzas and show that the fools and the famous are one and the same. I enjoy this sort of writing too, the unapologetic, rough truth that emerges from Bukowski’s poems. I also enjoy that almost the entirety of this poem is nuanced and slightly subtle until the last stanza; this translates to dark humor.
+
+
+
+
+
+
+
+
+dag5441 March 27, 2014 at 9:59 am 
+
+This author does sound cynical. I think you did a great job of going from the overall picture of a bright, beautiful San Francisco down to a particular niche of poetry which the citizens of San Fran have to present. It begs the question of whether San Francisco is as it seems through first appearances or is it more the genre that Bukowski portrays? Just food for thought….
+
+
+
+
+
+
+
+Leave a Reply Cancel replyYou must be logged in to post a comment. 
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+Recent Posts
+
+
+What’s the deal with the SAT?
+
+
+Bo Burnham: what.
+
+
+Paul Is Dead
+
+
+HAIR: the American Tribal Love-Rock Musical
+
+
+Gifted Education
+
+
+Recent Comments40 Iconic Movie Images Recreated In LEGO | Sharing Interesting Stuff, Updates News & Free Tips on The Breakfast ClubA Youthful Reflection | maigan tozer on The Breakfast Clubank5283 on This: Bukowskiank5283 on Keeping Trackarm5738 on This: BukowskiArchives
+
+April 2014
+March 2014
+February 2014
+November 2013
+October 2013
+September 2013
+
+Categories
+
+Civic Issues
+
+passion
+
+rcl
+
+
+Meta 
+Log in
+Entries RSS
+Comments RSS
+Sites at Penn State - WordPress
+
+ 
+
+
+
+
+				Proudly powered by WordPress			
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var lean_captcha_object = {"ajax_url":"https:\/\/sites.psu.edu\/caradorercl1314\/wp-content\/mu-plugins\/lean-captcha\/lc_ep.php","key":"lc_YG4iPXQHnTXcx+Ku8J+\/xw=="};
+/* ]]> */
+
+
+
+
+

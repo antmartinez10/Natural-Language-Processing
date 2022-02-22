@@ -1,0 +1,2942 @@
+
+
+
+ 
+
+
+
+Charles Bukowski Bukowski, Charles (Short Story Criticism) - Essay - eNotes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            {"trackLazyImages":true,"tinyMCE":{"baseURL":"\/js\/tinymce\/"},"assets":{"imageUrl":"https:\/\/static.enotescdn.net\/images\/"}}
+        
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-79936-3', 'auto');
+    ga('set', 'dimension3', 'lit');
+    ga('set', 'dimension9', 'topics_free_paywall');
+    ga('send', 'pageview');
+    ga('require', 'ec');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        window.enotes = {};
+        window.enotes.ad = {};
+        
+
+
+
+
+
+
+
+
+
+        !function(n){if(!window.cnx){window.cnx={},window.cnx.cmd=[];var t=n.createElement('iframe');t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.player.js',c.setAttribute('async','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);
+        
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8L7ST4');
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Search this site
+
+
+
+    Go
+
+
+
+
+
+
+icon-question
+    Ask a Question
+    
+
+Join
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+                    Study Guides                
+
+
+
+                    Homework Help                
+
+
+
+                    Annotated Texts                
+
+
+
+                    Teacher Resources                
+
+
+
+
+
+        Start free trial
+    
+
+        Sign In
+    
+
+        Ask a question
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charles Bukowski
+
+
+
+
+        Start Free Trial
+    
+
+
+
+
+
+
+    Study Guide
+    
+
+
+
+    Questions & Answers
+    
+
+
+
+    Works
+    
+
+
+
+
+
+
+
+
+
+
+
+
+Study Guide
+
+
+Questions & Answers
+
+
+Works
+
+
+
+
+
+
+
+                                Biography
+                            
+
+
+
+                            Critical Essays
+                            
+
+
+
+
+
+                                            Charles Bukowski American Literature Analysis
+                                                                                    
+
+
+
+                                            Charles Bukowski Poetry: American Poets Analysis
+                                                                                    
+
+
+
+                                            Charles Bukowski Long Fiction Analysis
+                                                                                    
+
+
+
+                                            Bukowski, Charles (Poetry Criticism)
+                                                                                    
+
+
+
+                                            Bukowski, Charles (Short Story Criticism)
+                                                                                    
+
+
+
+                                            Bukowski, Charles (Vol. 108)
+                                                                                    
+
+
+
+                                            Bukowski, Charles (Vol. 2)
+                                                                                    
+
+
+
+                                            Bukowski, Charles (Vol. 5)
+                                                                                    
+
+
+
+                                            Bukowski, Charles (Vol. 9)
+                                                                                    
+
+
+
+
+
+                                Analysis
+                            
+
+
+
+
+        Start Free Trial
+    
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 1221
+
+
+    Charles Bukowski 1920–-1994
+  
+
+
+
+
+
+
+
+Download Charles Bukowski Study Guide
+
+
+        Subscribe Now
+    
+
+
+
+
+
+    (Born Henry Charles Bukowski, Jr.) German-born American short story writer, poet, and novelist. See also Charles Bukowski Poetry Criticism, Charles Bukowski Literary Criticism (Volume 2), and Volumes 5, 9, 108.
+  
+
+    Bukowski enjoyed a sound reputation as a prolific underground writer who explored the dissolute underbelly of skid-row America—specifically the Los Angeles lower-classes—in both fiction and poetry. Bukowski’s short fiction concentrates on uncontrite drinking and generally anti-social behavior, employing a scatological idiom which serves to mock academe and animate his idiosyncratic style and ideology, while also contributing to Bukowski's often harsh critical reception. Bukowski is praised for imbuing his stories and characters with a empathetic humanity and self-deprecating, absurdist black-comedy, avoiding maudlin sentimentality, and instead relying on experience, direct language, and imagination to balance his writing. Bukowski's work helped give rise to the “dirty realism” prominent in literature of the 1970s and 80s, most famously in the short fiction of Raymond Carver. Bukowski is known for depicting violent and sexual imagery in his hard-edged prose. This graphic usage has lead some critics to dismiss Bukowski's work as superficial and misogynist in nature; yet others contend that Bukowski merely satirizes this macho stance through his employment of sex, drunkenness, and violence as primary plot devices.
+  
+
+
+
+
+                googletag.cmd.push(function() { googletag.display(div-gpt-ad-1557078290242-0); });
+                
+
+
+
+                googletag.cmd.push(function() { googletag.display(div-gpt-ad-1557078384561-0); });
+                
+
+
+
+    Biographical Information
+  
+
+    Bukowski was born on August 16, 1920 in Andernach, Germany, and the family moved to Los Angeles when he was two years old. Bukowski endured a brutal, unhappy childhood. Rejected by girls due to his acute acne and often severely beaten by his disciplinarian father and other peers, Bukowski first discovered alcohol at the age of thirteen—a relationship that would inform much of his writing and lifestyle—of which he later said, “It was magic. … Why hadn't someone told me?” For most of his literary career, Bukowski drank heavily as both a survival mechanism and a form of hard-come, nearly mystical, regenerative ritual, writing that: “I have a feeling that drinking is a form of suicide where you're allowed to return to life and begin all over the next day. It's like killing yourself, and then you're reborn. I guess I've lived about ten or fifteen thousand lives by now.” The abuse Bukowski endured from his father, along with the isolation and extreme self-consciousness concerning his appearance, directly influenced Bukowski as a writer. After undergoing lengthy hospital treatments for his boils, Bukowski wrote his first story in 1935 about World War I flyer Baron Manfred Von Richthofen. He attended Los Angeles City College in 1939, but dropped out at the beginning of World War II and moved to New York City to become a full-time writer. Bukowski spent the next few years working a variety of menial jobs, drinking, traveling, and writing in literary obscurity. In 1944, Bukowski had his first short story accepted by Story magazine, a piece entitled “Aftermath of a Lengthy Rejection Slip.” In 1946 Bukowski moved back to Los Angeles and gave up writing; what followed was a ten-year period of heavy drinking, wandering, and surviving. This period in Bukowski's life—often called the barfly years—helped create much of the famous Bukowski myth. The result, described in the short fiction collection Erections, Ejaculations, Exhibitions and General Tales of Ordinary Madness (1972; also published as Life and Death in the Charity Ward, 1974), was a bleeding ulcer that nearly killed him. Bukowski took his survival as a sign of purpose and began writing again. His first collection of poems, Flower, Fist, and Bestial Wail, was published in 1959, while he was working as a postal employee. Bukowski continued to work menial jobs, such as factory worker and dishwasher, while publishing in small underground newspapers, mostly in L.A. At age thirty-five, Bukowski tried full-time writing again, this time consistently writing and publishing poems, novels, and short stories. Always a fecund writer, Bukowski continued to publish in literary magazines and with Black Sparrow Press and City Lights Books, respected independent publishing houses. Bukowski died on March 9, 1994 of leukemia.
+  
+
+    Major Works of Short Fiction
+  
+
+    Much of Bukowski's short fiction is semi-autobiographical and features Henry Chinaski, Bukowski’s fictional alter-ego. These stories usually involve the drunken escapades of the narrator in a variety of situations and personas: as philanderer, writer, gambler, outcast, iconoclast, schemer, brawler, criminal, jailbird, and father. Many of Bukowski's stories, like his poetry, revel in themes of sex and violence, often seen from an absurdist vantage point. His first collection of short stories, Erections, Ejaculations, Exhibitions and General Tales of Ordinary Madness, is, like its title suggests, about the elemental details of existence, and its prose is unapologetically lowbrow and celebratory of humankind's carnality and the body's exigencies. Hot Water Music (1983) contains stories which depict senseless violence, absurd situations, and a cruel and tragic fatalism. In the story “Decline and Fall,” a man named Mel tells a bartender, Carl, of his experience with two friends—a married couple. While at the couple's house watching football, the two friends have sex in front of Mel and then serve him the human remains of a fourteen-year-old hitchhiker for dinner. When Mel tries to leave the house, the wife forces herself on him as her husband watches. Shocked, Carl urges Mel to call the police. Mel denies the story, shoots Carl, and leaves the bar. In another story, “The Life of a Bum,” a down-and-out man named Harry spends an afternoon in Los Angeles drinking, sleeping in public, and wasting time. The narrative comes to a climax when Harry nudges an acquaintance, Monk, in front of a bus in order to steal the injured man's wallet. He then takes the money and eats at a restaurant, only to continue his aimless wandering around the city.
+  
+
+    Critical Reception
+  
+
+    Critical commentary on Bukowski's short fiction is mixed. He is often praised for his truthfulness, even though at times deemed ugly and offensive. Some critics view Bukowski in the tradition of the American literary maverick—blasting respectability and conformity in order to reveal a visceral, unregenerate humanity. Many critics, however, regard Bukowski's work as superficial, pretentious, and misogynist. Yet other commentators perceive a tongue-in-cheek attitude behind the macho posturing. Reviewers often comment on the influences of Ernest Hemingway and Henry Miller on Bukowski's short fiction style. The literary debt to Hemingway is clear: Bukowski shared with him a preoccupation with death, reliance on dialogue, and linguistic brevity. Miller and Bukowski employed a similar prose which is spontaneous with a distinct biographical component, and both individuals cultivated a mythic persona, as fictional and public personae are substantial to both authors' writing. Bukowski brought experience into fiction with a masterful technique of conscious selection and reorganization, creating personalities both distanced and close to Bukowski the writer and Bukowski the man. The autobiographical aspects of Bukowski's work are rich areas of literary scholarship; accordingly, critics frequently conclude that Bukowski's actual life is the subject matter of many of his short stories. As such, the stories are praised for their realism and lack of sentimentality, as they explore the lives of characters struggling to survive in poverty and drunkenness. Many commentators trace the development of Bukowski's stories: his later works tend to shift from a first person to third-person narration and are thus less autobiographical in nature. It is Bukowski's willingness to lay bare his exploration and celebration of the private self through writing that many critics perceive to be his most valuable contribution to contemporary American literature.
+  
+
+
+
+
+Principal Works
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 298
+
+
+Notes of a Dirty Old Man 1969
+  
+
+Erections, Ejaculations, Exhibitions and General Tales of Ordinary Madness 1972; abridged edition published as Life and Death in the Charity Ward, 1974
+  
+
+South of No North: Stories of the Buried Life 1973
+  
+
+Bring Me Your Love [illustrated by R. Crumb] 1983
+  
+
+Hot Water Music 1983
+  
+
+There's No Business 1984
+  
+
+Septuagenarian Stew 1990
+  
+
+Flower, Fist, and Bestial Wail (poetry) 1959
+  
+
+Poems and Drawings (poetry) 1962
+  
+
+Run with the Hunted (poetry) 1962
+  
+
+It Catches My Heart in Its Hands: New and Selected Poems, 1955-1963 (poetry) 1963
+  
+
+Grip the Walls (poetry) 1964
+  
+
+Cold Dogs in the Courtyard (poetry) 1965
+  
+
+Crucifix in a Deathhand: New Poems, 1963-1965 (poetry) 1965
+  
+
+The Genius of the Crowd (poetry) 1966
+  
+
+The Girls (poetry) 1966
+  
+
+Night's Work (poetry) 1966
+  
+
+True Story (poetry) 1966
+  
+
+The Curtains Are Waving (poetry) 1967
+  
+
+At Terror Street and Agony Way (poetry) 1968
+  
+
+Poems Written before Jumping out of an 8-Story Window (poetry) 1968
+  
+
+The Days Run Away Like Wild Horses over the Hills (poetry) 1969
+  
+
+If We Take … (poetry) 1969
+  
+
+Another Academy (poetry) 1970
+  
+
+Fire Station (poetry) 1970
+  
+
+Post Office (novel) 1971
+  
+
+Me and Your Sometimes Love Poems (poetry) 1972
+  
+
+Mockingbird, Wish Me Luck (poetry) 1972
+  
+
+While the Music Played (poetry) 1973
+  
+
+Burning in Water, Drowning in Flame: Selected Poems, 1955-1973 (poetry) 1974
+  
+
+Chilled Green (poetry) 1975
+  
+
+Factotum (novel) 1975
+  
+
+Weather Report (poetry) 1975
+  
+
+Scarlet (poetry) 1976
+  
+
+Love Is a Dog from Hell: Poems, 1974-1977 (poetry) 1977
+  
+
+Maybe Tomorrow (poetry) 1977
+  
+
+Legs, Hips, and Behind (poetry) 1978
+  
+
+Women (novel) 1978
+  
+
+Play the Piano Drunk Like a Percussion Instrument until the Fingers Begin to Bleed a Bit (poetry) 1979
+  
+
+Dangling in the Tournefortia (poetry) 1981
+  
+
+Ham on Rye (novel) 1982
+  
+
+Horsemeat (novel) 1982
+  
+
+The Last Generation (poetry) 1982
+  
+
+The Bukowski/Purdy Letters: A Decade of Dialogue, 1964-1974 [with Al Purdy] (letters) 1983
+  
+
+Sparks (poetry) 1983
+  
+
+Barfly (novel) 1984
+  
+
+War All the Time: Poems, 1981-1984 (poetry) 1984
+  
+
+The Roominghouse Madrigals: Early Selected Poems, 1946-1966 (poetry) 1988
+  
+
+Hollywood (novel) 1989
+  
+
+The Last Night of the Earth Poems (poetry) 1992
+  
+
+Pulp (novel) 1994
+  
+
+Bone Palace Ballet (poetry) 1997
+  
+
+Open All Night (poetry) 2000
+  
+
+
+
+
+Thomas R. Edwards (review date 1972)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 685
+
+
+    SOURCE: “News from Elsewhere,” in New York Review of Books, Vol. 19, October 5, 1972, p. 21–22.
+  
+
+    [In the following excerpt, Edwards offers a mixed review of Erections, Ejaculations, Exhibitions, and General Tales of Ordinary Madness.]
+  
+
+    Charles Bukowski never did escape from California. Certainly he is quite unimaginable anywhere else, and he is still out there on the West Coast, writing poems and stories about his five decades of drinking, screwing, horse-playing, and drifting around, proving defiantly that even at the edge of the abyss language persists. “A legend in his own time,” the cover of his new collection of stories calls him, and that seems fair.
+  
+
+Erections, Ejaculations, Exhibitions and General Tales of Ordinary Madness is a mixed lot. Bukowski's main market, the underground press and the girlie mags, casts a long shadow here—as he says himself, “To get rid of a story you gotta have fucking, lots of it, if possible,” and the little formulas of commercial pornography (“one of the best fucks I ever had,” etc.) recur on cue. There are some heavy attempts at satiric fantasy, and a tendency to end stories with the kind of peek at the reader (“What would you do?”) usually reserved for high-school composition classes.
+  
+
+    But Bukowski is more fun to read than that. He writes as an unregenerate lowbrow contemptuous of our claims to superior being. Politics is bullshit, since work is as brutalizing and unrewarding in a liberal order as in any totalitarian one; artists and intellectuals are mostly fakes, smugly enjoying the blessings of the society they carp at; the radical young are spiritless asses, insulated by drugs and their own endless cant from any authentic experience of mind or body; most women are whores, though honest whores are good and desirable; no life finally works, but the best one possible involves plenty of six-packs, enough money to go to the track, and a willing woman of any age and shape in a good old-fashioned garter belt and high heels.
+  
+
+    He makes literature out of the unfashionable and unideological tastes and biases of an average Wallace voter. And that sense of life is worth hearing about when it takes the form not of socko sex-and-schmerz but of blunt, unembarrassed explanation of how it feels to be Bukowski, mad but only north-north-west, among pretentious and lifeless claims to originality and fervor. Here he is in an underground press editorial office:
+  
+
+
+      I had been given the idea … that since it was the first anniversary of Open Pussy the wine and the pussy and the life and the love would be flowing.
+    
+
+
+
+      But coming in very high and expecting to see fucking on the floor and love galore, I only saw all these little love-creatures busily at work. They reminded me very much, so humped and dismal, of the little old ladies working on piecework I used to deliver cloth to, working my way up through rope-hauled elevators full of rats and stink, one hundred years old, piecework ladies, proud and dead and neurotic as all hell, working to make a millionaire out of somebody.
+    
+
+
+    He comes off best at anarchist satire in a plastic world—drinking and foul-mouthing himself into disgrace in cocktail lounges, on airliners, and at college poetry readings, showing up at a high-society Zen wedding as the only guest who's put on a tie and brought a present (he resentfully gets drunk, tries to remove the Zen master's marvelously translucent ears, and is felled by a karate chop), mistaking long-haired boys for girls, caught between secret pleasure and horror at the knowledge that his poems are known and admired by some of the cognoscenti. For all his dedication to the old role of the macho artist, the boozing, tough-talking writing phallus we knew and loved so well, Bukowski has a bit of the softy, the man of sentiment, the gull in him, happily for his art; he knows as well as we do that history has passed him by and that his loss is ours too, and in some of these sad and funny stories his status as a relic isn't wholly without its sanctity.
+  
+
+
+
+
+David Evanier (review date 1973)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 937
+
+
+    SOURCE: “Madman Incarnate,” in New Leader, Vol. 56, April 16, 1973, p. 19–20.
+  
+
+    [In the following review of Erections, Ejaculations, Exhibitions, and General Tales of Ordinary Madness, Evanier addresses Bukowski's popularity and maintains that “the gutsy, audacious quality of Bukowski's writing loses some of its freshness in this collection.”]
+  
+
+    Upon returning to my favorite Berkeley bookstore haunts last fall, I was amazed to find stacks upon stacks of sexually perverse comic books replacing the old stock of literary and political journals my parents, I, and last year's student body had grown up with. Apparently, the latest campus generation has little interest in even those writers who try to discard the old forms in order to understand the irrationality of us all: Ionesco, Beckett, Kafka, Céline, Pinter, Barthelme, etc. In fact, many young people seem to have opted for no literature at all. Such recent counterculture gurus as Hermann Hesse, J. R. R. Tolkien and Kurt Vonnegut are already fading from the scene. When I asked the clerks if any poet or writer was selling, the name I heard most often was Charles Bukowski.
+  
+
+    The Bukowski phenomenon is a peculiar one. For several years his column was carried by the now-defunct Los Angeles underground newspaper, Open City. He has had 20 books published by little presses. He has also been accorded the recognition of being included in the Penguin Modern Poets series. And at age 52, his newest work has been brought out by that epitome of avant-garde chic, City Lights, whose list ranges from Timothy Leary to William Burroughs to Allen Ginsberg.
+  
+
+    Despite being thus elevated to the pantheon of literary drug-advocates, Bukowski himself is indifferent or even opposed to marijuana: “That pot creates art, si, it's doubtful, and how. … The pot comes AFTER the Art is already there, after the artist is already there. The pot does not produce the Art.” In general he is scornful of the counterculture, of hippies and radicals: he feels that he is the only readable writer to emerge from the comic-book mentality of the underground press, and that he has been exploited by it.
+  
+
+    Bukowski may be right on both scores. Wherever he appears in print (usually in publications with names like Unmuzzled Ox or Camels Coming), he makes the other writers look bad indeed. Nonetheless, it is doubtful that he would have survived without the underpinning given him by the passive, uncritical, anti-intellectual counter-culture. Typically, his new book, largely a collection of his old Open City columns, is a very mixed bag of good, mediocre, and awful fiction. He draws no line between the reader and himself and, for all his flashes of brilliance, in the end one is sick of Bukowski—of his hemorrhoids, his cruelty, his endless rounds of bars and racetracks and prostitutes, his contempt for women.
+  
+
+    At one point, Bukowski describes himself as “the guy who'd been drinking cheap wine in a small room for 15 years. Had to walk down to the hall bathroom to take a crap. And when he typed, old ladies beat on their ceilings and floors with broom handles, scaring hell out of him. … Suddenly, out of some trick, he's known.” During those years of obscurity, he developed considerable self-discipline, depth, and a unique, acerbic writing style. A long period of self-deprivation affords an artist two alternatives: to create a finely wrought vision of life from his suffering, or to abandon control and bellow at the moon, cursing his fate. Bukowski vacillates between the two. Perhaps he is leary of success.
+  
+
+    But no matter how much fame Bukowski may win—and it is unlikely his following will grow very far beyond its present size—there is little danger of his severing the links between him and his student admirers: his bohemian lifestyle, his penury, his psychological hangups, his neurotic obsessions. Well into middle age, he is still at war with landladies, recalcitrant girl friends, and other states of helplessness. He is a man working out of the desperation of his own life. His popularity with the counterculture stems from his vulnerability, self-destructiveness, honesty and erraticism: He is the writer as madman incarnate, bottle in one hand, challenging the world, and doomed.
+  
+
+    Unfortunately, as is frequently the case with reprinted journalism, the gutsy, audacious quality of Bukowski's writing loses some of its freshness in this collection. Moreover, in many of the pieces his prose is slack, rambling and uncontrolled, with the result that the precise, incisive passages become blurred in the memory and lose much of their impact. Half of the material would have been omitted by a discerning editor. There is no question that Bukowski is more consistently disciplined in his poetry.
+  
+
+    Still, his is an original talent. When we reflect on the writers who have made the deepest impression on us, we realize they are the ones whose presence cannot be denied. They sweep aside our boredom, indifference and sophistication because their style is compelling. Whatever their shortcomings, they say things in a way that has never been said before. Such is Bukowski. His words rip across the page, angry, intense, sometimes hilarious and, at his best, as finely honed as the masters.
+  
+
+    He will never be a peaceful or a happy man; and he will never understand women, or himself, very well. The lack of a middle course will, I am sure, characterize him always. His faults are irremediable, even if endearing. In a letter to the poet William Wantling, Bukowski made an observation about another artist that applies equally to himself: “Artaud said what he had to say, not what he should say. This, of course, is what distinguishes madmen from motorcycle policemen.”
+  
+
+
+
+
+William Feaver (review date 1974)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 341
+
+
+    SOURCE: “LA Low-life,” in Times Literary Supplement, November 29, 1974, p. 1336.
+  
+
+    [In the following review of Life and Death in the Charity Ward, Feaver praises the humor and intensity of the stories in the collection.]
+  
+
+    In the sonsobitches school of writing you talk as you speak, but more so. Short sentences. Expletives. “Oh shit, oh shit”, your characters say nearly every time they achieve climax. Life is a balling, boozing, brawling merry-go-round and the tears show through the vomiting. Charles Bukowski treads the streets and pads of Los Angeles where many others trod before him: Philip Marlowe, for one, and the Kerouac crowd when they weren't in San Francisco or on the road. He writes evidently from experience, tightened up. His way of life veers between the campus poetry-reading and the charity ward where things reach bottom. It consists of shocking the folks one side of the tracks, letting rip the other side, and looking back to see how it all goes down in the world of books.
+  
+
+    There's any amount of fresh, raging agony and ecstasizing in this set of short stories [Life and Death in the Charity Ward]. They are mostly very short and one-shot. As a rule, the author acts as guide, though other personae are sometimes created and given precedence—and in any case it's impossible to tell when Mr Bukowski is writing about himself or someone more so. He does three-line sentences every now and again, takes the reader by the nose and pulls him through apartments, warehouses and bars, talking all the while in a Marlowe-on-the-skids monotone.
+  
+
+    Two things save the collection from being simply idiomatic-romantic. First, it's persistently funny, in a Guys and Dolls turned bums and asses way. The other quality is its intermingling of Howl and Spillane. As the monologue gathers pace and is brought to bear fully, ferociously on its targets, it sets up a tirade admirable in its intensity, strong enough to blow others, such as Hunter Thompson, who have tried venting all in this spirit, right off the Los Angeles map.
+  
+
+
+
+
+Peter Ackroyd (review date 1974)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 472
+
+
+    SOURCE: “Short Changed,” in The Spectator, Vol. 233, November 30, 1974, p. 711.
+  
+
+    [In the following review, Ackroyd provides a disparaging review of Life and Death in the Charity Ward.]
+  
+
+    I wish that critics would nail the ‘down and out’ routine for the lie it is; it is all very well for socialist journalists to revel in the dead prose of George Orwell, but that game came to an abrupt halt in the 'thirties. Now we have an American writer, Charles Bukowski, who writes about alcoholism and poverty as if they somehow increased his stature. Degradation, it seems, can make philosophers of us all, but it does not necessarily make writers.
+  
+
+Life and Death in the Charity Ward is a collection of short stories which are not improved in the retelling. The ‘poet’ (this is his term, not mine) is taken to the charity ward and is sick; he goes to a poetry reading and is sick; he is raped by two women at once and is sick; he finds a drinking companion and they are both sick. When he is not vomiting, he is talking in glowing and sometimes frantic terms of the pleasures of oral intercourse. This used to be the thing to do among certain American writers, although Mr Bukowski is much more cool and self-effacing than the average genius:
+  
+
+                    “I think that you are the modern living master of
+the short story. Nobody touches you.”
+                    “Sure, Harvey. Where's the scotch.”
+
+
+    This is known as the common touch. And it takes a strong man to resist praise:
+  
+
+“Charles Bukowski …”
+I stood up.
+“Oh, Charles Bukowski!”
+“Uh, huh.”
+
+
+    There is a world-weary poetry in that grunt; only ‘poets’ can afford to be as boorish and as self-indulgent as Bukowski appears in his own pages.
+  
+
+    Mr Bukowski is obviously following that age-long principle of writing down anything and everything which comes into his head, and he no doubt thinks of himself as the true heir of Shakespeare in never having to blot a line. It becomes increasingly clear in a reading of these stories that he has no critical sense whatsoever, since his talent is a matter of hit-and-mainly-miss. This leads to some vulgar and prosaic passages, since a writer who is not self-aware is condemned to be continually looking over his own shoulder. Bukowski's themes were fads some time ago, and it is now practically impossible to make sex and violence interesting. Of course a man who lives in the past is always the one who has the most to hide from the present, and Bukowski suffers from an inability to perform as much as he promises. Only a bad poet labels himself poet, and only a frustrated man writes about sex with such prurient abandon. A dull character finally emerges, and it is a dullness which spreads through these stories like a stain.
+  
+
+
+
+
+Michael F. Harper (review date 1983)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 718
+
+
+    SOURCE: “A Sordid, Obscene, Violent Underground Los Angeles,” in Los Angeles Times Book Review, December 11, 1983, p. 2.
+  
+
+    [In the following review, Harper compares Bukowski to Ernest Hemingway and asserts that the stories in Hot Water Music “are imbued with the perverse romanticism of adolescent disillusionment.”]
+  
+
+    Ernest Hemingway and Henry Miller are alive and ill and living in a rented room in East Hollywood—or so one might think after reading this collection of 36 short stories [Hot Water Music]. Sordid, obscene and violent, Bukowski's Los Angeles is more like Miller's Paris than Hemingway's, but our guide through this underworld responds to Hemingway's laconic stoicism, not Miller's apocalyptic rhapsodies.
+  
+
+    Bukowski's narrators, who are sometimes “underground” writers like their creator, live in a world of cheap hotels “filled with prostitutes, winos, pickpockets, second-story men, dishwashers, muggers, stranglers and rapists.” The inhabitants of this world are all losers, because “life” is a game where the odds are stacked against you: “You might think for a while, especially when you were young, that luck was with you, and sometimes it was. But there were all manner of averages and laws working that you knew nothing about, even as you imagined things were going well.”
+  
+
+    Lives of quiet desperation explode in apparently random and unmotivated acts of bizarre violence. A jealous wife shatters her husband's dreams with a revolver; a drunken woman takes a matchbook and tries to turn herself into Joan of Arc at the stake; a bank manager gets drunk and molests children; a man facing unemployment conquers his impotence by raping a neighbor in an apartment elevator; an ex-stripper sexually mutilates the man she is ostensibly seducing; a small-time gambler who reads Camus impulsively slits a stranger's throat and steals his matches. Most of the dialogue is unquotable in these pages, and story after story describes murderous impulses born of frustrations for which there is no cure.
+  
+
+    “No cure”—that is the key to Bukowski's bleak vision, and it is in this fatalism that he most resembles Hemingway. In the final analysis, the horror of the lives Bukowski describes is not, in his view, the product of any particular social or political system, and hence it cannot be eradicated by social and political change. Human life is horrible, Bukowski implies, because of all the ills that flesh is heir to, and social decay is simply an extension of the biological order making men and women susceptible to hemorrhoids and halitosis, vulnerable to attacks by hot lead, cold steel and sharp teeth. In short, the ultimate realities in Bukowski's world, as in Hemingway's, are flesh and the death that will eventually overtake it: “Well, we all ended up dead, that was just mathematics. Nothing new. It was waiting around that was the problem.”
+  
+
+    The Bukowski hero is the man or woman with the courage to face this fact squarely, to recognize that death makes nonsense of all pretensions to beauty, tenderness, love and delicacy, to accept that all humane ideals are sentimental lies which are dangerous because they offer only cruelly false hope.
+  
+
+    All you can do is take whatever comfort you can find (booze, or another warm, decaying body) wherever you can find it (usually a dirty, ill-lighted place): “All you could do was light another cigarette, pour another drink, check the peeling walls for lips and eyes. What men and women did to each other was beyond comprehension.”
+  
+
+    If all this strikes you as the ultimate wisdom, then Charles Bukowski will seem a very profound writer. There is certainly a raw power in these stories, but Bukowski's hard-boiled fatalism seems to me the flip side of the humanism he denies and therefore just as false as the sentimentality he ridicules. The things he writes of are undoubtedly “true,” in the sense that they have their counterparts in “real life,” and a virtue of his work is to give a voice to the kind of people usually excluded from “literature”; but in condemning as phony any idea or feeling that is alien to his chosen milieu, Bukowski mistakes a partial truth for the whole.
+  
+
+    However “unromantic” they may seem, these stories are imbued with the perverse romanticism of adolescent disillusionment: Having discovered that the world is not heaven, he insists on seeing it as hell. Hemingway would be proud of his pupil.
+  
+
+
+
+
+Carole Mansur (review date 1984)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 811
+
+
+    SOURCE: A review of Hot Water Music, in Punch, Vol. 286, February 15, 1984, p. 48.
+  
+
+    [In the following negative review, Mansur underscores the superficiality of the stories in Hot Water Music.]
+  
+
+    There is a bookshop in San Francisco where some 30 feet of shelf space are designated “For the Writer”. The space is fully occupied, and the floor area in front is usually well populated by Jack London's heirs. So let's push our way through and see what Californian writers are reading.
+  
+
+    A potential bestseller could be Outdoor Writing (as it were, “First mount your roller-skates, gripping your pen in your teeth …”); or perhaps How You Can Make $20,000 a Year Writing, No Matter Where You Live (the first chapter entitled “To Hell with Manhattan”); or even, How to Write and Sell Your Personal Experiences. Evidently, lots of people think it beats living them, though they do not, I hope, commit them to paper with the aid of The Chicago Manual of Style; we've had enough of monetarist clichés.
+  
+
+    Yes, the evidence of a growth industry is there: from the State which gave you Silicon Valley, discs of ready-processed words flop at an ever faster rate onto publishers' desks, thence to be turned into cloth or paper. And yes, every second person you meet is writing something (someone even wrote a book called How to Write “How-to” Books).
+  
+
+    Is this then a golden age of literature, nourished in a climate of free enterprise under the patronage of self-expression? I think not. Although we can't plot a graph of the relationship between the theory and the practice, we can tell that there is some good writing but equally a lot of dross, and we can observe that there are a lot of self-indulgent bums drifting on the creative writing swell pounding the Pacific coastline.
+  
+
+    One of these is Charles Bukowski, who seems to be suffering a perpetual hangover from the era of the Beats though now in his sixties. His writing mirrors the incestuous nature of the literary scene: he likes nothing so well as to write stories about writers trying to write. To summarise the none too healthy technique he expounds: get a drink, get a woman, and hang about for something to happen; either the arrival of inspiration, or a cheque, so that the endless round of debauchery can begin again.
+  
+
+    He's hardly a good publicist for his profession. His photo on the back flyleaf (appositely) shows what must be everyone's—or at least my—idea of a dirty old man, and (didn't I say so?) turning to the front flyleaf, in the list of works of his fertile imagination, we find Notes of a Dirty Old Man.
+
+
+Hot Water Music is a tributary of the same stream, a collection of stories describing the seamier side of life in the Golden State, where the film stars live whom you never see. There's nothing really shocking, unless it's the sheer banality of existence.
+  
+
+    Unfortunately, the banal description of life's superficiality soon rebounds on Bukowski, whose work begins to read superficially too. The texture of life, all its pits and boils, is obsessively felt over, but this is aimless, distracted wandering, where all encounters are casual. You feel hungry, you look in the fridge for instant gratification; you want to talk, you lift the receiver and dial a random number; you want a woman, you knock at the next room in the motel. These often repeated rhythms become the nervous tics, the death rattle, of a decadent society. The result is a devaluation of feeling, a levelling of the peaks and troughs to a monotonous plain: a register for the Los Angeles landscape, the city notoriously described as 14 (or was it 40?) suburbs in search of a city.
+  
+
+    These slice-of-life stories resemble a plateful of cake which is no sooner finished than an identical wheel of slices rolls into view. Life goes on, relentlessly, but it's increasingly sickening. You resettle in front of the TV; take another six-pack; brush your teeth: these are the closing movements.
+  
+
+    So it is with “The Death of the Father”, one of few excerpts fit for broadcast in prime time. After his father's funeral, the narrator finds nothing better to do than water his roses. A flock of neighbours descend to peck remorselessly at the dead man's effects, stripping the house bare. The son stands aside, not bothering to protect the property of the father he didn't love, whilst the neighbours care just about his possessions. The material world, either way, is the only reality. The son is left to resume his idle hosing.
+  
+
+    In other stories, this netherworld, this underside to success roamed by losers in the race, is depicted in all its raw brutality with correspondingly crude language. Because he's a worker with surfaces, Bukowski is apt to polarise opinion. Either you like his scenery, or you don't: I didn't.
+  
+
+
+
+
+David Montrose (review date 1984)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 665
+
+
+    SOURCE: “A Bit on the Wild Side,” in Times Literary Supplement, May 4, 1984, p. 486.
+  
+
+    [In the following negative assessment of Hot Water Music, Montrose contends that the “misfires occur far too often even by his erratic standards, the compensations too rarely and too meagrely.”]
+  
+
+    Although not an exclusively autobiographical writer, the prolific Charles Bukowski has always drawn heavily on personal experience for his poems, stories, and novels; certainly, the presence of Bukowski himself, usually in the transparent disguise of “Henry Chinaski”, has normally been a feature of his better work. Fortunately, an eventfully misspent adulthood supplied a fund of experience rich in potential. Bukowski's uses of it were, admittedly, wildly uneven in quality, but, at his best, notably in various early stories, he reproduced the squalor and violence of low-life L.A. with the dirtiest of dirty realism. In 1970, aged fifty and with an emerging reputation, Bukowski became a full-time writer. Significantly, though, his most impressive work still derived from the preceding period of his life. But, by the mid-1970s, this source had worn thin. That the new material available—Bukowski's career as a minor literary celebrity—carried much less substance was strikingly illustrated by his third novel, Women, a fragmentary account of his life since 1970 that was little more than a self-aggrandizing catalogue of interchangeable sexual encounters. Small wonder that Bukowski's last novel, Ham on Rye, cast back to a largely unutilized source: his childhood and youth.
+  
+
+Hot Water Music, Bukowski's first collection of stories for over ten years, evinces a similar circumspection only in “Some Mother”, an uninspired tale of adolescent curiosity concerning the mysteries of the female body. Bukowski/Chinaski appears in less than half of these thirty-six stories. A number of others, though, are Chinaski vehicles in all but the protagonists' names. The collection mainly comprises further reworkings of Bukowski's older material and further reminders that the newer is, by comparison, infertile stuff. Even allowing for a sense of déjà lu, what is immediately apparent about the former is their tiredness. Two stories, for instance, deal with incidents following the funeral of Bukowski's father: events which, in several poems, he has used to good effect. Here, though, they receive perfunctory treatment. Similarly ill-handled are “It's a Dirty World”, “Beer at the Corner Bar”, and “Home Run”, where familiar scenes on the wild side are depicted with little of Bukowski's once-customary verve. “Fooling Marie” shows something like his old spirit, but its content—a gambler is robbed in a motel room by a woman who has picked him up at the racetrack—comes right from the bottom of the barrel. The stories based on Bukowski's more recent experiences frequently resemble postscripts to Women. “Not Quite Bernadette”, though, is an entertaining shaggy dog story, while “Scum Grief” also amuses: Chinaski, accompanied by his girlfriend, attends a poetry reading; while the poet declaims—“Choke, Columbia, and the dead horses of / my soul, / greet me at the gates / greet me sleeping, Historians / see this tenderest Past / leapt over with / geisha dreams, drilled dead with / importunity!”—Chinaski provides a whispered translation (“… Basically what he's saying is that he can't sleep nights …”).
+  
+
+    The non-autobiographical stories—or, at least, those not obviously autobiographical—tend towards fatal inconsequentiality. In “Less Delicate than the Locust”, for example, two painters and their girlfriends visit an expensive restaurant; they get drunk, create a disturbance, and leave without paying the bill. The End. The principal exceptions are “Turkeyneck Morning”, a brief episode from a lousy marriage, and, in particular, “Broken Merchandise”, which concerns a middle aged nobody with a nagging boss at work and a nagging wife at home, who vents his frustrations on two young troublemakers who cut him up on the freeway. Though by no means one of Bukowski's very best, it is the kind of story with which he has always compensated for his regular misfires. In Hot Water Music, though, the misfires occur far too often even by his erratic standards, the compensations too rarely and too meagrely.
+  
+
+
+
+
+Norman Weinstein (essay date 1985)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 1512
+
+
+    SOURCE: “South of No North: Bukowski in Deadly Earnest,” in Review of Contemporary Fiction, Vol. 5, No. 3, Fall, 1985, pp. 52-5.
+  
+
+    [In the following essay, Weinstein examines the similarities in South of No North to the fiction of Ernest Hemingway.]
+  
+
+    In no other collection of Bukowski's fiction does Ernest Hemingway's ghost play such a major role. Even the book title, with that flatly articulated oxymoron reminiscent of Men without Women and Winner Take Nothing, alerts the reader to the Hemingway presence. The Bukowski/Hemingway connection is one riddled with complex ambivalences. I trust this brief reading of South of No North might indicate a few dimensions of that knot.
+  
+
+    A first reading of Bukowski's collection evoked thoughts of his consciously creating a parody of the Hemingway style. Consider this excerpt from Bukowski's “Loneliness”:
+  
+
+
+      “Maybe I'm no good at sex,” said Edna, “maybe that's why I'm alone.” She took another drink from the glass.
+    
+
+
+
+      “Each of us is, finally, alone,” said Joe.
+    
+
+
+
+      “What do you mean?”
+    
+
+
+
+      “I mean, no matter how well it's going sexually or love-wise or both, the day arrives when it's over.”1
+
+
+    There is the identical sound of simply cadenced American speech bonded by conversational syntax, created through a severely limited (though far from limiting) vocabulary of the archetypal “Ordinary Joe.” This likeness to Hemingway becomes even more striking when we put the above in relationship to this excerpt from Hemingway's Death in the Afternoon: “Madam, all stories, if continued far enough, end in death, and he is no true story teller who keeps that from you.”2
+
+    However hard-boiled Hemingway sounded in his bullfight epic, Bukowski is determined to outdo Papa. Bukowski's sense of competition with Hemingway's talent humorously borrows the same metaphor Hemingway uses to describe his competitive relationship to master fiction writers from the past. Here is Hemingway bragging to his publisher with mock modesty and macho abandonment: “Am a man without any ambition, except to be champion of the world, I wouldn't fight Dr. Tolstoi in a 20 round bout because I know he would knock my ears off … Mr. Henry James I would just thumb him once the first time he grabbed and then hit him once where he had no balls and ask the referee to stop it” (26). Bukowski's “Class” is little more than the author's dream of getting into a boxing ring—literally!—with Hemingway. Of course Bukowski gleefully celebrates his raw powers: “I had Hemingway up against the ropes. He couldn't fall. Each time he started to fall forward I straightened him with another punch. It was murder. Death in the Afternoon” (67). Yet a reading of Bukowski here should transcend parody of Papa. Note the turn “Class” takes after the narrator knocks Hemingway out:
+  
+
+
+      I got dressed and then Ernie regained consciousness.
+    
+
+
+
+      “What the hell happened?” he asked.
+    
+
+
+
+      “You met a pretty good man, Mr. Hemingway,” somebody told him.
+    
+
+
+
+      “You're a good man, Papa. Nobody wins them all.” I shook his hand. “Don't blow your brains out.”
+    
+
+
+    (68)
+  
+
+    Even the flippancy of the narrator's last line can't erase the sense of tender respect (rare in this book) that Bukowski feels for Papa.
+  
+
+    “No Neck and Bad As Hell” is the other story in South of No North where Hemingway's ghost becomes reanimated and duels with Henry Chinaski-cum-Charles Bukowski. One of the narrator's drunken reveries provides the setting; he imagines Hemingway at his local bar saying to him:
+  
+
+
+      “You talk like a character out of early Huxley.”
+    
+
+
+
+      “I think you're wrong. I'm desperate.”
+    
+
+
+
+      “But,” said Hemingway, “men become intellectuals in order not to be desperate.”
+    
+
+
+    (138)
+  
+
+    And the verbal sparring continues until (naturally) the narrator wins. But Bukowski is willing to let Hemingway draw some blood in the fray with that stab about Bukowski's roots in Huxley.
+  
+
+    Despite these instances of Bukowski triumphing over Hemingway, one can't help but note Bukowski's humility before the Hemingway genius in “This Is What Killed Dylan Thomas,” a thinly disguised account of Bukowski's first public reading in San Francisco: “We walk across the street to an Italian cafe. Marionetti is back with the guy from the S.F. Chronicle who wrote in his column that I was the best short story writer to come along since Hemingway. I tell him he is wrong; I don't know who is the best since Hemingway but it isn't H.C. I'm too careless. I don't put out enough effort. I'm tired” (130).
+  
+
+    These are the examples from South of No North where Hemingway is directly evoked in Bukowski's stories. However, the overwhelming machismo sensibility of a Hemingway constantly punctuates Bukowski's fictions. “A Man” is the Bukowski story which states the machismo most starkly:
+  
+
+
+      “I'm a man, baby, understand that?”
+    
+
+
+
+      “I know you're a man, George.”
+    
+
+
+
+      “Here, look at my muscles!” George stood up and flexed both of his arms. “Beautiful, eh, baby? Look at that muscle! Feel it! Feel it!”
+    
+
+
+
+      Constance felt one of his arms. Then the other.
+    
+
+
+
+      “Yes, you have a beautiful body, George.”
+    
+
+
+
+      “I'm a man. I'm a dishwasher but I'm a man, a real man.”
+    
+
+
+    (63)
+  
+
+    The character's assertion of masculine dignity in spite of the lowness of his occupation is another factor which links Bukowski to Hemingway. Both authors assert masculine dignity as a necessary rite-of-passage technique in order to survive integrally within an unjust and emasculating socioeconomic system. The ruthless drive to “act like a man” that all Hemingway and Bukowski characters share leads to a distrust in both authors of any political solutions. So Hemingway writes in a letter to Paul Romaine:
+  
+
+
+      I'm no goddamned patriot nor will I swing to left or right.
+    
+
+
+
+      Would as soon machine gun left, right, or center any political bastards who do not work for a living.
+    
+
+
+    (110)
+  
+
+    Bukowski voices a similar disgust in “Politics” where he describes his disillusionment with student politics at L.A. City College where he assumes a pro-Hitler stance with fellow students simply because he is bored with their pious and unfelt antifascist platitudes. Bukowski's cynicism about countercultural protest on the Left is brutally symbolized by red ants crawling over the tattered remains of an abandoned protest flag in “Something about a Viet Cong Flag.”
+  
+
+    Characters in Bukowski and Hemingway are the rugged individualists who defy the utopian schemes of all ideologues. Male character armor held firm by a swaggering boastfulness assures survival. Bukowski characteristically develops this stance in “Bop Bop against That Curtain”: “There weren't any public funds for playgrounds. We were so tough we played tackle football in the streets all through football season, through basketball and baseball seasons and on through the next football season. When you get tackled on asphalt, things happen. Skin rips, bones bruise, there's blood, but you get up like nothing was wrong” (18-19). This could be Hemingway's Nick Adams speaking, the identical will-to-survive reinforced through a manly toughness. And it is worth remembering how Hemingway also spoke of the importance of an unhappy childhood in the making of a writer. His letters to F. Scott Fitzgerald strongly asserted the usefulness of getting “hurt” by life, of knowing how to use personal pain as a wellspring for fiction which transcends the personal.
+  
+
+    All of this emphasis in Hemingway and Bukowski has a consequence in terms of the development of female characters. Hemingway's fictions have been expertly critiqued by a number of feminist critics (most vitally by Judith Fetterley in The Resisting Reader) who have accused Hemingway of having women with no human dimensions in his works. This criticism can, perhaps should, be even more ruthless in Bukowski's case. Women characters in South of No North are little more than sexual fetishes, replaceable by mute mannequins if we believe the narrator in “Love for $17.50.” Yet both Hemingway and Bukowski can exhibit a boyishly fetching and worshipful sentimentality toward women in their stories. Men without women, in both Hemingway's and Bukowski's worlds, seem reduced to a most base condition.
+  
+
+    Bukowski's characters don't even attempt to understand women; the tone in these stories is antipsychological. Once again, this posture echoes Hemingway. The puzzling war between the sexes can no more be ended through psychoanalysis than through political reorganizations. The writer's job is to state honestly the facts concerning sexual warfare, neither more nor less.
+  
+
+    Call this stance anti-intellectualism in Hemingway and Bukowski. But I would rather tag this position as a form of adolescence, what depth psychologist James Hillman labels as a fix in the “Puer-Senex” complex. There is a great deal of the eternal youth in both writers, a refusal to “grow up.” Gertrude Stein never forgot twenty-three-year-old Hemingway coming into her parlor crying that he was too young to be a father to his newly born son. Bukowski and his characters live in a world without parental responsibilities, are unanchored drifters looking for singular moments of love, love which never lasts.
+  
+
+    Is it not precisely this adolescence of vision which makes Hemingway and Bukowski the quintessential American story writers of our age?
+  
+
+Notes
+
+
+
+
+        Charles Bukowski, South of No North (Santa Barbara: Black Sparrow Press, 1973), 14. Future references cited parenthetically.
+      
+
+
+
+        Ernest Hemingway, Ernest Hemingway on Writing, ed. Larry W. Phillips (New York: Scribner's, 1984), 26. Future references cited parenthetically.
+      
+
+
+
+
+
+
+Russell Harrison (essay date 1994)
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on May 5, 2015, by eNotes Editorial. Word Count: 12510
+
+
+    SOURCE: “The Fascination of the (Extra)Ordinary: The Short Stories of Charles Bukowski,” in Against the American Dream: Essays on Charles Bukowski, Black Sparrow Press, 1994, pp. 249-79.
+  
+
+    [In the following essay, Harrison traces the development of Bukowski's short fiction.]
+  
+
+
+      I started with the short story, starving in little rooms around the country and drinking too much cheap wine, and I'd mail the things out to THE ATLANTIC MONTHLY or HARPERS and when they came back I tore them up. I used to write 8 or 10 stories a week. All I'd do was write these stories and drink as much as possible.1
+
+
+    Bukowski has published about two hundred short stories. He began almost compulsively writing short stories in early adolescence and broke into print in Story magazine in the mid-1940s.2 After several additional publications, he abandoned the form for almost twenty years. Although he returned to it with some chapbook publications in the mid-1960s, the impetus for an enduring return was the offer of a column to write virtually anything he wanted by John Bryan (the founder of the Los Angeles alternative paper Open City).3 These columns subsequently included opinion pieces, non-fiction sketches, and fiction, often, but not exclusively, of an autobiographical nature, and appeared in a context where Bukowski's “fiction took its place alongside coverage of student unrest, the New Left, black power, civic and police corruption, the draft resistance, drug information, and adverts for sexual contacts and services.”4 The fiction was of two sorts: narratives of a sometimes fantastic nature and fictional reworkings of autobiographical material.5 Bukowski continued writing stories, and while as a whole there is some variation in the quality, he has developed and evolved as a short story writer to the point where his two most recent collections, Hot Water Music (1983) and Septuagenarian Stew (1990) contain his best stories.
+  
+
+    Although his serious short story production began in the late 1960s, and his best stories have been written in the 1980s, Bukowski's acknowledged influences are the American writers of the 1920s and 1930s: Anderson, Hemingway, Saroyan, Fante, McCullers.6 In terms of his contemporaries, there is some similarity to the work of Raymond Carver but the striking difference in their acceptance suggests significant differences in their work.7
+
+    As in the poetry, a noticeable change appeared in the stories in the 1970s, evident with the third collection, South of No North. Bukowski began to achieve a distance from his material, formal evidence of which was his increased use of the third person. Another indication was the fact that the content of the stories (even when written in the first person) became less frequently autobiographical. An objective point of view and an increasingly distanced stance towards his characters and material are continued in the two subsequent collections where Bukowski uses the third person even more frequently; indeed, in the most recent collection, more than three-quarters of the stories are third-person narratives.8
+
+    There is a remarkable difference in quality and style between the first two collections and the two most recent collections (with South of No North forming a transition). This essay briefly looks at the early stories to provide a background for a discussion of Bukowski's achievement in the later ones. However, the first two collections remain important for several reasons: because they are the prose on the basis of which Bukowski first achieved a broader American audience as well as an international reputation (and for a long time influenced Bukowski's reception here and abroad); because both collections have their redeeming moments (e.g., the “frozen man” essays in Notes, the prison realism of “Doing Time with Public Enemy No. 1” and the Hemingwayesque amoralism of “All the Pussy We Want” in Erections); and finally, because much of this material was re-used later in the novels, the differing treatments of the same material allow us to see Bukowski's progress as a writer.
+  
+
+    Not surprisingly, in light of Bukowski's early success in Germany, one of the most comprehensive and scholarly evaluations of the early stories was undertaken by two German scholars, Armin Geraths and Kurt Herget.9 Although their analysis of the stories' shortcomings is somewhat misguided (and suffers from ignoring the collection South of No North), it is an intelligent and useful attempt to come to grips with Bukowski's early prose and provides a basis for discussing the later stories.
+  
+
+    Geraths' and Herget's criticisms fall into three areas: language, subject matter and ideas. They write that Bukowski's
+  
+
+
+      language is without intellectual pretension. It is the trivial language of everyday life, with a limited vocabulary and enriched by the most lavish use of argot. Linguistic and intellectual structures are of great simplicity. The subjects often appear banal. The insights gathered in the stories seldom go beyond the level of tired clichés.
+    
+
+
+    (176)
+  
+
+    With one exception, this is an accurate generalization but in and of themselves, such reproaches are limited: simplicity of language as manifested in the limited vocabulary of everyday speech had been an integral part of many of Hemingway's best stories. Argot, except for the stories dealing with horse-racing, is not in evidence: rather an emphatic colloquialism is probably what the authors were remarking upon, something that has been a hallmark of American fiction since the late nineteenth century, and for which it makes little sense to censure Bukowski. Again, Bukowski's linguistic structures are no simpler than Hemingway's and not all that much simpler than Anderson's or Saroyan's. Given the “pragmatic” American tradition, the emphasis on experience and distrust of intellectualism that is a primary trait of 20th century American literature (one example of which found its most concise expression in Williams' statement in Paterson: “no ideas but in things”), Bukowski's position, and the resultant stories, are not unusual in this respect. And it should also be borne in mind that ideas can be presented in a number of ways and that Bukowski's presentation of them often hides behind apparently trivial content.
+  
+
+    But the authors do note one element of these early stories (though they overemphasize it) which has continued to appear in his short fiction, but which has never been a part of his novels:
+  
+
+
+      The orbit of the subject proves to be completely ordinary, trivial, banal. Yet an element of the sensational lies hidden in everything … one is always proceeding as if the exceptional were the ordinary. It is just at this point that Bukowski places his simple tactic. The unusual and the sensational modulate seamlessly into the familiar and the common thereby producing a banalization of the incredible and at the same time the all too familiar is given a new dimension.
+    
+
+
+    (181)
+  
+
+    There is some truth in this, but it suffers greatly from an attempt to bring all sixty-four stories collected in Erections under one rubric. They do, also, accurately note a failing of the early stories which Bukowski has subsequently overcome, a
+  
+
+
+      lack of an ability to abstract, the meagerly developed conceptual language. Always, at the point where in the course of a narration a summary imposes itself, the flatness of the thought becomes revealed in a cliché, through which complex facts are simplified. Also a sentimental streak in the manner of the dime novel often makes its presence felt.
+    
+
+
+    (194)
+  
+
+    Although their premises are false and their judgments sometimes questionable, some of the particular criticism is valid and useful in analyzing the difference between the early and late stories. Issues such as “a low level of abstraction,” clichéd content (which lends the stories a formulaic quality) and a tendency towards sentimentality are all legitimate criticisms of Bukowski's early stories. The status of “the sensational” also underwent a change from the early to the late stories. A discussion of these issues reveals that the more recent stories represent a significant advance over the first two collections, even as they retain and transform certain “suspect” elements.
+  
+
+    Bukowski was able to distance himself from his material, through an increased control of language (most noticeable with respect to diction and sentence structure). His handling of plot also became more assured. The clearest measure of his increased confidence, however, was his increased use of the third person. There was no longer the need to “vouch” for the authenticity of his material by writing in the first person. In the end this reflects a confidence in the nature of the material itself, even though the content often remained ordinary and the sensational never completely disappeared. Indeed, this is part of Bukowski's achievement.
+  
+
+    Perhaps nowhere is this increased distance more obvious than in Bukowski's treatment of relations between the sexes, most particularly in his explicit descriptions of sex, a topic that is more prominent in the stories than in the novels (with the exception of Women). The “absence of an ability to abstract, a meagerly developed conceptual language” had resulted in a formulaic quality with respect to action and motivation as well as clichéd language. Although the number of stories that contain explicit descriptions of sex remained about the same from Erections through Hot Water Music, the treatment changed. While none of Bukowski's stories seems to me pornographic in the sense of sexually arousing, the sexual scenes in the early stories were repetitious and simplistic:
+  
+
+
+      I rather went crazy and began clawing at her dress—what there was of it. I saw a bit of underslip and panties; then I ripped the dress at the top, ripped the brassiere; I got a tit. I got a tit. It was fat. I kissed and sucked at the thing. Then I twisted it in my hand until she screamed, and as she did I pushed my mouth against hers, gagging the screams.
+    
+
+
+
+      I ripped the dress back—nylon, nylon legs knees flesh. And I picked her up out of the chair and ripped those chickenshit panties off and rammed it home.
+    
+
+
+
+      “Andre,” she said. “Oh, Andre!”
+    
+
+
+
+      I looked over and the guy was watching us and jacking off in his chair.
+    
+
+
+    (“The Day We Talked about James Thurber,” E 145-46)
+  
+
+    This is all too close to, if it is not actually, the language of pulp fiction. When it is not brutally formulaic, it is inflated and clichéd:
+  
+
+
+      “We kissed again. Cass was crying without sound. I could feel the tears. That long black hair lay behind me like a flag of death. We enjoined and made slow and sombre and wonderful love.”
+    
+
+
+    (“The Most Beautiful Woman in Town,” E 6)
+  
+
+    “Rammed it home” on the one hand and “enjoined” on the other are sentimental and clichéd. Both seem written with one eye clearly on an audience.
+  
+
+    In the later stories the descriptions of sex, though equally explicit, indeed sometimes even more so, have become more mediated. In several of the stories sex is not reported first hand and in one particularly artful passage is almost proleptic. Most important, sex in the later stories is often funny. This is not true of the earlier stories because of the violence (as in the scene just quoted). In “Have You Read Pirandello?,” in Hot Water Music, the narrator, speaking on the phone to a woman he has never met and from whom he is thinking of renting a room, tells her how he performs cunnilingus:
+  
+
+
+      “How do you begin?” “With a brush stroke, lightly.” “Of course, of course. Then, after you begin?” “Yes, well, there are techniques …” “What techniques?” “The first touch usually dulls the sensitivity in that area so that you can't return to it with the same effectiveness.” “What the hell do you mean?” “You know what I mean.” “You're making me hot.” “This is clinical.” “This is sexual. You're making me hot.” “I don't know what else to say.” “What does a man do then?” “You let your own enjoyment guide your exploration. It's different each time.” “What do you mean?” “I mean sometimes it's a bit gross, sometimes it's tender, whichever way you feel.”
+    
+
+
+
+      “Tell me.” “Well, everything ends up at the clit.” “Say that word again.” “What?” “Clit.” “Clit, clit, clit …” “Do you suck it? Nibble it?” “Of course.” “You're making me hot.” “Sorry.” “You can have the master bedroom. You like privacy?” “Like I told you.” “Tell me about my clit.” “All clits are different.” “It's not private here right now. They're building a retaining wall. But they'll be through in a couple of days. You'll like it here.”
+    
+
+
+    (64-65)
+  
+
+    Here playful humor replaces the violence and whatever coarse humor exists in the earlier story. The fact that we are reading a phone conversation, which is itself somewhat distanced by the interspersing of ordinary, even “trivial” details, and the slight reluctance of the narrator to go into a detailed description of the act convey the impression of an author in control of his material, and of an explicit sexual description that is the opposite of formulaic, neither brutal nor sentimental. Yet the irony is that the description is not explicit because no actual (if fictional) act is being described. Such irony is worlds away from the unmediated physicality of the earlier stories. Sexual arousal, Bukowski is saying, while not just in one's head, is not merely physical either.10 The narrator's statement that “it's different each time” might well be taken as a recognition that the formulaic and clichéd—in any sphere—are only hindrances to creativity; that variety and change—perhaps even the unexpected—are pleasurable. One final point should not be overlooked: the whole passage concerns the woman's pleasure and how a man can best provide that. This is a far cry from the situation in a number of the early stories where women function only as objects of the man's gratification. It would be hard to imagine a character in those stories averring that “everything ends at the clit.”11
+
+    Geraths and Herget characterized the early stories as “naive,” “elementary,” and “spontaneous.” This is valid for a good deal of the writing in Notes and Erections (although it should also be noted that many of the stories have moments where they overcome these failings). It is the last element, however, “spontaneity”—a lack of mediation—that resulted in the stories' most problematic aspects. The repetitive, sometimes sloppy, writing is a result of an aesthetic credo that marred a fair amount of Bukowski's early work, especially the prose. For Bukowski this appearance of spontaneity was something to be valued because it was important not to seem “literary.” The result was described by Julian Smith as
+  
+
+
+      a deliberately disorderly syntax, a “spontaneous” typewriterese that creates its effect by a radical difference from smoother, more literary writing. … Bukowski flavors the lexical stew of Notes with misspellings, ungrammatical constructions, sentences with no verbs, repetitions, split infinitives, much slang and swearing, sexual innuendo and other linguistic ambiguities that enable him to splice sexuality, violence, nastiness and humor. By deliberately leaving in the text the sort of grammatical confusions common in speech but usually suppressed in written English, Bukowski is indicating that he wants to align writing with spoken rather than written conventions.
+    
+
+
+    (57)
+  
+
+    Such writing, however, while not “literary,” is not “natural,” either. With its repetitions, redundancies and choices of the not-quite-right word it is as mannered as consciously literary prose, though in a different way (an important difference for Bukowski). Such writing calls attention to itself as much as the writing it reacts to, “loaded” in Roland Barthes' words “with the most spectacular signs of fabrication.”12 One result of such a stance is the “banality” of the writing because, as Smith wrote (though viewing this positively), it involved “no recourse to … intellectual concepts.”
+  
+
+    One of the best earlier stories is “A Couple of Winos” from the collection South of No North (1973). It suggests something of what Bukowski was later to succeed in achieving more consistently as well as manifesting some of the weaknesses that flaw the early stories. The first-person narrator is a drifter in his 20s and the events described in the story take place over a few days in the California desert. He and an older man are hired to stack discarded railroad ties for someone who is later going to resell them:
+  
+
+
+      We drove along not talking, the truck rocking back and forth. There was nothinq but dust, dust and desert. The guy didn't have much of a face, he didn't have much of anything. But sometimes small people who stay in the same place for a long time achieve minor prestige and power. He had the truck and he was hiring. Sometimes you have to go along with that.
+    
+
+
+    (44)
+  
+
+    The repetitions in the second and third sentences are weaknesses in the paragraph, adding nothing to the descriptions and probably deriving from the author's feeling that the description is lacking in some way. But the fourth sentence is effective and assured, content to present a minor insight from the world of ordinary work. It is something we might find in Factotum, for example. The last two sentences of the paragraph are also effective, unvarnished representations of a fact of life.
+  
+
+    Bukowski's description of the job's function in a broader context is an effective summary and reaches to a criticism of the uneconomic practice:
+  
+
+
+      Every now and then the railroad company would rip up the old ties and replace them with new ones. They left the old ties laying beside the tracks. There wasn't much wrong with the old ties but the railroad left them laying around and Burkhart had guys like us stack them into ricks which he toted off in his truck and sold.
+    
+
+
+    (45)
+  
+
+    Here the repetition (of “left … laying”) seems justified, effectively (even poetically) emphasizing a point the narrator is making. Even more effective is his description of the feelings such work arouses:
+  
+
+
+      It was like any other impossible job, you got tired and you wanted to quit and then you got more tired and forgot to quit, and the minutes didn't move, you lived forever inside of one minute, no hope, no out, trapped, too dumb to quit and nowhere to go if you did quit.
+    
+
+
+    (45)
+  
+
+    Phrases like “the minutes didn't move, you lived forever inside of one minute” are impressive, extraordinarily vivid representations of the feelings created by such work and though there is repetition, again it is such that it adds the weight of rhythm and develops the description.
+  
+
+    But ultimately Bukowski didn't yet have quite enough confidence in the simple force of his experience. This is clear in the ending of “A Couple of Winos”:
+  
+
+
+      Some nights earlier I had found that when it got cold the slivers in my hand began to throb. I could feel where each one was. It began to get cold. I can't say that I hated the world of men and women, but I felt a certain disgust that separated me from the craftsmen and tradesmen and liars and lovers, and now decades later I feel that same disgust. Of course, this is only one man's story or one man's view of reality. If you'll keep reading maybe the next story will be happier. I hope so.
+    
+
+
+    (48)
+  
+
+    It would have been better to end the paragraph (and story) with a period after “disgust.” With every additional thought after that point he weakens the force of what has come before: first condemning humanity, then heightening the condemnation, then taking it back, apologizing and so on. Endings are difficult, but what seems to have been particularly injurious to some of the early stories (and poems) was Bukowski's feeling that somehow his description of the experience itself was not enough; it was almost as if Bukowski himself did not appreciate the force of those experiences and what they said about the world. Subsequently, Bukowski never questioned the validity of his experience and the authority of individual experience became more powerful with the increasing objectivity of its depiction.
+  
+
+    In the later stories Bukowski has replaced the “lexical stew” with an illusion of ordinary discourse, achieved through formal and structural techniques. One reviewer perceptively noted that the principal character
+  
+
+
+      is mediated not only through its actions, but more through its manner of verbal expression. Bukowski's dialogues are not merely the result of a good ear for a specific scene. Rather, in their purposive abruptness and concise diction, they are the consequence of a formal intention.13
+
+
+    An increase in conceptualization is evident in the ability to summarize an individual and a situation—one form of an ability to abstract—in a paragraph or two, as in “Head Job,” about a widow who finds interest in pianoplaying, drinking and little else:
+  
+
+
+      She'd had two lovers since the death of her husband but both affairs had been desultory and short-lived. Men seemed to lack magic, most of them were bad lovers, sexually and spiritually. Their interests seemed to center on new cars, sports and television. At least Harry, her late husband, had taken her to an occasional symphony. God knows, Mehta was a very bad conductor but he beat watching Laverne and Shirley. Margie had simply resigned herself to an existence without the male animal. She lived a quiet life with her piano and her brandy and her scotch. And when the sun went down she needed her piano very much, and her Chopin, and her scotch and/or brandy. She would begin to light one cigarette after another as the evening arrived.
+    
+
+
+    (113)
+  
+
+    Cliché has been replaced by a nuanced language capable of effectively reflecting mood. Indeed, here we have a narrative passage which at times employs free indirect speech, a particularly effective way to get into a character's mind while retaining an objective tone, but a technique Bukowski rarely used in his early stories. In such sentences as “Men seemed to lack magic,” and “God knows, Mehta was a very bad conductor but he beat watching Laverne and Shirley” we have entered another person's mind and the assumption that we can do such a thing is a marked change from Bukowski's earlier views. It is not the easiest technique to use as it requires an ability to create differentiated characters. It is also a sign of Bukowski's increasing skill and technical confidence that he uses it so effectively. Bukowski has developed an apparently unexceptional prose that doesn't call attention to itself (though it is clearly an artistic prose, with its many conjunctions and poetic repetitions).
+  
+
+    The subtle changes in context and the ironic humor of the sexual descriptions preclude any suggestion of the formulaic. The “banality” of the events described does not differ all that much from the subjects of the early stories, but they are no longer “naive” and “spontaneous” in their presentation. The stories have been pared down as well. Those in Hot Water Music are almost a third shorter than the stories in Erections. The titles are shorter as well and less “flippant,” because more often ironic, as in “Head Job.” Any ideas that Bukowski wants to impart are imparted obliquely, through concise description, or short effective dialogue (in marked contrast to some of the dialogues in the earlier stories). In general, the loose, sprawling awkwardness of the early stories is no longer evident. As Bukowski remarked: “My style keeps adjusting and changing as my life does. …”14
+
+    The sensational is also handled better, toned down and domesticated (in some instances quite literally). This is illustrated through one of its more frequent manifestations, the theme of human mutilation. It appears in “The Fuck Machine” in Erections and in “Maja Thurup” in South of No North. In the latter, Bukowski had begun to put such extreme events in a quotidian context—less removed from his middle-class readers' milieu—and in this way sharpened the humor of his depiction by making the situations more credible. In “Decline and Fall,” in Hot Water Music, he has perfected this type of story by placing depravity in an everyday context of “ordinary” people. Here Bukowski uses successfully what Geraths and Herget had identified as one strategy of the stories though they had questioned its efficacy: “one is always proceeding as if the exceptional were the ordinary. … The unusual and the sensational modulate seamlessly into the familiar and the common thereby producing a banalization of the incredible.” Though the technique is the same, the effect is far more successful in the later stories because Bukowski has made his characters far less marginal or self-consciously alienated, less eccentric (in both senses of that word). At the same time, Bukowski has downshifted from the incredible to the improbable. Whereas in the early stories, the characters had been in their own private worlds, indeed, had even included a mad German scientist in “Fuck Machine,” here the characters are no longer marginal, but middle American and Bukowski uses minor, inconsequential, details to increase the credibility of the events.
+  
+
+    In “Decline and Fall,” Mel is telling a bartender about an unusual experience he had.15 He has visited a couple he knows and while playing cards and watching a football game, the man tells him that his wife likes to have sex with him while somebody else is watching. Mel doesn't reply, but the couple proceed to have sex:
+  
+
+
+      “He picks her up and kisses her, then throws her on the couch. He's all over her, kissing her and ripping at her clothes. Then he's got her panties off and he's at work. While he's doing this she's looking out from underneath to see if I'm watching. She sees that I'm watching and she starts squirming like a mad snake. They really go to it, finish it off; she gets up and goes to the bathroom and Al goes into the kitchen for more beers. ‘Thanks,’ he says when he comes out, ‘you were a big help.’”
+    
+
+
+
+      “Then what happens?” asked the barkeep.
+    
+
+
+
+      “Well, then the Rams finally scored, and there was a lot of noise on the tv, and she comes out of the bathroom and goes into the kitchen. …”
+    
+
+
+    (58)
+  
+
+    Then they have dinner:
+  
+
+
+      “Then Erica calls us into the breakfast nook where the table is all set and we sit down. It smells good—a roast. There are slices of pineapple on top of it. It looks like an upper shank; I can see what almost looks like a knee. ‘Al,’ I say, ‘that thing really looks like a human leg from the knee up.’ ‘That,’ says Al, ‘is exactly what it is.’”
+    
+
+
+    Mel thinks Al is joking and says, “Great, cut me a nice slice.”
+  
+
+
+      “‘Listen Al,’ I said, ‘this isn't really bad. What is it?’ ‘It's like I told you, Mel,’ he answers, ‘it's a human leg, the upper flank. It's a 14-year-old boy we found hitchhiking on Hollywood Boulevard. We took him in and fed him and he watched Erica and me do the thing for three or four days and then we got tired of doing that, so we slaughtered him, cleaned out the innards, ran that down the garbage disposal and dropped him into the freezer. It's a hell of a lot better than chicken, though actually I don't prefer it to porterhouse.’”
+    
+
+
+
+      “He said that?” asked the barkeep, reaching for another drink under the bar.
+    
+
+
+
+      “He said that,” answered Mel. “Give me another beer.”
+    
+
+
+
+      The barkeep gave Mel another beer. Mel said, “Well, I still thought that he was joking, you know, so I said, ‘All right, let me see your freezer.’ And Al says, ‘Sure—over here.’ And he pulls back the lid and there's the torso in there, a leg and a half, two arms and the head. It's chopped up like that. It looks very sanitary, but it still doesn't look so good to me. The head is looking up at us and the eyes are open and blue, and the tongue is sticking out of the head—it's frozen to the lower lip.
+    
+
+
+
+      “‘Jesus Christ, Al,’ I say to him, ‘you're a killer—this is unbelievable, this is sickening!’
+    
+
+
+
+      “‘Grow up,’ he says, ‘they kill people by the millions in wars and give out medals for it. Half the people in the world are gonna starve to death while we sit around and watch it on tv.’”
+    
+
+
+    (59-60)
+  
+
+    Mel tries to leave, but is prevented by Al whose wife then forces herself upon him: “The Rams are still on tv. I step back from the door and then his wife runs up, she grabs me and starts to kiss me. I don't know what to do. She's a powerfully built woman. She knows all these nurses' tricks” (60). Mel and Erica then have sex while Al watches. Afterwards Mel drinks a beer and smokes a cigarette, then leaves. Carl, the bartender, is upset that Mel didn't go to the police:
+  
+
+
+      “The way I look at it is that you're an accessory to a murder.”
+    
+
+
+
+      “But what I got to thinking, Carl, is that those people really didn't seem to be bad people. I've seen people I disliked a lot more who never killed anything. I don't know, it's really confusing. I even think of that guy in the freezer as some kind of big frozen rabbit …”
+    
+
+
+    (61)
+  
+
+    Carl pulls a gun on Mel and is about to call the police. Mel then says he was making the whole thing up, that “it was just bullshit.” Carl is unconvinced:
+  
+
+
+      “You mean what you just told me?”
+    
+
+
+
+      “Yeah, it was just bullshit. One big joke. I sucked you in. Now put your gun away and pour us both a scotch and water.”
+    
+
+
+
+      “That story wasn't bullshit.”
+    
+
+
+
+      “I just told you it was.”
+    
+
+
+
+      “That was no bullshit story—there was too much detail. Nobody tells a story like that. That's no joke. Nobody jokes that way.”
+    
+
+
+
+      “I tell you it was bullshit, Carl.”
+    
+
+
+
+      “There's no way I can believe that.”
+    
+
+
+    As Carl reaches for the phone Mel hits him with the beer bottle,
+  
+
+
+      picked up the Luger, aimed carefully, squeezed the trigger once, then put the gun in a brown paper bag, jumped back over the bar, walked out the entrance and he was on the boulevard. The parking meter read “expired” in front of his car, but there was no ticket. He got in and drove off.
+    
+
+
+    (61)
+  
+
+    The story's power stems from the deadpan humor and the detailed realism with which it treats the sensational content. As Carl says, “there was too much detail” for the story not to be true. The humor results from Mel's absurd literalness. When Mel replies to Carl's question, “Well, then what happened?” with “Well, then the Rams scored,” we see one type of mindset. In the most literal sense the Rams scoring is what happened next, but of course Carl did not mean his question literally. Yet the Rams scoring is what a mind focussed on the concrete would see, a mind incapable of viewing “the big picture”; and this directly relates to another level of the story, also suggested by the title, which this literalness counterpoints.
+  
+
+    At the beginning of the story Mel tells the bartender: “Al says something about Reagan and something about unemployment but I can't respond; it all bores me. You see, I don't give a damn if the country is rotten or not, so long as I make it” (57-58). These people (with the exception of Carl, who is, significantly, a bartender) are profoundly asocial individuals. While Reagan, unemployment, even starvation have no meaning, a football game (something meaningless except in its own arbitrary terms) does. The very concept of the social world has disappeared from their lives and so, logically, must the private world. This is paradoxically underlined by their making the most private relations, sex, public. At the end of the story Mel is relieved that he hasn't been ticketed—this just after he has shot someone. (The identification of the gun as a Luger perhaps also suggests a Nazi mentality: the complete absence of any remorse in the murderers.) Yet his reaction is humorous in much the same way that Bukowski's sexual chauvinism is humorous because it implicates (some of) us. The humor is based on the fact that these characters are completely in their own, narrow, private world: when Al says: “half the people in the world are gonna starve to death while we sit around and watch it on tv,” he is getting a little too close for comfort.
+  
+
+    The story operates on a number of levels, all of them disturbing. What solidifies the disturbance is the ending. In one sense the ending is problematic in that it heaps one extraordinary killing on another. Given the various mass murders, serial killings, instances of child abuse and just plain perverse murders of the last two decades we cannot say that a single instance of cannibalism is all that implausible. What strains credulity, of course, is that Al and Erica so casually reveal their crime to a friend, and not a particularly close friend at that.16 That Mel then kills Carl, making for two murders within the confines of a four-and-one-half page story—while not at all unbelievable—begins to push the events more towards the incredible. Yet if the story were to have ended earlier, before Mel kills Carl, with Mel's recanting, saying “it's all bullshit,” while allowing for ambiguity, it would detract from Bukowski's point which rests on the “truth” of the events within the context of the story. The story says that such things happen and such people exist and, once again in Bukowski, the message is made palatable by the humor. Mel's coolness—now that he is himself a killer—is essential to Bukowski's point which can be somewhat tritely summarized as the “banality of evil.” Were the ending ambiguous the story's morality would vanish. While on the one hand the lack of ambiguity may make the story seem a little “retro,” the humor and the banality lend it a post-modern touch.
+  
+
+    One final point is of interest. In both “Decline and Fall” and “The Day We Talked about James Thurber,” (quoted above) there are scenes in which two people have sex while a third watches. The scene in “Decline and Fall” is far more effective for two reasons. First of all, Bukowski has placed it in a context where it relates to other aspects of the story in a rather subtle fashion; he has also increased the distance between the reader and the event: the story is told in the third person by an omniscient narrator; yet within that narration the story is being told by one of the characters in long passages of direct speech in which he at times quotes the speech of others. In this way we have both the effect of immediacy and the objectivity distance provides. It would be simplistic to say that Bukowski's growing preference for the third person in his stories has produced better stories. The decision to change narrative techniques has come about as a result of deeper shifts of feeling; at the same time, though, the formal change undoubtedly helped crystallize what was at first, perhaps, a somewhat inchoate shift in authorial worldview.
+  
+
+    The issue of child abuse appears in another story in Hot Water Music. In “Some Hangover,” a married couple, Gwen and Kevin, are discussing the fact that the husband may have sexually abused the children of friends while drunk at a party. Gwen is preparing breakfast.
+  
+
+
+      Gwen had the bacon on. She poured him a cup of coffee.
+    
+
+
+
+      “Thanks.”
+    
+
+
+
+      “Scrambled?”
+    
+
+
+
+      “Scrambled.”
+    
+
+
+
+      “Married ten years and you always say ‘scrambled.’”
+    
+
+
+
+      “More amazing than that, you always ask.”
+    
+
+
+
+      “Kevin, if this gets around, you are out of a job. The bank does not need a branch manager who is a child molester.”
+    
+
+
+
+      “I guess not.”
+    
+
+
+
+      “Kevin, we've got to have a meeting with the families involved. We've got to sit down and talk this thing out.”
+    
+
+
+
+      “You sound like a scene from The Godfather.”
+    
+
+
+
+      “Kevin, you're in big trouble. There's no way of getting around it. You're in trouble. Put your toast in. Push it in slow or it will pop right up, there is something wrong with the spring.”
+    
+
+
+
+      Kevin put the toast in. Gwen dished out the bacon and eggs.
+    
+
+
+    (95)
+  
+
+    Here the situation, though dramatic, is less sensational than in “Decline and Fall.”17 Yet Kevin, too, is a character in his own world with very little ability to put things in a broader context: the faulty toaster is on a par with the possible child abuse. The skill in such a story is Bukowski's delicate balancing of the humorous interplay between the husband and wife with the serious nature of the possible offence. Each is necessary for the success of the story. This ability to hold different elements in solution underlies the success of a number of the stories and, once again, testifies to Bukowski's aesthetic distance from his material.
+  
+
+    While it would be forcing it to say that we are complicit with these characters, yet we are not all that far removed. Indeed, here the child abuser is married and middle-class; Martin Blanchard in “The Fiend,” was an alienated loner. The ordinariness of the people in these stories is reflected in their names: Mel, Al, Carl, Erica, Kevin, Gwen, names as unmarked as possible. Bukowski has constructed these stories in such a way that we are enmeshed in the same solipsistic detail as the characters. The dilemma that Bukowski's characters had confronted in the early poetry and novels: how to respond to the legitimate demands of the social world while at the same time maintaining one's self is here ratcheted up several notches. Now the question is: is there a social world?
+  
+
+    2
+  
+
+    In Hot Water Music and Septuagenarian Stew Bukowski's stories broaden their social horizons. A worldview of a certain scope is effectively dramatized without recourse to abstract philosophizing (which was actually more prominent in the early stories, perhaps owing to the appearance of some of them as columns and the marked use of the first person). In “The Death of the Father II” from Hot Water Music and “The Life of a Bum” (Bukowski's masterpiece in the genre) from Septuagenarian Stew, Bukowski redramatizes a view of the solitary nature of existence as well as the individual's inextricable connection to a predatory society.
+  
+
+    “The Death of the Father II” is a small masterpiece that deals with these themes by examining an individual's relationship to his family, to his history. In one sense, it is a story about coming to terms with the death of a parent. At the same time, and in only three pages, it contains the core of Bukowski's views on authority, the individual and society, and the American Dream. It is a story of final separation from the family and about the impossibility of that separation, about the power of personal history.
+  
+
+    The story opens: “My mother had died a year earlier. A week after my father's death I stood in his house alone” (HWM 167). The narrator of the story hasn't seen his father “in some time” and the neighbors don't know him. Although his parents are dead, their broader social world remains: “Curtains drew back as I stood on the front lawn. Then they began coming out of their houses.” Not “people” or “neighbors” but rather the vague, ill-defined and slightly ominous “they.” Given Bukowski's skill at dialogue (and Chinaski's facility with speech), it is marked that to the neighbor Nellie Miller's direct question: “Are you Henry?” Bukowski does not have him answer in direct speech: “I told her that I was Henry.” The slightly mocking, ironic repetition of her words nicely reflects the distance that he feels towards these people, their values and, most important, his father's values. The narrator feels ambivalent about talking to the neighbors but wants to adhere to the routine forms of politeness and civility (Chinaski is rarely boorish in such situations) though these are impositions, even physical ones: “I bent over and shut off the hose.” (The key element becomes the uncomfortable physical activity.) The social world has again impinged—and thus imposed—on him, stopped him from doing what he had been doing, and forced him into politeness and direct speech: “‘Won't you come in?’ I asked.” “We sat and looked at each other.” The narrator doesn't give an inch: “‘You look just like your father.’ ‘Yes, so they tell me,’” not genuinely responding to the Millers. Even when he does respond directly, he quickly whips the ball back into their court: “‘He must have liked pictures.’ ‘Yes, he did, didn't he?’” (168).
+  
+
+    The real motive for the neighbor's visit then becomes clear (“I just love that painting of the windmill in the sunset”) along with Chinaski's further attempt at separating himself from his father through the deadpan comment on his father's taste in art reflected in Mrs. Miller's speech. We're left in no doubt on this score when another neighbor says:
+  
+
+“Oh, I just love this frame, but I don't like the picture.”
+“Take the frame.”
+“But what should I do with the picture?”
+“Throw it in the trash.”
+
+
+    (168)
+  
+
+    The narrator remains passive-aggressive throughout the story. The ultimate aggression is the story itself which extends the neighbors more and more rope with which to hang themselves while their actions condemn the world of convention that was his father('s).
+  
+
+    The neighbors pillage the house, denuding it of almost everything of value. But lest they be shown as unrelievedly predatory and the story lack credibility, Bukowski gives us one altruistic soul: “‘You better save this vacuum cleaner, Henry. You can use it for your apartment.’ ‘All right, I'll keep it.’” The exchange is also evidence of Chinaski's passivity (which the implied author would like us to see as a victimization). But in reality Chinaski is in control of events. When something he values is threatened, he exerts himself: “Leave the whiskey”; “I'll keep the car.”
+  
+
+    The tone throughout is objective in its “absence of modals and of words of feeling,”18 though occasionally a judgement is passed: “Passersby were coming in from the street, and not even bothering to introduce themselves.” Then there is a slight—but, as so often in Bukowski, all the more powerful because it is foregrounded against an otherwise customary absence—moralizing (to little effect, however):
+  
+
+
+      One of the ladies opened a cupboard on the back porch. “What about all these preserved fruits? You'll never be able to eat all of these.”
+    
+
+
+
+      “All right, everybody, take some. But try to divide them equally.”
+    
+
+
+
+      “Oh, I want the strawberries!”
+    
+
+
+
+      “Oh, I want the figs!”
+    
+
+
+
+      “Oh, I want the marmalade!”
+    
+
+
+    (169)
+  
+
+    After everybody has left and all that remains is “the garden hose, the bed, the refrigerator and stove and a roll of toilet paper” (a nice list in that three basic needs are provided for) Chinaski leaves the house:
+  
+
+
+      I walked outside and locked the garage door. Two small boys came by on roller skates. They stopped as I was locking the garage doors.
+    
+
+
+
+      “See that man?”
+    
+
+
+
+      “Yes.”
+    
+
+
+
+      “His father died.”
+    
+
+
+
+      They skated on. I picked up the hose, turned the faucet on and began to water the roses.
+    
+
+
+    (169-70)
+  
+
+    The ending is muted, yet nicely points the meaning: try as we will, we can't get rid of the father. The world won't let us.
+  
+
+    Stylistically, “The Death of the Father II” gives us a side of Bukowski that became prominent in the stories in Hot Water Music and Septuagenarian Stew, that part of his sensibility which finds expression in a Hemingwayesque minimalism. In this respect “The Death of the Father II” is something of an ideal-type. Such stories are short and focus on a brief, sometimes quite mundane, moment in someone's life, and take off from that to present larger truths about people and society. In “Beer at the Corner Bar” a perfectly innocuous conversation about a newspaper story turns into near violence; in “It's a Dirty World,” a (literally and figuratively) pedestrian incident does escalate into violence. Thus, it is clear that it was not the ordinariness of the content, per se, that marred a number of the early stories, but, at least in part, Bukowski's defensive stance. One basis for the shift in style, then, was a confidence in the material itself, a confidence that the lack of discipline of the earlier stories undermined, rather than supported.
+  
+
+Hot Water Music was published when Bukowski was 63 and he might well have stayed with a form he had mastered and that was serving him well. Yet the stories of his most recent collection, Septuagenarian Stew, show continued changes, supporting what he had said on the relationship of style to life.19 In this collection Bukowski has continued to—not so much develop as—evolve. Hot Water Music had brought one kind of short story to a culmination: short, controlled, off-hand. In Septuagenarian Stew Bukowski expands his view. The stories are more carefully constructed and even in some cases, e.g., “The Vengeance of the Damned,” consciously dramatize a political idea. Indeed, in that story Bukowski has, for the first time in his fiction, presented a truly collective subject attempting to radically change existing social relations, never mind that it's a bunch of winos as stand-ins for a return of the consumerist repressed. The collective subject that appeared in the poems of the 1980s has continued into the 1990s. Thus, in respect to both subject matter, form and ideology, Bukowski's short stories have continued to change in significant ways, something true of the poetry, but less true of the novels.
+  
+
+    The stories in Septuagenarian Stew are on average somewhat longer than in the preceding collections, but more important is the fact that Bukowski has written individual stories longer than anything he had attempted in twenty years. The long stories of the early collections reflected Bukowski's anti-formalist ethos of that period. In such stories as “Confessions of a Man Insane Enough to Live with Beasts,” “All the Assholes of the World and Mine” and “The Birth, Life and Death of an Underground Newspaper” the formal dynamic is a picaresque subjectivity. This is especially true of “Confessions of a Man Insane Enough to Live with Beasts,” a dry run for the autobiographical novels. The other two stories focus more narrowly on specific episodes and are thus more unified but, unlike “The Life of A Bum,” are motivated by an attempt to limit the scope of any possible meaning. More important, though, is the fact that in this late story Bukowski has written about his usual themes differently and achieved something different: he has made the banal and trivial representative, indeed, meaningful. Here Bukowski approaches Beckett and Joyce, the latter in his privileging of ordinary life, and the former in those moments when Beckett uses repetitive and simplified syntactic structures to highlight the banal and the routine, for example, when the narrator of Molloy tries to get a grasp on things through a simplification of syntax:
+  
+
+
+      I went upstairs again. My son was dressing. He was crying. Everybody was crying. I helped him put on his knapsack. I told him not to forget his raincoat. He began to put it in his knapsack. I told him to carry it over his arm, for the moment. It was nearly midnight. I picked up my umbrella.
+    
+
+
+    (127)
+  
+
+    There is something of this reductionism in the syntax of “The Life of a Bum” though Bukowski's language remains referential. In the way that certain passages in Mahler prefigure atonal music, while yet remaining within the traditional key structure of classical music, Bukowski here at times verges on a minimalism which without much alteration could emphasize linguistic structures themselves to the extent that they become the subject of the story. But referentiality, in the form of a plot and a focus on the objects of everyday existence was as strong an anchor for him as it was, in the form of melody, for Mahler.
+  
+
+    “The Life of a Bum,” narrated in the third person, is about Harry, an alcoholic, and the events of one afternoon in Los Angeles in 1943. Harry awakes in his rented room, walks to a park where he briefly dozes off, has a short encounter with another alcoholic, walks to a bar where he is bought drinks, first by one acquaintance, then by another, Monk, whom he then accompanies for a haircut for which he receives another two drinks. On the way back Harry (on purpose, though he makes it look like an accident) bumps Monk into the path of an oncoming bus. Monk is injured, though how seriously is not clear. Harry takes Monk's wallet, which has fallen out of his pocket, and goes to a restaurant where he twice orders the same large meal. He then leaves the restaurant and continues walking. With the exception of the assault on Monk the story is the quintessence of the routine. Yet it is one of Bukowski's most fascinating stories, its fourteen pages a veritable summa of his concerns.
+  
+
+    Its tone reflects a low-key, but all-pervasive weariness with existence:
+  
+
+
+      Christ, he thought, people have intestines, mouths, lungs, ears, bellybuttons, sexual parts, and … hair, tongues, sometimes teeth, and all the other parts … fingernails, eyelashes, toes, knees, stomachs …
+    
+
+
+
+      There was something so weary about all that. Why didn't anybody complain?
+    
+
+
+    (SS 56, ellipsis in original.)
+  
+
+    It is already clear that Bukowski is presenting one of the cornerstones of his worldview—the overwhelmingly tedious routine of so much of what passes for life—in a prosaic, if somewhat anomalous, context: as he says, the life of a bum. A bum is not everyman, but who is? Though low on the social scale, the bum is not beyond the pale, not, for instance, a criminal. He is someone who, if not at one with society's values, at least recognizes a certain social decorum.
+  
+
+    Harry is a bum who cadges subtly, by his presence, rather than begging outright and in so doing performs a socially useful, or at least desired, role within the small community of bar habitués. As Harry remarks further on: “They noticed Harry because he was a bum. He made them feel superior. They needed that.” They may need Harry, but Harry is aware of the power relationship: “As a professional bummer of drinks Harry knew the first rule: you never asked for one. His thirst was their joke and any demand by him subtracted from their joy of giving” (61). Once again, Bukowski is something of a Hegelian, recognizing the mutual necessity of Lord and Bondsman. But as we shall see later, Chinaski does his best to wrench the dialectic out of shape. For the others Harry represents passivity and suffering and any breach of his role is threatening. This is made clear when Harry, “in agony for another drink,” suggests getting that drink while Monk is having his haircut: “Monk's eyes fixed on Harry, ‘No, we'll get a beer after I'm finished here’” (63).
+  
+
+    The bum's role as the victim of society's inherent and insistent need to find an object for its members' mindless hostility and violence towards anything different from themselves is evident in several incidents during Harry's peregrinations. The larger the group, the more extreme the violence and the hostility:
+  
+
+
+      A car came driving by swiftly. It was filled with four young men.
+    
+
+
+
+      “HEY, YOU OLD FART! DIE!” one of them screamed at Harry.
+    
+
+
+
+      The others laughed. Then they were gone.
+    
+
+
+    (56-57)
+  
+
+    A litle later an army convoy passes:
+  
+
+
+      The convoy moved slowly. The soldiers saw Harry sitting on the park bench. Then it began. It was an admixture of hissing, booing and cursing. They were screaming at him.
+    
+
+
+
+      “HEY, YOU SON OF A BITCH!”
+    
+
+
+
+      “SLACKER!”
+    
+
+
+
+      As each truck of the convoy passed, the next truck picked it up:
+    
+
+
+
+      “GET YOUR ASS OFF THAT BENCH!”
+    
+
+
+
+      “COWARD!”
+    
+
+
+
+      “FUCKING FAGGOT!”
+    
+
+
+
+      “YELLOW BELLY!”
+    
+
+
+
+      It was a very long and a very slow convoy.
+    
+
+
+
+      “COME ON AND JOIN US!”
+    
+
+
+
+      “WE'LL TEACH YOU HOW TO FIGHT, FREAK!”
+    
+
+
+
+      The faces were white and brown and black, flowers of hatred.
+    
+
+
+    (58)
+  
+
+    The prominence of the group diminishes the individual's value. Excepting the protagonist, characters are almost always seen as members of a group, without much in the way of psychological detail. Even Harry's thought processes have been stripped of the personal. Harry thinks, but his thinking is never presented in the traditional forms that we associate with psychological characterization. At times it verges on a kind of meta-thinking: “He walked along in the warm sun thinking, I am walking and I am smoking a cigarette” (56-57). Looking up at the sky while lying down on the grass, Harry briefly muses about life, “trying to get something straight.” But this is not a good thing to do: “Harry didn't like heavy thoughts. Heavy thoughts could lead to heavy errors.” Of Harry's subsequent victim, Monk, the narrator notes: “He thought that gave him an edge. He wasn't good at thinking.”
+  
+
+    Bukowski has no interest in understanding Harry's character, merely in presenting it. In one sense, “The Life of a Bum” is Bukowski in his most determinist mode. The subject as free-willed agent is severely circumscribed. This diminution results from the emphasis on the group and Harry's passivity. We have already noted the soldiers; continuing on his way to the bar
+  
+
+
+      Harry came to a vacant lot. A bunch of middle-aged men were playing softball. They were out of shape. Most had pot bellies, were small of stature, had large butts, almost like women. They were all 4-F or too old for the draft.
+    
+
+
+
+      Harry stood and watched the game. There were many strikeouts, wild pitches, hit batters, errors, badly hit balls, but they kept playing. Almost as a ritual, a duty. And they were angry. The one thing they were good at was anger. The energy of their anger dominated.
+    
+
+
+    (59)
+  
+
+    The suggestion that these men feel obligated to engage in their softball-game activity by a ritual beyond their control, that their individuality is being overridden by a group ethos (against which their anger is an expression), goes hand-in-hand with the reduction of psychological characterization. There is no need to delineate the fine points of character when psychology is virtually irrelevant. The individuals in the story lead unexamined lives bound by routine, convention, habit and the anger they feel at this determines their lives just as his “thirst” does Harry's.
+  
+
+    Yet, it is just the routineness of the characters and their lives that results in one of the story's most impressive achievements, its skillful characterization. (Evident earlier, nowhere has this skill been handled with as much precision as here. In “Some Hangover” and “The Death of the Father II,” for example, the characterization was achieved through dialogue, of which there is significantly less in “The Life of a Bum.”) With a few brief strokes Bukowski places a character, for example McDuff, whom Harry meets on his way to the bar.
+  
+
+
+      It was old thin McDuff, puffing his pipe. McDuff was around 62, he always looked straight forward, he never looked at you but he saw you anyhow from behind those rimless glasses. And he was always dressed in a black suit and a blue necktie. He came into the bar each day about noon, had two beers, then left. And you couldn't hate him and you couldn't like him. He was like a calendar or a pen holder.
+    
+
+
+    (59-60)
+  
+
+    The similes are striking in themselves and also because Bukowski uses metaphor and simile sparingly. They emphasize the routine (temporal) aspect of life as well as that of duty (the pen-holder as associated with routinized, bureaucratic work) and pick up McDuff's dark suit and tie as well as other elements of routine (“weariness”) which buttress one theme of the story.
+  
+
+
+      So Harry walked along with old thin McDuff and old thin McDuff puffed on his pipe. McDuff always kept that pipe lit. That was his thing. McDuff was his pipe. Why not?
+    
+
+
+
+      They walked along, not talking. There was nothing to say. They stopped at traffic lights, McDuff puffing at his pipe.
+    
+
+
+
+      McDuff had saved his money. He had never married. He lived in a two room apartment and didn't do much. … McDuff was neither happy nor unhappy. Once in a while he became a bit of a fidget, something would appear to bother him and for a tiny moment terror would fill his eyes. Then it left quickly … like a fly that had landed … then zoomed away for more promising territory.
+    
+
+
+    (60, ellipses in original.)
+  
+
+    The marvelous simile of the fly with its suggestion that McDuff is so far gone as to be beyond even the province of terror implies that Harry has the advantage in that he is not without emotion; where there is the promise of terror, there is the possibility (however slight) of change.
+  
+
+    McDuff is depicted as paradigmatically unexceptional, amazingly ordinary. Everyone at the bar is ordinary but McDuff is extraordinarily ordinary. The world of “The Life of a Bum” is as ordinary and unexceptional a world as one could meet and in this lies one part of its meaning. For it is exemplary not just of a bum's life. Syntax emphasizes this pervasive ordinariness. After meeting Monk, a window-washer, at the bar, Harry takes him up on his offer of a couple of drinks in exchange for accompanying him for a haircut: “Then Harry followed Monk out the door. They were together and Monk was going to get a haircut.” The diction and sentence structure are that of someone trying to put things in the simplest possible terms, to get a handle on reality, to find a meaning because something in him is still hoping against hope for this. As with his earlier remark, “I am walking and I am smoking a cigarette,” it is almost as if Harry feels that the best way to get a handle on what is happening is to state in the simplest possible terms what he is doing, or better yet, what is happening to him. Harry is like someone turning a shell over and over in their hands, trying to find a purchase from which to prise it open, hoping that there's some small pearl of meaning inside.
+  
+
+    Yet sometimes, even this level of reduction may be too complex and Harry reduces it even further. At the barbershop, Monk introduces Harry to the barber:
+  
+
+
+      Then he heard Monk speaking to the barber, “By the way, Paul, this is Harry. Harry, this is Paul.”
+    
+
+
+
+      Paul and Harry and Monk.
+    
+
+
+
+      Monk and Harry and Paul.
+    
+
+
+
+      Harry, Monk, Paul.
+    
+
+
+    (63)
+  
+
+    The world is reduced to people as things: just names, no verbs, no relationships between the things other than the happenstance of contiguity, no action. And people become their things in a “metonymic” vision that transforms itself into metaphor: “McDuff was his pipe.”
+  
+
+    Harry, “in agony for another drink,” tries to make the time pass while waiting for Monk to finish his haircut:
+  
+
+
+      Harry was conscious of his feet, of his feet in his shoes, then of his toes … on the feet … in his shoes.
+    
+
+
+
+      He wiggled his toes. His all-consuming life going nowhere like a snail crawling toward the fire.
+    
+
+
+
+      Leaves were growing upon stems. Antelopes raised their heads from grazing. A butcher in Birmingham raised his cleaver. And Harry sat waiting in a barbershop, hoping for a beer.
+    
+
+
+
+      He was without honor, a dog without a day.
+    
+
+
+
+      It went on, it went by, it went on and on, and then it was over.
+    
+
+
+    (64, ellipsis in original)
+  
+
+    This is extraordinarily effective writing. Bukowski has maintained the horror of Harry's existence without sensationalizing or sentimentalizing it. With the mention of the animal, vegetable and human world and the geographic spread of the moments, not as explicit, but as implied comparisons, there is the suggestion that this is existence, tout court. Neither the comparisons nor their order is accidental: leaves grow, animals eat them, and are then in turn consumed by humans. It is the order of things, though not a particularly appealing one. The mechanism of the world grinds on. The relentless cycle that is existence was suggested in the fourth paragraph of the story: “Harry got up, relieved himself in the sink, washed it away with the spigot, then he stuck his head under there and drank some water.” Living becomes akin to one of those statue-fountains endlessly recycling water through itself. The one attempt to break out of all this, to short-circuit the cycle, is Harry's assault on Monk, not quite the acte gratuit it appears to be at first glance.
+  
+
+    Monk epitomizes all that Harry dislikes: “How he sat there! A man's man. And a comfortable one at that. He never thought about death, at least not his own”; and later: “Monk laughed. His laugh was like linoleum being sliced by a dull knife. Or maybe it was a death-cry.” For Harry, Monk and Monk's life are death. On the way back to the bar Harry tries to realize this identification:
+  
+
+
+      Monk was walking next to the curb and it was like a dream. A yellow dream. It just happened. And Harry didn't know where the compulsion came from. But he allowed the compulsion. He pretended to trip and lunged into Monk. And Monk, like a top-heavy circus of flesh, fell in front of the bus. As the driver hit the brakes there was a thud, not too loud, but a thud.
+    
+
+
+    (65)
+  
+
+    Monk is breathing and there is no sign of blood, but he is unconscious. Harry takes the wallet, which had “leaped out of Monk's back pocket on impact,” and leaves. The wallet is full, apparently with Monk's pay.
+  
+
+    Thus the element of the sensational is introduced into the story. While it is motivated in terms of Harry's dislike for Monk, and the feeling that he has been humiliated by him, it is still a slightly unrealistic element in the context of the overall tone and style of the story, although the incident has, typically, been made more credible by the description of the wallet's landing “like a little pyramid.” Bukowski wants this incident in the story in this way because the incident shows Harry as, in fact, aggressive, although that aggression is somewhat subtly phrased: “But he allowed the compulsion.” We see Harry taking control in a way he had not done before. In the bar, during the walk and haircut he had been passive, controlling only in manipulating his flunky position to get free drinks. His previous behavior had an element of economic rationality in it but here something else is at work because Harry doesn't know Monk is carrying a lot of cash and therefore doesn't push him into the path of the bus for that reason. He does so because Monk's existence is anathema to him and because Monk has humiliated him. Monk had also humiliated Harry in the bar by “offering” him a demeaning “job” (holding the ladder for Monk while he washes windows). His assault on Monk marks a decisive shift in the story. Harry is no longer an innocuous victim.
+  
+
+    Harry chooses Monk as his victim for a number of reasons. In one sense everything about Monk irritates Harry but above all Monk had provoked Harry by offering him (a “bum”) a job. It hadn't been a serious offer but Monk had attacked Harry in what is both Harry's most sensitive point and yet the crux of his (“bum's”) existence: the refusal to work.
+  
+
+    Earlier in the story Harry had characterized himself as a “dog without a day.” Here, Harry gets his day. Monk has lost the fight for “recognition” while Harry has advanced to “Lordship” status (though he loses that soon enough in his conflict with the chef). But Harry is trying to get outside the whole tight conflictual circle organized around work and hierarchical work relations (cp. the primary definition of “bum”: “a person who avoids work and sponges on others”). As he reflects to himself on being offered a job by the chef: “Why the hell is everybody trying to put me to work?” (64). Harry will not accept the wage/work relationship which (with Monk's money) he successfully, if momentarily, escapes.
+  
+
+    Later in the day Harry goes to have a good meal with Monk's money. Because he looks so shabby, the chef is reluctant to serve him, then angrily relents.
+  
+
+
+      “Now,” said Harry, “I want a porterhouse steak, medium well-done, with french fries, and go easy on the grease. And bring me another beer, now.”
+    
+
+
+
+      The chef loomed before him like an angry cloud, then he cleared off, went back to the refrigerator, repeated his act, which included bringing the bottle and slamming it down.
+    
+
+
+    (66-67)
+  
+
+    Harry eats his meal and then orders the same meal all over again. After finishing the second meal:
+  
+
+
+      “I'll have it once more,” Harry told the chef. “Another porterhouse and fries and another beer, please.”
+    
+
+
+
+      “YOU WILL NOT!” the chef screamed. “YOU WILL PAY UP AND GET THE HELL OUT OF HERE!”
+    
+
+
+    (68)
+  
+
+    This Harry does.
+  
+
+    The chef's reaction is surprising and, at first glance, inexplicable. When Harry first entered the restaurant, the chef thought he was applying for the dishwasher's job advertised in the window. The reason for the chef's anger may be his disappointment that he can't fill the job (which could mean that he is washing the dishes) as well as that subtle and irritating discomfort we feel when someone is not playing their role. While the habitués of the bar can maintain a sense of superiority over Harry by buying him drinks, and therefore his refusal of Monk's offer of a job doesn't particularly offend them, such is not the case with the chef. All he sees is a bum who somehow doesn't have to work. Twice in the story Harry refuses a job, a refusal justified by the horror of such an existence: the existence of McDuff, Monk, the chef.
+  
+
+    After he pays, he leaves the restaurant and continues his Bloom-like odyssey.
+  
+
+
+      Early evening traffic was beginning to clog the avenues with cars. The sun slanted down behind him. Harry glanced at the drivers of the cars. They seemed unhappy. The world was unhappy. People were in the dark. People were terrified and disappointed. People were caught in traps. People were defensive and frantic. They felt as if their lives were being wasted. And they were right.
+    
+
+
+
+      Harry walked along. He stopped for a traffic signal. And, in that moment, he had a very strange feeling. He felt as if he was the only person alive in the world.
+    
+
+
+
+      As the light turned green, he forgot all about that. He crossed the street to the other side and continued on.
+    
+
+
+    (69)
+  
+
+    With that the story ends. The ending is especially effective in that Harry's brief epiphany is taken back in the next sentence.
+  
+
+    “The Life of a Bum” seems to me the best story Bukowski has ever written. The language is extremely impressive with truly not a word wasted. The metaphors and similes are strikingly effective. Impressive also, is how he has worked a number of his major concerns into its relatively small confines: the gnawingly deadening routine of everyday life and the quiet and not-so-quiet desperation of much of humanity, the irrational aggression of individual and group, and the refusal of work are all nicely delineated.
+  
+
+    Generally speaking, Bukowski's stories fit quite well into what one critic has termed “the debunking rhythm of the American short story” which
+  
+
+
+      challenge[s] the character's, and the audience's, assumptions about the world without substituting any more-authoritative knowledge, so that such stories constitute not a form of knowledge but a challenge to knowledge. …20
+
+
+    While this nicely provides a framework within which to view such stories as “Decline and Fall,” “Some Hangover” and “The Life of a Bum,” it does not quite capture the specific stamp of a Bukowski story. Bukowski not only questions the concept of a stable individual personality (though he sometimes does that) but often suggests as well the extent to which the individual is at the mercy of the surrounding social world, almost always represented as a hostile group.
+  
+
+    Bukowski's short stories are a major achievement. They span almost his entire publishing career, from 1944 to 1990, almost a half century. Had he produced nothing but these stories his achievement would have been impressive. But almost as impressive as the achievement itself is his continuing evolution as a short story writer. While his mastery of the form has become complete over the years, the impulse behind that achievement has remained remarkably consistent: to reveal the ordinary's extraordinary aspect.
+  
+
+Notes
+
+
+
+
+        “I started with …” Letter to Douglas Blazek, 4 Nov. 1964.
+      
+
+
+
+        “He began almost compulsively …” In Hank, Bukowski gives the following account (similar to the one in Ham on Rye): “In the fall of 1935, when his acne was at its worst, Hank wrote his first short story, basing his main character on Baron Manfred von Richthofen, the World War I flying ace. ‘His hand was shot off, and he kept fighting guys out of the sky. This is all psychologically impossible. I understand. But remember, my face was breaking out in boils while everybody else was making love to their fellow students and all that. I was the ugly boy of the neighborhood, so I wrote this long story. It was a little yellow notebook. It cost me six cents. I wrote with a pencil, how this guy with the iron hand shot down this guy and that guy’” (34). The first published story was “Aftermath of a Lengthy Rejection Slip,” Story (New York, March-April, 1944) 2, 4, 5, 97-99. For a more precise chronology of the early short story publications, see David Barker, “Charles Bukowski: The First Quarter Century” in Sure, 5 & 6 (1992): 53-54.
+      
+
+
+
+        “Although he returned …” For some of the details surrounding this event, and the experience of writing for Open City generally, see the “Foreword” in Charles Bukowski, Notes of a Dirty Old Man, 5-8 and the story “The Birth, Life and Death of an Underground Newspaper,” in Charles Bukowski, Erections, Ejaculations, Exhibitions and General Tales of Ordinary Madness, 109-29. According to Cherkovski, the column, which began in May of 1967, resulted in some minor harassment of Bukowski by the postal authorities (Hank, 187-93).
+      
+
+
+
+        “These columns subsequently included …” Julian Smith, “Charles Bukowski and the Avant-Garde” in The Review of Contemporary Fiction 5.3 (1985): 56.
+      
+
+
+
+        “The fiction was of two sorts …” The content of many of his stories would later appear in his novels. This is especially true of the Notes collection where roughly half of the columns contain incidents later used in the novels.
+      
+
+
+
+        “Although his serious short story production …” See letter of 16 February 1983 to Loss Glazer. A propos of Saroyan, Bukowski told Cherkovski: “A tough daddy. You should read The Daring Young Man on the Flying Trapeze. It was revolutionary in its day” (Whitman's, 30). For a discussion of the relationship to Saroyan, see, David Stephen Calonne, “Two on the Trapeze: Charles Bukowski & William Saroyan,” in Sure, 5 & 6 (1992): 26-35.
+      
+
+
+
+        “In terms of his contemporaries …” As Thomas McGonigle put it “no university is gonna save this guy with a chair in creative writing like they did for Raymond Carver, the academy's favorite rewrite man of the low-life experience.” Thomas McGonigle, “A Bottle Stain,” in The Review of Contemporary Fiction 5.3 (1985): 37. Carver was an admirer of Bukowski's. See the poem, “You Don't know what Love is (an evening with Charles Bukowski),” in Raymond Carver, Fires: Essays Poems Stories, 57.
+      
+
+
+
+        “indeed, in the most recent collection …” The extent to which Bukowski has moved away from the use of the first person and the subjectivity that it lends a text is striking. The statistics are as follows, with the percent indicating the number of stories in each collection written in the third person:
+      
+
+
+
+Notes of a Dirty Old Man:
+
+
+              21٪
+            
+
+
+
+Erections, Ejaculations, Exhibitions and General Tales of Ordinary Madness:
+
+
+              19٪
+            
+
+
+
+South Of No North:
+
+
+              44٪
+            
+
+
+
+Hot Water Music:
+
+
+              56٪
+            
+
+
+
+Septuagenarian Stew:
+
+
+              76٪
+            
+
+
+
+
+
+        “Not surprisingly …” James Michael Cooke's masters thesis, The Grotesque Tradition in the Short Stories of Charles Bukowski (University of North Texas, 1988) is interesting but focuses on one aspect of the earlier stories. (It is also, to my knowledge, the first and only M.A. thesis or Ph.D. dissertation in English on Bukowski.)
+      
+
+
+
+        “Sexual arousal …” Some of the stories collected in Hot Water Music first appeared in “girlie” magazines and one sometimes feels that the more explicit sexual passages were inserted in the stories for extra-artistic reasons, as a function of the place of their first publication. There is some support for this suspicion. Queried about writing for “porno” magazines, Bukowski told an interviewer: “I would write a good story that I liked, but I would find an excuse to throw in a sex scene right in the middle of the story. It seemed to work. It was okay.” See Hodenfeld, 59.
+      
+
+
+
+        “It would be hard to imagine …” Bukowski was aware of the problem of distance: “Giovanni Boccaccio wrote it [about sex] much better. he had the distance and the style. I am still too near the target to effect total grace. people simply think I'm dirty” (N 165).
+      
+
+
+
+        “Such writing calls …” Roland Barthes, Writing Degree Zero, 67-68.
+      
+
+
+
+        “One reviewer perceptively …” In Schmidt, 111.
+      
+
+
+
+        “As Bukowski remarked …” Charles Bukowski, “He Beats His Women.”
+      
+
+
+
+        “In ‘Decline and Fall’ …” One sign of increasing mediation is the number of stories which are, so to speak, told second hand: one character telling another what happened to him, or even something that has been told to him. Moreover, 17 of the 36 stories in Hot Water Music involve the telephone, a materialization of the increased distance in the stories.
+      
+
+
+
+        “What strains credulity …” But that this, too, is clearly within the realm of possibility is corroborated by the 1991 Dahmer case in Milwaukee where the killer was not overly concerned with hiding his tracks.
+      
+
+
+
+        “Here the situation …” It is also less sensational and brutal than in “The Fiend,” a story in Erections with a similar theme. The differences are instructive and typical of the differences between the early and late stories. Kevin's alleged abuse in “Some Hangover” is of having taken two girls into a closet, removed their panties and “sniffed their peepees.” In “The Fiend,” Martin Blanchard is shown brutally raping a little girl. It is a powerful story (also not without humor) and a serious attempt to examine the causes of such behavior. But the literal description of the act and the description of the policemen's brutality at the end work against the humor. “Some Hangover” profits from the fact that the abuse itself is of a relatively mild sort, isn't described at any length and is not conclusively proven and that it is the aftereffects that provide the content of the story and allow the humor. Another factor that “normalizes” the later stories is that they frequently involve couples whereas the early stories often had to do with loners.
+      
+
+
+
+        “The tone throughout is objective …” Roger Fowler's description of how Hemingway achieved his objectivity in Linguistic Criticism, 57.
+      
+
+
+
+        “Yet the stories …” And certainly of content to life. A number of the stories in Hot Water Music and Septuagenarian Stew reflect the filming of Barfly and the increased fame which came to Bukowski in the 1980s after its release. See “Less Delicate than the Locust,” and “Scum Grief” in Hot Water Music and “Action,” “Fame,” and “Mad Enough” in Septuagenarian Stew.
+
+
+
+
+        “Generally speaking …” Thomas M. Leitch, “The Debunking Rhythm of the American Short Story,” in Susan Lohafer and Jo Ellyn Clarey, eds. Short-Story Theory at the Crossroads, 133.
+      
+
+
+
+
+
+
+Further Reading
+
+
+
+Download PDF
+
+
+
+
+Print
+
+
+
+
+Page Citation
+
+
+
+
+Share Link
+
+
+
+
+
+
+Last Updated on February 4, 2016, by eNotes Editorial. Word Count: 138
+
+
+    BIOGRAPHY
+  
+
+    Brewer, Gay. Charles Bukowski. New York: Simon & Schuster Macmillan, [Twayne Publishers,] 1997, 215 p.
+  
+
+Book-length study of Bukowski's entire life and career.
+
+
+    CRITICISM
+  
+
+    Byrne, Jack. Review of Septuagenarian Stew: Stories and Poems. Review of Contemporary Fiction 11 (Spring 1991): 314.
+  
+
+Positive review of Septuagenarian Stew.
+  
+
+    Smith, Dave. Review of South of No North: Stories of the Buried Life. Library Journal 99, No. 4 (15 February 1974): 503.
+  
+
+Asserts that “a lot of viciousness and a little truth make Bukowski fun to read but, like pornography, dull in big doses.”
+
+
+    Additional coverage of Bukowski's life and career is contained in the following sources published by the Gale Group: Contemporary Authors, Vols. 17-20, 144; Contemporary Authors New Revision Series, Vols. 40, 62; Contemporary Literary Criticism, Vols. 2, 5, 9, 41, 82, 108; Contemporary Popular Writers; Dictionary of Literary Biography, Vols. 5, 130, 169; DISCovering Authors 3.0; DISCovering Authors Modules: Dramatists, Novelists, Poets; Major 20th–Century Writers, Vols. 1, 2; and Poetry Criticism, Vol. 18.
+  
+
+
+
+
+
+Unlock This Study Guide Now
+
+
+
+Start your 48-hour free trial and unlock all the summaries, Q&A, and analyses you need to get better grades now.
+
+
+
+30,000+ book summaries
+20% study tools discount
+Ad-free content
+PDF downloads
+300,000+ answers
+5-star customer support
+
+
+        Start your 48-hour free trial
+    
+Already a member?
+                
+
+    Log in here.
+
+
+
+
+
+
+Previous
+Bukowski, Charles (Poetry Criticism)
+
+
+Next
+Bukowski, Charles (Vol. 108)
+
+
+
+
+
+
+
+
+                googletag.cmd.push(function() { googletag.display(div-gpt-ad-1557078247534-0); });
+                
+
+
+
+
+
+Related Questions
+
+See all
+
+
+
+
+                                ﻿In Charles Bukowski's "my old man," how would you define the meter pattern as relevant to the meaning of the poem?
+                        
+
+
+
+                                What are some criticisms of Charles Bukowski's work?
+                        
+
+
+
+                                How many novels did Bukowski write, and which of them are the most acclaimed?   Aside from Bukowski's various poetry anthologies and short story...
+                        
+
+
+
+                                What would some good questions of inquiry be for "the schoolyard of forever" by Charles Bukowski?
+                        
+
+
+
+                                What does Charles Bukowski believe the poem "Splash" can do for us?
+                        
+
+
+
+
+        Ask a question
+    
+
+
+
+
+
+
+                googletag.cmd.push(function() { googletag.display(div-gpt-ad-1557078333503-0); });
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                googletag.cmd.push(function() { googletag.display(div-gpt-ad-1557078894600-0); });
+                
+
+
+Explore Study Guides
+
+
+
+Popular
+New
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    To Kill a Mockingbird
+
+by Harper Lee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Macbeth
+
+by William Shakespeare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Romeo and Juliet
+
+by William Shakespeare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Hamlet
+
+by William Shakespeare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    The Great Gatsby
+
+by F. Scott Fitzgerald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Lord of the Flies
+
+by William Golding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    The Crucible
+
+by Arthur Miller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Of Mice and Men
+
+by John Steinbeck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Guide to Literary Terms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Julius Caesar
+
+by William Shakespeare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    To Brooklyn Bridge
+
+by Hart Crane
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    To the Nile
+
+by John Keats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Walking
+
+by Henry David Thoreau
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    The Moment Before the Gun Went Off
+
+by Nadine Gordimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    One of These Days
+
+by Gabriel García Márquez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Dream Children: A Reverie
+
+by Charles Lamb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Klara and the Sun
+
+by Kazuo Ishiguro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Blackberry-Picking
+
+by Seamus Heaney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Bat
+
+by D. H. Lawrence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Spring Offensive
+
+by Wilfred Owen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eNotes.com will help you with any book or any question. Our summaries and analyses are written by experts, and your questions are answered by real teachers.
+
+        Join eNotes
+        
+
+
+
+
+
+        Apply to be an Educator
+        
+
+
+
+
+
+
+
+
+Recommended
+
+Study Guides
+New Study Guides
+Lesson Plans
+Quizzes
+Shakespeare Quotes
+Homework Help
+Literary Terms
+
+
+
+More
+
+FAQ
+About Us
+Contact Us
+Jobs
+Blog
+iOS App 
+Android App 
+
+
+
+
+
+
+
+
+©2021 eNotes.com, Inc. All Rights Reserved
+
+
+
+
+
+
+
+Terms of Use
+Privacy Policy
+
+
+
+
+Facebook
+
+Twitter
+
+
+
+
+
+Pinterest
+
+Medium
+
+
+
+
+
+
+
+
+
+  cnx.cmd.push(function() {
+    cnx({
+      playerId: "f48b8a90-cdec-4b70-aecb-e29d343d5562"
+    }).render("f703aba1b1714631aa23794f29b14a5b");
+  });
+
+
+                [
+    {
+        "name": "Charles Bukowski Bukowski, Charles (Short Story Criticism) - Essay",
+        "dateModified": "2016-10-02T11:57:27+00:00",
+        "audience": {
+            "@type": "EducationalAudience",
+            "educationalRole": "student"
+        },
+        "about": {
+            "@type": "Person",
+            "name": "Charles Bukowski"
+        },
+        "learningResourceType": "critical essays",
+        "description": "Essays and criticism on Charles Bukowski - Bukowski, Charles (Short Story Criticism)",
+        "relatedLink": "/homework-help/topic/charles-bukowski",
+        "@context": "http://schema.org",
+        "@type": "WebPage"
+    }
+]            
+
+
+
+

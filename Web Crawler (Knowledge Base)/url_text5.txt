@@ -1,0 +1,1049 @@
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+/*<![CDATA[*/
+var cmContextUrl = '/gp/palgrave';
+/*]]>*/
+
+Palgrave
+
+
+
+
+
+/*<![CDATA[*/
+
+document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+
+/*]]>*/
+
+sharedDataLayer = [{"session":{"authentication":{"loginStatus":"logged out"}},"customEvents":[],"page":{"sharedDataLayer":"present"},"user":{"segment":{},"profile":{}}}]
+function sprMerge(current, update) {
+  Object.keys(update).forEach(function(key) {
+    if (current.hasOwnProperty(key)
+            && typeof current[key] === 'object'
+            && !(current[key] instanceof Array)) {
+      sprMerge(current[key], update[key]);
+    } else {
+      current[key] = update[key];
+    }
+  });
+  return current;
+}
+    
+
+appDataLayer = [{'geo-country-code' : 'US'}];
+sharedDataLayer = sharedDataLayer || [];
+dataLayer = sprMerge(sharedDataLayer, appDataLayer);
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=E7QTxrPOoT0mEBatmdbbWQ&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W65KPZ');
+
+
+/*<![CDATA[*/
+
+.no-js .product-graphic .lazy {display: block;}
+.link-image p {
+color: #333333;
+}
+.link-image .look-inside-badge p {
+color: #ffffff;
+}
+.cms-teaser a p {
+color: #333333;
+}
+.cms-row-multiline-6 .product-teaser .product-information {
+display: none;
+}
+
+/*]]>*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*<![CDATA[*/
+var trackedAffiliates = ['PPC.Google AdWords.3.EPR653.SM', 'Affiliate.CommissionJunction.3.EPR868-EN', 'PDM.Soquero.3.EPR653', 'PPC.Google AdWords.EPR653-GoogleShopping_Product_EN', 'PPC.Google AdWords.3.EPR653.DAL', 'Affiliate.Zanox.3.EPR868-DE', 'PPC.Google AdWords.3.EPR653.GMT', 'Affiliate.CommissionJunction.3.EPR868-DE', 'PPC.Google AdWords.EPR653-GoogleShopping_Product_CH', 'PDM.ChannelAdvisor.3.EPR653', 'Banner.Banner RTB.3.EPR653.Sociomantic', 'PPC.Google AdWords.EPR653-GoogleShopping_Product_DE', 'Affiliate.Zanox.3.EPR868-EN', 'PPC.Google AdWords.3.EPR653.IT', 'PPC.Google AdWords.3.EPR653.FR', 'PPC.BING.3.EPR632-DS-PPC-DAL', 'PPC.Google AdWords.3.EPR653.West', 'PPC.Google AdWords.EPR653-GoogleShopping_Product_UK', 'Banner.Banner RTB.3.EPR653.Criteo', 'PPC.BING.3.EPR632.West', 'PPC.BING.3.EPR632.DAL'];
+var generalCookieDomain = '.palgrave.com';
+
+/*]]>*/
+
+
+
+
+
+
+
+www.palgrave.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<![CDATA[*/
+
+#basket-widget {
+float: left;
+display: inline-block;
+position: relative;
+}
+#basket-widget .flyout-caption::before {
+display: none;
+}
+#basket-widget .flyout-caption::after {
+margin-top: -2px;
+}
+
+/*]]>*/
+
+
+   
+
+
+
+ 
+Loading..
+
+Your cart is empty.
+
+
+...you'll find more products in the shopping cart.
+
+
+Total€239.99
+
+View cart
+
+
+
+
+
+<li>
+<div class="cart-item">
+<div class="cover">
+{{coverTemplate}}
+</div><!--
+--><div class="title">
+{{titleTemplate}}
+<p class="description">{{description}}</p>
+<p class="quantity">
+{{resources.quantity}}: {{quantity}}
+</p>
+</div><!--
+--><div class="totalPrice">{{price}}</div>
+</div>
+</li>
+
+
+<a data-href="{{productLinkFragment}}">
+<img data-src="{{coverUrl}}" width="41" alt="{{title}}"/>
+</a>
+
+
+<img data-src="{{coverUrl}}" width="41" alt="{{title}}"/>
+
+
+Login
+
+
+
+My Account
+
+My Bookshelf
+
+
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subjects
+
+
+
+
+Business & Economics
+
+
+Humanities
+
+
+Politics & International Studies
+
+
+Social Science
+
+
+
+
+
+
+Publishing With Us
+
+
+
+
+Book Authors
+
+
+Journal Authors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Palgrave Macmillan is a world-class publisher of books and journals
+with more than 175 years’ experience in the Humanities and Social Sciences.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A collection of books, journal articles and magazine content that amplifies Black voices and the issues raised by the Black Lives Matter movement
+
+Black Lives Matter
+
+
+
+
+
+
+
+
+
+Supporting the global Covid-19 response with direct access to the latest available research, data and resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delve into research on US Politics as we know it.
+
+US Politics and Elections
+
+
+
+
+
+
+
+
+
+Daily Deal
+Save up to 90% on eBooks
+
+
+
+
+
+
+
+Ireland and the Climate Crisis
+
+9,99 €
+85,59 €
+
+
+
+Get this deal!
+
+
+
+
+
+
+
+
+
+Free worldwide shippingImmediate eBook downloadsDaily deals and other discount promotions
+
+SHOP NOW >>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join our Newsletter now
+
+
+
+
+
+
+
+
+
+A Short History of Palgrave
+
+
+
+
+
+
+
+
+
+Explore our Social Science Hub
+
+
+
+
+
+
+
+
+
+
+
+
+Latest releases
+
+
+
+
+
+
+
+
+
+
+
+A Brief History of Now
+
+
+
+
+Olstein, D.
+(2021)
+
+Format:
+eBook, Softcover
+
+ from 
+
+24,60 €
+
+
+
+
+
+
+
+
+
+Researching Virtual Play Experiences
+
+
+
+
+Bailey, C.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+93,08 €
+
+
+
+
+
+
+
+
+
+The Great Promise of Educational Technology
+
+
+
+
+Mamlok, D.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+74,89 €
+
+
+
+
+
+
+
+
+
+Rules, Contracts and Law Enforcement in the Ottoman Empire
+
+
+
+
+Altay, B. (et al.)
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+46,00 €
+
+
+
+
+
+
+
+
+
+Government Communications and the Crisis of Trust
+
+
+
+
+Garland, R.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+85,59 €
+
+
+
+
+
+
+
+
+
+A Phenomenological Revision of E. E. Harris's Dialectical Holism
+
+
+
+
+Schofield, J.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+93,08 €
+
+
+
+
+
+
+
+
+
+Regionalizing Global Human Rights Norms in Southeast Asia
+
+
+
+
+Sundrijo, D.A.
+(2021)
+
+Format:
+eBook, Hardcover, Softcover
+
+ from 
+
+62,39 €
+
+
+
+
+
+
+
+
+
+Capacity Building for Maritime Security
+
+
+
+
+Bueger, C. (et al.) (Eds.)
+(2021)
+
+Format:
+eBook, Hardcover, Softcover
+
+ from 
+
+72,79 €
+
+
+
+
+
+
+
+
+
+Race, Class, Gender, and Immigrant Identities in Education
+
+
+
+
+Wynn, A. (et al.)
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+85,59 €
+
+
+
+
+
+
+
+
+
+Money Laundering, Terrorist Financing, and Tax Evasion 
+
+
+
+
+Campbell, A.M.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+93,08 €
+
+
+
+
+
+
+
+
+
+Musical Entanglements between Germany and East Asia
+
+
+
+
+Cho, J.M. (Ed.)
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+96,29 €
+
+
+
+
+
+
+
+
+
+The Rule of Law and Emergency in Colonial India
+
+
+
+
+Inagaki, H.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+85,59 €
+
+
+
+
+
+
+
+
+
+Brazil-India Renewable Energy Cooperation
+
+
+
+
+de Miranda Mousinho, M.C.A.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+85,59 €
+
+
+
+
+
+
+
+
+
+Creative Writing Practice
+
+
+
+
+Adelaide, D. (et al.) (Eds.)
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+93,08 €
+
+
+
+
+
+
+
+
+
+Lobotomy Nation
+
+
+
+
+Kragh, J.V.
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+93,08 €
+
+
+
+
+
+
+
+
+
+Managing Healthcare Organisations in Challenging Policy Contexts
+
+
+
+
+Kislov, R. (et al.) (Eds.)
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+117,69 €
+
+
+
+
+
+
+
+
+
+Dark Money and the Politics of School Privatization
+
+
+
+
+Cunningham, M.T.
+(2021)
+
+Format:
+eBook, Softcover
+
+ from 
+
+21,39 €
+
+
+
+
+
+
+
+
+
+Speech Etiquette in Slavic Online Communities
+
+
+
+
+Duskaeva, L. (Ed.)
+(2021)
+
+Format:
+eBook, Hardcover
+
+ from 
+
+96,29 €
+
+
+
+
+
+
+
+
+
+Buying in the Shop
+
+The books in our »Palgrave Shop come with free worldwide shipping for print copies, and our eBooks can be read on any device.
+
+
+
+
+
+
+
+
+<
+Books across all fields of scholarship, research and professional learning
+
+
+
+
+
+
+
+
+
+m
+eBooks can be used on all reading devices
+
+
+
+
+
+
+
+
+
+w
+Free shipping for print books worldwide
+
+
+
+
+
+
+
+
+
+
+
+
+Browse our disciplines
+
+
+
+
+
+
+Business and Economics
+
+
+
+
+
+Humanities
+
+
+
+
+
+Politics and International Studies
+
+
+
+
+
+Social Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help with
+
+AccessibilityContacting editorsContacting sales repseBook collectionsHelp overviewRights and permissionsNewsletter
+
+
+Information for
+
+AffiliatesAuthorsBook reviewersBooksellersCustomersJournalistsLecturersLibrarians
+
+
+Other sites and products
+
+Macmillan EducationMacmillan International Higher EducationPalgrave JournalsSpringer LinkSpringer Nature
+
+
+
+
+
+Palgrave Macmillan publishes journals, monographs and reference books in print and online.
+About Us
+
+
+
+
+
+
+
+
+© 2021 Palgrave is part of Springer Nature | Terms of Use
+Manage Cookies/Do Not Sell My DataPrivacy PolicyCalifornia Privacy Statement
+
+
+
+
+
+
+/*<![CDATA[*/ 
+		var webtrekkConfig = webtrekkConfig || {
+			trackId : '161653801023457', 
+			trackDomain: 'springergmbh01.webtrekk.net', 
+			domain : 'www.palgrave.com;checkout.palgrave.com;secure.worldpay.com', 
+			cookie : '1', 
+			executePluginFunction : 'wt_socialMedia;wt_scrollposition' 
+		};
+		var pageConf = {
+			contentId : 'gp', 
+			contentGroup : {"1":"gp"}, 
+			customParameter : {"5":"cms-page-group-unmapped"}, 
+			linkTrack : 'link',
+			linkTrackAttribute : 'id',
+			heatmap : '0', 
+			form : '0'
+		};
+		var wt = new webtrekkV3(pageConf);
+		wt.customerId='';
+		wt.customSessionParameter={};
+		wt.mediaCode='wt_mc;cm_mmc';
+		wt.linkTrackDownloads='avi;bmp;csv;doc;docx;dotx;eps;exe;gif;gz;jpeg;jpg;m4v;mov;mp3;mp4;mpg;pdf;png;ppt;pptx;ps;rss;rtf;swf;tar;tar.gz;tgz;tif;txt;wmv;xls;xlsx;zip';
+		wt.sendinfo();
+	/*]]>*/
+
+
+
+
+JavaScript is currently disabled, this site works much better if you
+
+enable JavaScript in your browser.
+
+
+
+
+
+
+
+
+
+
+
+  

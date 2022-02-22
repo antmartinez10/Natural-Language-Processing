@@ -1,0 +1,277 @@
+
+
+
+
+Charles Bukowski - Wikipedia
+document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januarie","Februarie","Maart","April","Mei","Junie","Julie","Augustus","September","Oktober","November","Desember"],"wgRequestId":"11a49f39-0a52-4874-810a-85f63803701d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Charles_Bukowski","wgTitle":"Charles Bukowski","wgCurRevisionId":2444718,"wgRevisionId":2444718,"wgArticleId":369055,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Artikels met hCards","Artikels met BIBSYS-identifiseerders","Artikels met BNE-identifiseerders","Artikels met BNF-identifiseerders","Artikels met CANTIC-identifiseerders","Artikels met CINII-identifiseerders","Artikels met GND-identifiseerders","Artikels met ISNI-identifiseerders",
+"Artikels met LCCN-identifiseerders","Artikels met LNB-identifiseerders","Artikels met MusicBrainz-identifiseerders","Artikels met NDL-identifiseerders","Artikels met NKC-identifiseerders","Artikels met NLA-identifiseerders","Artikels met NLG-identifiseerders","Artikels met NLK-identifiseerders","Artikels met NLP-identifiseerders","Artikels met NSK-identifiseerders","Artikels met NTA-identifiseerders","Artikels met RERO-identifiseerders","Artikels met SBN-identifiseerders","Artikels met SELIBR-identifiseerders","Artikels met SNAC-ID-identifiseerders","Artikels met SUDOC-identifiseerders","Artikels met Trove-identifiseerders","Artikels met VIAF-identifiseerders","Artikels met WorldCat-identifiseerders","Normdata met 25 elemente","Amerikaanse skrywers","Geboortes in 1920","Sterftes in 1994"],"wgPageContentLanguage":"af","wgPageContentModel":"wikitext","wgRelevantPageName":"Charles_Bukowski","wgRelevantArticleId":369055,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"af","pageLanguageDir":"ltr","pageVariantFallbacks":"af"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Afrikaans","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q76409"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.charinsert","ext.gadget.ReferenceTooltips","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"af"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charles Bukowski
+
+in Wikipedia, die vrye ensiklopedie
+
+
+
+Jump to navigation
+Jump to search
+Charles BukowskiCharles Bukowski in 1988GeboreHeinrich Karl Bukowski16 Augustus 1920Andernach, Pruise, DuitslandSterf9 Maart 1994San Pedro, Los AngelesNasionaliteitVerenigde StateBeroepDigter en skrywer
+Henry Charles Bukowski, gebore Heinrich Karl Bukowski,  16 Augustus 1920 – 9 Maart 1994) was 'n Duits-Amerikaanse digter, romanskrywer en kortverhaalskrywer.
+Sy skryfwerk is beïnvloed deur die sosiale, kulturele en ekonomiese atmosfeer van sy tuisstad Los Angeles.[1] Sy werk spreek die gewone lewens van arm Amerikaners aan, en fokus op die aktiwiteit van skryf, drank, verhoudings met vroue en die sleuraard van werk. Bukowski het duisende gedigte, honderde kortverhale en ses romans geskryf en uiteindelik meer as 60 boeke gepubliseer. Die FBI het 'n lêer oor hom gehou as gevolg van sy rubriek Notes of a Dirty Old Man in die LA ondergrondse koerant Open City.[2][3]
+Bukowski het baie gepubliseer in klein literêre tydskrifte met klein oplae wat begin in die vroeë veertigerjare en voortgegaan het tot in die vroeë negentigerjare. Soos een resensent opgemerk het, “... was Bukowski danksy sy manewales en doelbewuste naroptredes, die koning van die ondergrond en die toonbeeld van die kleintjies in die daaropvolgende dekades, beklemtoon deur sy lojaliteit teenoor die klein publikasieredakteurs wat sy werk en sy teenwoordigheid in nuwe ondernemings soos die New York Quarterly, Chiron Review of Slipstream gekonsolideer.”[4] Sommige van hierdie werke sluit in Poems Written Before Jumping Out of an 8 Story Window, uitgegee deur sy vriend en mededigter Charles Potts, en meer bekende werke soos Burning in Water, Drowning in Flame. Hierdie gedigte en verhale is later deur John Martin se Black Sparrow Press (nou HarperCollins / Ecco Press) gepubliseer as versamelde bundels van sy werk.
+In 1986 noem Time Bukowski 'n “laureate van die Amerikaanse onedeles”.[5] In verband met Bukowski se volgehoue aantrekkingskrag, skryf Adam Kirsch van The New Yorker, "die geheim van Bukowski se aantrekkingskrag ... [is dat] hy die belydenisdigter se belofte van intimiteit kombineer met die groter as die lewe- parmantigheid van 'n pulp-fiksieheld.” [6]
+Sedert sy dood in 1994 was Bukowski die onderwerp van 'n aantal kritiese artikels en boeke oor sy lewe en geskrifte, ondanks sy werk wat hy gedurende sy leeftyd relatief min aandag van akademiese kritici in die Verenigde State gekry het. Daarteenoor het Bukowski buitengewone roem in Europa geniet, veral in Duitsland, die plek waar hy gebore is.
+
+Verwysings[wysig | wysig bron]
+
+
+↑ .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}"Bukowski, Charles". Columbia University Press.
+
+↑ "Charles Bukowski FBI files". bukowski.net.
+
+↑ Keeler, Emily (9 September 2013). "The FBI kept its own notes on 'dirty old man' Charles Bukowski". Los Angeles Times.
+
+↑ "Charles Bukowski, King of the Underground From Obscurity to Literary Icon". Palgrave Macmillan.
+
+↑ Iyer, Pico (16 Junie 1986). "Celebrities Who Travel Well". Time. Geargiveer vanaf die oorspronklike op 5 Julie 2013. Besoek op 28 April 2010.
+
+↑ Kirsch, Adam (14 Maart 2005). "Smashed". The New Yorker.
+
+
+Eksterne skakels[wysig | wysig bron]
+
+
+
+Wikiquote het aanhalings in verband met Charles Bukowski
+Bukowski.net – Bibliografie, manuskripte, gedig databasis, besprekingforum
+Works by Charles Bukowski, cataloged by WorldCat
+Timeline of Bukowski's life and publications by "the world's premiere Charles Bukowski website and discussion forum"
+Profile, Bibliography, and poems by die Poetry Foundation
+Profile and poems at Poets.org
+"Hanging with Bukowski at the Gotlieb Center" Geargiveer 29 Maart 2010 op Wayback Machine. BU Today. Boston-universiteit 26 Maart 2009
+Guide to the Charles Bukowski Manuscript. Special Collections and Archives, The UC Irvine Libraries, Irvine, Kalifornië.
+"Bukowski Comes to Wormwood", The Wormwood Review 1985
+"Mickey Rourke plays a tough barfly". Onderhoud met Bukowski 10 Februarie 1987. Chicago Sun Times
+13 August 2000 Bukowski profile (audio, 11 mins) NPR.
+"Smashed:The pulp poetry of Charles Bukowski" deur Adam Kirsch in  The New Yorker 14 Maart 2005
+HarperCollins profile, timeline and resources Geargiveer 10 Februarie 2013 op Wayback Machine
+Normdata 
+BIBSYS: 90112958
+BNE: XX1156455
+BNF: cb11894503x (data)
+CANTIC: a1005506x
+CiNii: DA04241723
+GND: 11851735X
+ISNI: 0000 0001 1405 9853
+LCCN: n79091866
+LNB: 000042706
+MusicBrainz: 1ad1c7db-cf3f-46c8-96e9-24be0a29e027
+NDL: 00463977
+NKC: jn20000720038
+NLA: 36355649
+NLG: 259461
+NLK: KAC199603878
+NLP: A11828389
+NSK: 000001415
+NTA: 068522355
+RERO: 02-A027232552
+ICCU: IT\ICCU\CFIV\004032
+SELIBR: 174402
+SNAC: w6sx8g8p
+SUDOC: 026758725
+Trove: 1250347
+VIAF: 64002815
+ WorldCat Identities: lccn-n79091866
+
+
+
+Hierdie artikel is in sy geheel of gedeeltelik vanuit die Engelse Wikipedia vertaal.
+
+
+   
+
+
+
+
+
+
+
+Ontsluit van "https://af.wikipedia.org/w/index.php?title=Charles_Bukowski&oldid=2444718"
+Kategorieë: Amerikaanse skrywersGeboortes in 1920Sterftes in 1994Versteekte kategorieë: Artikels met hCardsArtikels met BIBSYS-identifiseerdersArtikels met BNE-identifiseerdersArtikels met BNF-identifiseerdersArtikels met CANTIC-identifiseerdersArtikels met CINII-identifiseerdersArtikels met GND-identifiseerdersArtikels met ISNI-identifiseerdersArtikels met LCCN-identifiseerdersArtikels met LNB-identifiseerdersArtikels met MusicBrainz-identifiseerdersArtikels met NDL-identifiseerdersArtikels met NKC-identifiseerdersArtikels met NLA-identifiseerdersArtikels met NLG-identifiseerdersArtikels met NLK-identifiseerdersArtikels met NLP-identifiseerdersArtikels met NSK-identifiseerdersArtikels met NTA-identifiseerdersArtikels met RERO-identifiseerdersArtikels met SBN-identifiseerdersArtikels met SELIBR-identifiseerdersArtikels met SNAC-ID-identifiseerdersArtikels met SUDOC-identifiseerdersArtikels met Trove-identifiseerdersArtikels met VIAF-identifiseerdersArtikels met WorldCat-identifiseerdersNormdata met 25 elemente
+
+
+
+
+
+
+Navigasie-keuseskerm
+
+
+
+Persoonlike gereedskap
+
+
+Nie ingeteken nieBesprekingBydraesSkep gebruikerMeld aan
+
+
+
+
+
+Naamruimtes
+
+
+BladsyBespreking
+
+
+
+
+
+Variante
+expanded
+collapsed
+
+
+
+
+
+
+
+
+
+Weergawes
+
+
+LeesWysigWysig bronWys geskiedenis
+
+
+
+
+
+More
+expanded
+collapsed
+
+
+
+
+
+
+
+
+Soek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigasie
+
+
+TuisbladGebruikersportaalGeselshoekieOnlangse wysigingsLukrake bladsyHulpSandputSkenkings
+
+
+
+
+Gereedskap
+
+
+Skakels hierheenVerwante veranderingsSpesiale bladsyePermanente skakelBladinligtingHaal dié blad aanWikidata-item
+
+
+
+
+Druk/eksporteer
+
+
+Skep boekLaai af as PDFDrukbare weergawe
+
+
+
+
+Ander projekte
+
+
+Wikimedia Commons
+
+
+
+
+Ander tale
+
+
+AragonésالعربيةمصرىAsturianuAzərbaycancaتۆرکجهБеларускаяБеларуская (тарашкевіца)БългарскиCatalàکوردیČeštinaCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFøroysktFrançaisFryskGalego𐌲𐌿𐍄𐌹𐍃𐌺עבריתHrvatskiMagyarՀայերենBahasa IndonesiaIdoItaliano日本語ქართულიҚазақша한국어KurdîLatinaLëtzebuergeschLietuviųLatviešuМакедонскиNederlandsNorsk bokmålOccitanਪੰਜਾਬੀPolskiپنجابیPortuguêsRomânăРусскийSarduSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaไทยTürkçeУкраїнськаTiếng Việt吴语中文
+Wysig skakels
+
+
+
+
+
+
+ Die bladsy is laas op 27 Augustus 2021 om 11:24 bygewerk.
+Die teks is beskikbaar onder die lisensie Creative Commons Erkenning-Insgelyks Deel. Aanvullende voorwaardes kan moontlik ook van toepassing wees. Sien die Algemene Voorwaardes vir meer inligting.
+
+
+Privaatheidsbeleid
+Inligting oor Wikipedia
+Vrywaring
+Selfoonweergawe
+Ontwikkelaars
+Statistieke
+Koekieverklaring
+
+
+
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.515","walltime":"0.679","ppvisitednodes":{"value":1482,"limit":1000000},"postexpandincludesize":{"value":30459,"limit":2097152},"templateargumentsize":{"value":1284,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22610,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  602.021      1 -total"," 31.72%  190.941      1 Sjabloon:Inligtingskas_Persoon"," 30.34%  182.674      1 Sjabloon:Verwysings"," 23.06%  138.834      4 Sjabloon:Cite_web"," 22.67%  136.470      1 Sjabloon:Normdata"," 18.56%  111.733      1 Sjabloon:Inligtingskas4","  9.01%   54.235      1 Sjabloon:Wikidata_image","  5.77%   34.735      5 Sjabloon:Br_separated_entries","  4.19%   25.226      1 Sjabloon:Wikiquote","  3.62%   21.808      1 Sjabloon:Susterprojek"]},"scribunto":{"limitreport-timeusage":{"value":"0.265","limit":"10.000"},"limitreport-memusage":{"value":4297053,"limit":52428800}},"cachereport":{"origin":"mw1338","timestamp":"20211009050338","ttl":1814400,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Charles Bukowski","url":"https:\/\/af.wikipedia.org\/wiki\/Charles_Bukowski","sameAs":"http:\/\/www.wikidata.org\/entity\/Q76409","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q76409","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-02-16T19:26:11Z","dateModified":"2021-08-27T11:24:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/78\/CharlesBukowski-1.jpg"}
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":160,"wgHostname":"mw1322"});});

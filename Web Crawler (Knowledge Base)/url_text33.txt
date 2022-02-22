@@ -1,0 +1,1993 @@
+
+
+
+
+
+
+        if ('https://worldcat.org/' == // this string gets replaced by the proxy address
+                '/gro.tacdlrow//:sptth'.split('').reverse().join('')
+                || 'true' == 'true') {
+            let script1 = document.createElement('script')
+            script1.setAttribute('src', 'https://cdn.cookielaw.org/consent/3b9b6a99-a8b7-4b31-a427-748bf51c2056/OtAutoBlock.js')
+
+            let script2 = document.createElement('script')
+            script2.setAttribute('src', 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js')
+            script2.setAttribute('charset', 'UTF-8')
+            script2.setAttribute('data-document-language', 'true')
+            script2.setAttribute('data-domain-script', '3b9b6a99-a8b7-4b31-a427-748bf51c2056')
+            
+            let placeholder = document.getElementById('onetrust-placeholder')
+            placeholder.appendChild(script1);
+            placeholder.appendChild(script2);
+        }
+        function OptanonWrapper() { }
+    
+
+
+
+
+Results for 'au:Bukowski, Charles' [WorldCat.org]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*
+     * 3rd-party JavaScript libraries jqueryeasing and Dynamic Drive Terms of Use require the notices below within the script tag that refers to the .js file.
+     * A 3rd-party tool is being used to generate the script tags, and it does not support inline comments,
+     * so the notice is placed here.
+     */
+     
+     /***********************************************
+      * Bookmark site script - Copyright Dynamic Drive DHTML code library (www.dynamicdrive.com)
+      * This notice MUST stay intact for legal use.
+      * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code.
+      ***********************************************/
+
+     /*
+      * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
+      *
+      * Uses the built in easing capabilities added In jQuery 1.1
+      * to offer multiple easing options
+      *
+      * TERMS OF USE - jQuery Easing
+      * 
+      * Open source under the BSD License. 
+      * 
+      * Copyright Â© 2008 George McGinley Smith
+      * All rights reserved.
+      * 
+      * Redistribution and use in source and binary forms, with or without modification, 
+      * are permitted provided that the following conditions are met:
+      * 
+      * Redistributions of source code must retain the above copyright notice, this list of 
+      * conditions and the following disclaimer.
+      * Redistributions in binary form must reproduce the above copyright notice, this list 
+      * of conditions and the following disclaimer in the documentation and/or other materials 
+      * provided with the distribution.
+      * 
+      * Neither the name of the author nor the names of contributors may be used to endorse 
+      * or promote products derived from this software without specific prior written permission.
+      * 
+      * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY 
+      * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+      * MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+      *  COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+      *  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+      *  GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED 
+      * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+      *  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED 
+      * OF THE POSSIBILITY OF SUCH DAMAGE. 
+      *
+     */
+     
+
+
+
+
+
+
+    .qmfv {
+        visibility: visible !important;
+    }
+    .qmfh {
+        visibility:hidden !important;
+    }
+
+
+    var qmad = new Object();
+    qmad.bvis = "";
+    qmad.bhide = "";
+
+    var myTimer;
+
+
+
+
+    /******* Menu 0 Add-On Settings *******/
+    var a = qmad.qm0 = new Object();
+
+    // IE Over Select Fix Add On
+    a.overselects_active = true;
+
+
+
+
+
+  var GLOBAL_OBJECT = {"performanceMetrics":""};
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Web browser is not enabled for JavaScript. Some features of WorldCat will not be available.
+
+
+
+
+function addItemToList()
+{
+        OWC.UTIL.log("ajaxscript.jsp::addItemToList - start");
+    // hide other messages that might be open...
+    if (document.getElementById('watch_message'))      { document.getElementById('watch_message').style.display = "none"; }
+    if (document.getElementById('tagging_message'))    { document.getElementById('tagging_message').style.display = "none"; }
+    if (document.getElementById('list_message'))       { document.getElementById('list_message').style.display = "none"; }
+
+	var lists = document.getElementById("target_list");
+   var target_list = lists.options[lists.selectedIndex].value;
+
+   
+	var loggedIn = false;
+	
+    
+    var itemslist = "";
+    if (document.resultsform.itemid.length == null)
+    {
+        if (document.resultsform.itemid.checked)
+        {
+            itemslist = "&itemid=" + document.resultsform.itemid.value;
+        }
+    }
+    else
+    {
+        for (var i = 0; i < document.resultsform.itemid.length; i++)
+        {
+            if (document.resultsform.itemid[i].checked)
+            {
+                itemslist = itemslist + "&itemid=" + document.resultsform.itemid[i].value;
+            }
+        }
+    }
+
+    if(itemslist == "")
+    {
+		$('list_message').style.display = "block";
+		$('div_list_error').style.display = "block";
+		$('div_list_success').style.display = "none";
+		$('div_list_error').innerHTML = 'You did not select any items.  Please select one or more items and continue.';
+    }
+    else
+    {
+       if (loggedIn)
+      {
+           var url = "/webservices/root/process/lists?listAjax=item_ajax&target=" + target_list + "&listid=&add_to_list=Save" + itemslist;
+           if(target_list == 'new')
+           {
+               var ref = encodeURIComponent(location.href);
+               if (ref != null && ref != "")
+                   url = url + "&ref=" + ref;
+           }
+
+           //Lock the Add button
+           document.getElementById('add_to_list').disabled=true;
+
+           OWC.UTIL.ajax({
+                url: url,
+                dataType: "json",
+                success: addItemToListSuccess
+           });
+      }
+      else
+      {
+ 
+           var url = "/webservices/root/process/lists?listAjax=item_detailed&target=" + target_list + "&listid=&add_to_list=Save" + itemslist;
+           var ref = encodeURIComponent(location.href);
+           if (ref != null && ref != "")
+               url = url + "&ref=" + ref;
+
+           //window.location.href = url;
+           showLoginPopupDiv('Save to a list','to save items to a list','https://www.worldcat.org/account/?page=login&redirect=' + url);
+
+       }
+    }
+}
+
+
+function addItemToListSuccess(json)
+{
+        OWC.UTIL.log("ajaxscript.jsp::addItemToListSuccess");
+        var message = json;
+	if (message[0] == "success")
+	{
+		var printMessage = 'Selected item(s) have been added to <a href="[list_link]">your list</a>.';
+		printMessage = printMessage.replace("[list_link]", message[1]);
+		printMessage = printMessage.replace("[list_name]", message[2]);
+
+		$('list_message').style.display = "block";
+		$('div_list_success').style.display = "block";
+		$('div_list_error').style.display = "none";
+		$('span_success_list_link').innerHTML = printMessage;
+	}
+	else if (message[0] == "error")
+	{
+		$('list_message').style.display = "block";
+		$('div_list_error').style.display = "block";
+		$('div_list_success').style.display = "none";
+	}
+	else if (message[0] == "redirect")
+	{
+		window.location.href = message[1];
+	}
+	else if (message[0] == "login")
+	{
+		window.location.href = "/webservices/root/process/lists?listAjax=item_detailed&target=" + message[1] + "&add_to_list=Save&itemid=" + message[2];
+	}
+
+    var len = document.resultsform.itemid.length;
+    for (var i = 0; i < len; i++)
+    {
+        if (document.resultsform.itemid[i].checked)
+        {
+            document.resultsform.itemid[i].checked = false;
+        }
+    }
+
+    // unblock button
+	document.getElementById('add_to_list').disabled=false;
+}
+function addItemToListGeneric()
+{    
+    
+}
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+Home
+
+WorldCat Home
+About WorldCat
+
+Help
+
+Search
+
+Search for Library Items
+Search for Lists
+Search for Contacts
+Search for a Library
+
+
+
+
+
+
+Create lists, bibliographies and reviews:
+
+
+
+		var jsref = "";
+		if (location.href.indexOf ("https://www.worldcat.org/account/") == -1) {
+		jsref = "&ref=" + encodeURIComponent(location.href);
+		}
+		
+		document.write('<a id="wc-log-in" href="#" title="" onclick="showLoginPopupDiv(\'Sign in to WorldCat.org\',\'\',\'https://www.worldcat.org/account/?page=login' + jsref + '\');return false;">Sign in</a>');
+	      
+	      
+	      or
+	      
+		var jsref = "";
+		if (location.href.indexOf ("https://www.worldcat.org/account/") == -1) {
+		jsref = "&ref=" + encodeURIComponent(location.href);
+		}
+		document.write('<a href="https://www.worldcat.org/account/?page=register' + jsref + '" title="">create a free account</a>')
+	      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search WorldCat
+
+Find items in libraries near you
+
+
+
+
+
+
+
+
+Advanced Search
+Find a Library
+
+
+
+
+
+
+
+
+
+
+
+
+
+     jQuery(document).ready(function() {
+             jQuery("#q").focus();
+         });
+  
+
+
+
+
+
+
+
+
+
+
+        
+                Search results for 'au:Bukowski, Charles'
+
+
+
+
+
+
+
+
+
+
+function showSaveSearchPromptDiv()
+{
+    var loggedIn = false;
+    
+
+    if (loggedIn)
+	{
+        document.getElementById('searchTitle').value = "";
+        document.getElementById('saveSearchPromptDiv').style.display = 'block';
+        document.getElementById('searchTitle').focus();
+    }
+    else
+    {
+        showLoginPopupDiv('Save a search',
+                          'Save a search',
+                          'https://www.worldcat.org/account/?page=login&redirect=' + location.href + '&doSaveSearch=true');
+    }
+}
+function validateData()
+{
+    if ((document.getElementById('searchTitle').value == null) || (document.getElementById('searchTitle').value == ""))
+    {
+        document.getElementById('error_msg').style.display = "block";
+        document.getElementById('error_msg').innerHTML = "You must enter a name for your search";
+        return false;
+    }
+    else if (document.getElementById('searchTitle').value.length > 75)
+    {
+        document.getElementById('error_msg').style.display = "block";
+        document.getElementById('error_msg').innerHTML = "The name for this search must be less than 75 characters.";
+        return false;
+    }
+    else if (document.getElementById('searchDescription').value.length > 500)
+    {
+        document.getElementById('error_msg').style.display = "block";
+        document.getElementById('error_msg').innerHTML = "The description for this search must be less than 500 characters.";
+        return false;
+    }
+    return true;
+}
+function savethesearch()
+{
+	if (validateData())
+	{
+		hideDiv('saveSearchPromptDiv');
+		var url = "/wcpa/servlet/org.oclc.lac.SavedSearch.SavedSearchServlet?method=saveSearch" +
+				  "&title=" + document.getElementById('searchTitle').value +
+				  "&descr=" + document.getElementById('searchDescription').value +
+				  "&ispublic=" + document.getElementById('privacy_public').checked +
+				  "&postings=" + "3226";
+
+		 new Ajax.Request(encodeURI(url), {method:'get', onSuccess:savesearchsuccess});
+	 }
+}
+function savesearchsuccess(transport)
+{
+    if (transport.responseText != "")
+    {
+        document.getElementById('save_search_message').style.display = "block";
+        document.getElementById('div_savesearch_success').style.display = "block";
+        document.getElementById('div_savesearch_success_msg').innerHTML = "This search has been saved successfully. You can access all of your saved searches at any time from your <a href='/account/?page=myProfile'>WorldCat profile page</a>.";
+    }
+    else
+    {
+        document.getElementById('save_search_message').style.display = "block";
+        document.getElementById('div_savesearch_error').style.display = "block";
+        document.getElementById('div_savesearch_error_msg').innerHTML = "There was an error saving this search. Please try again later.";
+    }
+}
+function hideDiv(divname)
+{
+	document.getElementById(divname).style.display = "none";
+}
+
+
+    div.ssfixed {
+	position:fixed;
+	top: 30%;
+	left: 28%;
+	z-index: 100;
+	display: none;
+	}
+
+
+
+
+
+
+Save this search
+
+
+
+
+
+Name this search (75 characters):
+
+
+Add a description (optional, 500 characters):
+
+
+Select a privacy setting:
+
+Public
+Private
+
+
+
+
+
+Cancel
+
+
+Note: Access and manage your saved searches from your WorldCat profile page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+if (false)
+{
+    showSaveSearchPromptDiv();
+}
+
+
+
+
+
+
+
+
+    var isNewSearch = true;
+    facetArrayObj = new Array();
+    savedSortElement = ''; savedSortDirection = ''; savedSpoofingIp = '';
+    fc='';
+    function facetInfo(indexedTerms, text, count){
+        this.indexedTerms = indexedTerms; this.dontshowtext = text; this.count = count;
+    }
+    function refineYourSearch(startRec, sortElement, sortDirection, elem, isEditionPage, refreshFormat)
+    {
+        isNewSearch = false;
+        jQuery("#inprefinesearch").dialog("open");
+        finalizeFacetCheckBoxes();
+        var facetQuery ="";
+        var formatQuery = createFacetQueryForSection("format");
+        if(formatQuery.length > 0) {
+            formatQuery = '(' + formatQuery + ')';
+        }
+        var availOnlineQuery = createFacetQueryForSection("availonline");
+        if(formatQuery.length>0) facetQuery=' '+formatQuery;
+        if(availOnlineQuery.length>0) facetQuery=facetQuery + " " + availOnlineQuery;
+        var baseUrl = "/search?q=au%3ABukowski%2C+Charles&fq=&dblist=638";
+        var baseUrlWithoutFacets = getBaseUrlWithoutFacets(baseUrl);
+        var fq=getFacetQueryFromUrl(baseUrl);
+        var checkedBoxes = getCheckedBoxes();
+
+        if(elem != null && elem.indexOf("availonline")>-1)
+        {
+            if(availOnlineQuery.length==0){
+                var loc = baseUrlWithoutFacets + "&fq=" + fqWithoutFtLimiter(fq);
+                window.location = loc;
+                return;
+            }
+        }else if(elem != null && elem.indexOf("format")>-1){
+            if(formatQuery.length==0 && availOnlineQuery.length==0){
+                var loc = baseUrlWithoutFacets + "&fq=" + fqWithoutFormatLimiter(fq);
+                window.location = loc;
+                return;
+            }
+        }
+        if(checkedBoxes.length>0) setCookie("selected_check_boxes", checkedBoxes);
+
+        var qt="facet_fm_checkbox";
+        if(startRec!=null) {qt="facet_fm_pagelink";}
+        if(startRec==null && sortElement!=null) {qt="facet_fm_"+sortElement+"_"+sortDirection;}
+
+        var ajaxRefineSearchServiceUrl = baseUrlWithoutFacets+"&fq="+facetQuery;
+        fq = removeFacets(fq);
+        if(fq.length>0){ajaxRefineSearchServiceUrl += "%20%3E%20"+fq;}
+
+        if(startRec!=null) {
+            if(isEditionPage) ajaxRefineSearchServiceUrl += "&start_edition="+startRec;
+            else ajaxRefineSearchServiceUrl += "&start="+startRec;
+            setCookie("fm_facet_start", startRec);
+        }
+        if(sortElement!=null) {ajaxRefineSearchServiceUrl += "&se="+sortElement; savedSortElement = sortElement;}
+        if(sortDirection!=null) {ajaxRefineSearchServiceUrl += "&sd="+sortDirection;savedSortDirection = sortDirection;}
+        setCookie("fm_facet_se", savedSortElement);
+        setCookie("fm_facet_sd", savedSortDirection);
+        if(startRec==null && sortElement==null ){
+            if(savedSortElement!=null) {ajaxRefineSearchServiceUrl += "&se="+savedSortElement;}
+            if(savedSortDirection!=null) {ajaxRefineSearchServiceUrl += "&sd="+savedSortDirection;}
+        }
+        ajaxRefineSearchServiceUrl += "&qt="+qt+"&refinesearch=true";
+        if(fc!=null && fc.length>0) ajaxRefineSearchServiceUrl += "&fc="+fc;
+        if(savedSpoofingIp!=null && savedSpoofingIp.length>0) ajaxRefineSearchServiceUrl += "&ip="+savedSpoofingIp;
+        
+        ajaxRefineSearchServiceUrl += '&refreshFormat='+refreshFormat;
+        OWC.UTIL.ajax({
+            'url' : ajaxRefineSearchServiceUrl,
+            'timeout' : 60 * 1000,  // 60 seconds
+            'error' : function (request, status, err) {
+                jQuery("#inprefinesearch").dialog("close");
+                jQuery("#refinesearcherror").css({'display' : 'block'});
+            },
+            'success' : function(data) {
+                var hasResults=false;
+                jQuery("#refinesearcherror").css({'display' : 'none'});
+            jQuery(data).find('jid').each(function() {
+                    var id = jQuery(this).text();
+                    if(id=='refinesearch') hasResults=true;
+                    var content = jQuery(this).siblings('content').text();
+                    jQuery('#done' + id).html(content);
+                    jQuery('#done' + id).css({'display' : 'block'});
+            });
+                if(!hasResults) jQuery("#refinesearcherror").css({'display' : 'block'});
+                if(refreshFormat){
+                    setFacetCheckBoxesByCookies(checkedBoxes);   
+                }
+                jQuery("#inprefinesearch").dialog("close");
+            }
+        });
+    }
+    
+	function showMoreFacets() {        
+		jQuery('.facet_li').each(function() {
+				jQuery(this).show();
+        });		
+		jQuery('.showmore_li').hide();
+		jQuery('.showmore_li_next').show();
+	}
+	
+	function showMoreFacetsNext() {        
+		jQuery('.facet_li_next').each(function() {			
+				jQuery(this).show();
+        });		
+		jQuery('.showmore_li_next').hide();
+	}
+
+
+
+ Updating results ... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Content
+
+
+
+
+
+
+Open Access
+
+                facetArrayObj["open_access_limiter"] = new facetInfo("open_access_limiter", "open access limiter", "0");
+            
+
+
+
+
+
+
+
+
+
+
+
+
+Format
+
+
+
+
+
+
+All Formats (3,226)
+
+                facetArrayObj["format_all"] = new facetInfo("all", "all", "0");
+            
+
+
+
+Book (2127)
+
+             facetArrayObj["format_1"] = new facetInfo("x0%3Abook-", "Book", "2127");
+        
+
+
+
+
+Print book (2028)
+
+                    facetArrayObj["format_1_1"] = new facetInfo("%28x0%3Abook+x4%3Aprintbook%29", "Print book", "2028");
+                
+
+
+
+eBook (253)
+
+                    facetArrayObj["format_1_2"] = new facetInfo("%28x0%3Abook+x4%3Adigital%29", "eBook", "253");
+                
+
+
+
+Manuscript (21)
+
+                    facetArrayObj["format_1_3"] = new facetInfo("%28x0%3Abook+x4%3Amss%29", "Manuscript", "21");
+                
+
+
+
+Braille Book (12)
+
+                    facetArrayObj["format_1_4"] = new facetInfo("%28x0%3Abook+x4%3Abraille%29", "Braille Book", "12");
+                
+
+
+
+Thesis/dissertation (10)
+
+                    facetArrayObj["format_1_5"] = new facetInfo("%28x0%3Abook+x4%3Athsis%29", "Thesis/dissertation", "10");
+                
+
+
+
+Microform (7)
+
+                    facetArrayObj["format_1_6"] = new facetInfo("%28x0%3Abook+x4%3Amic%29", "Microform", "7");
+                
+
+
+
+Large print (3)
+
+                    facetArrayObj["format_1_7"] = new facetInfo("%28x0%3Abook+x4%3Alargeprint%29", "Large print", "3");
+                
+
+
+
+
+
+Article (535)
+
+             facetArrayObj["format_2"] = new facetInfo("x0%3Aartchap-", "Article", "535");
+        
+
+
+
+
+Downloadable article (13)
+
+                    facetArrayObj["format_2_1"] = new facetInfo("%28x0%3Aartchap+x4%3Adigital%29", "Downloadable article", "13");
+                
+
+
+
+Chapter (10)
+
+                    facetArrayObj["format_2_2"] = new facetInfo("%28x0%3Aartchap+x4%3Achptr%29", "Chapter", "10");
+                
+
+
+
+
+
+Archival material (129)
+
+             facetArrayObj["format_3"] = new facetInfo("x0%3Aarchv-", "Archival material", "129");
+        
+
+
+
+
+Downloadable archival material (86)
+
+                    facetArrayObj["format_3_1"] = new facetInfo("%28x0%3Aarchv+x4%3Adigital%29", "Downloadable archival material", "86");
+                
+
+
+
+
+
+Audiobook (114)
+
+             facetArrayObj["format_4"] = new facetInfo("x0%3Aaudiobook-", "Audiobook", "114");
+        
+
+
+
+
+CD (48)
+
+                    facetArrayObj["format_4_1"] = new facetInfo("%28x0%3Aaudiobook+x4%3Acd%29", "CD", "48");
+                
+
+
+
+eAudiobook (19)
+
+                    facetArrayObj["format_4_2"] = new facetInfo("%28x0%3Aaudiobook+x4%3Adigital%29", "eAudiobook", "19");
+                
+
+
+
+Cassette (17)
+
+                    facetArrayObj["format_4_3"] = new facetInfo("%28x0%3Aaudiobook+x4%3Acassette%29", "Cassette", "17");
+                
+
+
+
+LP (12)
+
+                    facetArrayObj["format_4_4"] = new facetInfo("%28x0%3Aaudiobook+x4%3Alp%29", "LP", "12");
+                
+
+
+
+
+
+Video (114)
+
+             facetArrayObj["format_5"] = new facetInfo("x0%3Avideo-", "Video", "114");
+        
+
+
+
+
+DVD (81)
+
+                    facetArrayObj["format_5_1"] = new facetInfo("%28x0%3Avideo+x4%3Advd%29", "DVD", "81");
+                
+
+
+
+VHS (35)
+
+                    facetArrayObj["format_5_2"] = new facetInfo("%28x0%3Avideo+x4%3Avhs%29", "VHS", "35");
+                
+
+
+
+eVideo (7)
+
+                    facetArrayObj["format_5_3"] = new facetInfo("%28x0%3Avideo+x4%3Adigital%29", "eVideo", "7");
+                
+
+
+
+Film (4)
+
+                    facetArrayObj["format_5_4"] = new facetInfo("%28x0%3Avideo+x4%3Afilm%29", "Film", "4");
+                
+
+
+
+Bluray (1)
+
+                    facetArrayObj["format_5_5"] = new facetInfo("%28x0%3Avideo+x4%3Abluray%29", "Bluray", "1");
+                
+
+
+
+
+
+Sound recording (85)
+
+             facetArrayObj["format_6"] = new facetInfo("x0%3Asnd-", "Sound recording", "85");
+        
+
+
+
+Music (55)
+
+             facetArrayObj["format_7"] = new facetInfo("x0%3Amusic-", "Music", "55");
+        
+
+
+
+
+CD (19)
+
+                    facetArrayObj["format_7_1"] = new facetInfo("%28x0%3Amusic+x4%3Acd%29", "CD", "19");
+                
+
+
+
+eMusic (10)
+
+                    facetArrayObj["format_7_2"] = new facetInfo("%28x0%3Amusic+x4%3Adigital%29", "eMusic", "10");
+                
+
+
+
+Cassette (5)
+
+                    facetArrayObj["format_7_3"] = new facetInfo("%28x0%3Amusic+x4%3Acassette%29", "Cassette", "5");
+                
+
+
+
+LP (4)
+
+                    facetArrayObj["format_7_4"] = new facetInfo("%28x0%3Amusic+x4%3Alp%29", "LP", "4");
+                
+
+
+
+
+
+
+Computer file (28)
+
+             facetArrayObj["format_8"] = new facetInfo("x0%3Acompfile-", "Computer file", "28");
+        
+
+
+
+
+Journal, magazine (25)
+
+             facetArrayObj["format_9"] = new facetInfo("x0%3Ajrnl-", "Journal, magazine", "25");
+        
+
+
+
+
+eJournal/eMagazine (2)
+
+                    facetArrayObj["format_9_1"] = new facetInfo("%28x0%3Ajrnl+x4%3Adigital%29", "eJournal/eMagazine", "2");
+                
+
+
+
+
+
+
+Image (10)
+
+             facetArrayObj["format_10"] = new facetInfo("x0%3Aimage-", "Image", "10");
+        
+
+
+
+
+Musical score (9)
+
+             facetArrayObj["format_11"] = new facetInfo("x0%3Amsscr-", "Musical score", "9");
+        
+
+
+
+
+Manuscript Musical Score (1)
+
+                    facetArrayObj["format_11_1"] = new facetInfo("%28x0%3Amsscr+x4%3Amss%29", "Manuscript Musical Score", "1");
+                
+
+
+
+
+
+
+Visual material (5)
+
+             facetArrayObj["format_12"] = new facetInfo("x0%3Avis-", "Visual material", "5");
+        
+
+
+
+
+Downloadable visual material (3)
+
+                    facetArrayObj["format_12_1"] = new facetInfo("%28x0%3Avis+x4%3Adigital%29", "Downloadable visual material", "3");
+                
+
+
+
+
+
+
+Kit (3)
+
+             facetArrayObj["format_13"] = new facetInfo("x0%3Akit-", "Kit", "3");
+        
+
+
+
+
+Object (1)
+
+             facetArrayObj["format_14"] = new facetInfo("x0%3Aobject-", "Object", "1");
+        
+
+
+Show more ...
+
+
+Show more ...
+
+
+
+
+
+
+
+
+
+
+
+Refine Your Search
+
+
+
+Author
+
+
+Charles Bukowski (2309)
+	
+
+Bukowski Charles (48)
+	
+
+John Fante (30)
+	
+
+Charles ( Bukowski (24)
+	
+
+Charles J Bukowski (15)
+	
+
+Show more ...
+
+
+
+
+Year
+
+
+2009 (138)
+	
+
+2004 (220)
+	
+
+2003 (136)
+	
+
+2000 (136)
+	
+
+1995 (145)
+	
+
+Show more ...
+
+
+
+
+Language
+
+
+English (1656)
+	
+
+German (231)
+	
+
+Undetermined (215)
+	
+
+Spanish (178)
+	
+
+Italian (156)
+	
+
+Show more ...
+
+
+
+
+Content
+
+
+Fiction (713)
+	
+
+Non-Fiction (2513)
+	
+
+Biography (108)
+	
+
+
+
+Audience
+
+
+Juvenile (16)
+	
+
+Non-Juvenile (3210)
+	
+
+
+
+Topic
+
+
+Language, Linguis... (1437)
+	
+
+Performing Arts (33)
+	
+
+Art & Architecture (17)
+	
+
+History & Auxilia... (14)
+	
+
+Library Science, ... (14)
+	
+
+Show more ...
+
+
+
+
+
+
+
+
+
+    jQuery(document).ready(function(){
+        jQuery("#inprefinesearch").dialog({dialogClass:'notitle',autoOpen:false,width:650,height:60,resizable:false,draggable:false,modal:true,position:'center'});
+        jQuery(".notitle .ui-dialog-titlebar").css({display: 'none'});
+        
+        initJQueryHistory();
+    });
+    
+    function initFacetCheckBoxes(){
+    
+        setFacetCheckBoxes();
+        setCookie("selected_check_boxes", "");
+        setCookie("fm_facet_start", "");
+        setCookie("fm_facet_se", "");
+        setCookie("fm_facet_sd", "");
+        if(isNewSearch == false)
+            refineYourSearch(null, null, null, null, false, true);
+    
+    }
+
+    function initJQueryHistory() {
+        jQuery.history.init(pageload);
+        jQuery('.facetcheckbox').live('click', function() {
+            var facetValue = 'format';
+            if(this.value.indexOf("availonline")>-1) {
+                clickViewNowCheckBox(this);
+                facetValue = 'availonline';
+            }else if (this.value === "open_access_limiter"){
+                var baseUrl = "/search?q=au%3ABukowski%2C+Charles&fq=&dblist=638";
+                var baseUrlWithoutFacets = getBaseUrlWithoutFacets(baseUrl);
+                var fq = toggleOpenAccess(getFacetQueryFromUrl(baseUrl));
+                window.location = baseUrlWithoutFacets + fq;
+                return;
+            }else{
+                clickFormatCheckBox(this);
+            }
+            var terms = '';
+            jQuery('.facetcheckbox').each(function() {
+                if (this.checked == true) {
+                    if (terms.length > 0)
+                        terms = terms + ",";
+                    terms = terms + facetArrayObj[this.value].indexedTerms;
+                }
+            });
+            jQuery.history.load(terms+facetValue);
+            
+        });
+    }
+
+    function toggleOpenAccess(fq) {
+        var fqTokens = fq ? fq.split(/\+%3E\+|\+>\+/i) : [];
+        if (fq.includes('open_access_limiter')){
+            fqTokens = fqTokens.filter(checkForOpenAccess);
+        } else {
+            fqTokens.push('open_access_limiter');
+        }
+        return "&fq=" + fqTokens.join("+>+");
+    }
+
+    function checkForOpenAccess(limiter) {
+        return !limiter.includes('open_access_limiter');
+    }
+
+    function pageload(hash) {
+        if(hash.indexOf("availonline")>-1){
+            var terms = hash.replace(/availonline|format/g, '');
+            resetCheckBoxes(terms);
+            refineYourSearch(null,null,null,'availonline',false,true);
+        }
+        else if(isNewSearch==true && hash.indexOf("kb%3A")>-1 && hash.indexOf("format")>-1){
+            var terms = hash.replace(/availonline|format/g, '');
+            resetCheckBoxes(terms);
+            refineYourSearch(null,null,null,'availonline',false,true);
+        }
+        else if(hash.indexOf("format")>-1){
+            var terms = hash.replace(/availonline|format/g, '');
+            resetCheckBoxes(terms);
+            refineYourSearch(null,null,null,'format');
+        }
+        else{
+            initFacetCheckBoxes();
+        }
+    }
+
+    function setFacetCheckBoxesByCookies(boxes) {
+        setFacetCheckBoxes();
+        var checkedBoxes = boxes.split(">");
+        jQuery('.facetcheckbox').each(function() {
+            this.checked = false;
+            var indexedItems = facetArrayObj[this.value].indexedTerms;
+            for (var i = 0; i < checkedBoxes.size(); i++) {
+                if (jQuery.trim(checkedBoxes[i]) == jQuery.trim(indexedItems)) {
+                    this.checked = true;
+                    break;
+                }
+            }
+        });
+    }
+
+    function setFacetCheckBoxes() {
+        setFormatCheckBoxes();
+        setViewNowCheckBoxes();
+    }
+
+    function setSubFacetCheckBoxes(elem) {
+        var currElementVal=elem.value; var mainFacetClick=false;
+        jQuery('.facetcheckbox').each(function() {
+            var isSubFacet = this.value.lastIndexOf('_') != this.value.indexOf('_');
+            if (this.value == currElementVal && !isSubFacet) {mainFacetClick = true;}
+            else if (mainFacetClick == true && !isSubFacet) {mainFacetClick = false;}
+            else if (mainFacetClick == true) {
+                if (elem.checked == true) {this.checked = true;}
+                else {this.checked = false;}
+            }
+        });
+    }
+    
+    function finalizeFacetCheckBoxes(){
+        var anyFacetSelected = false;
+        jQuery('.facetcheckbox').each(function(){
+            if(this.checked == true && this.value!='format_all' && this.value.indexOf('format_')>-1){anyFacetSelected = true;}
+        });
+        if(anyFacetSelected){jQuery('#format_all').attr({checked:false, disabled:false});}
+        else {jQuery('#format_all').attr({checked:true, disabled:true});}
+    }
+
+    function hasFormatLimiter(baseUrl){
+        var fq = getFacetQueryFromUrl(baseUrl);
+        var tokens = fq.split(">");
+        for (var i = 0; i < tokens.size(); i++) {
+            if ((tokens[i].indexOf("x0%3A") > -1 || tokens[i].indexOf("x4%3A") >-1 ||
+                    tokens[i].indexOf("dt%3A") >-1 || tokens[i].indexOf("mt%3A") >-1 || tokens[i].indexOf("fm%3A") >-1 ||
+                    tokens[i].indexOf("eu%3A") > -1) &&
+                     (tokens[i].indexOf("juv")==-1 && tokens[i].indexOf("fic")==-1 && tokens[i].indexOf("bio")==-1 &&
+                     tokens[i].indexOf("deg")==-1)){
+                return true;
+            }
+        }
+        return false;
+    }
+    
+    function fqWithoutFormatLimiter(fq){
+        var tokens = fq.split("%3E");
+        var newFq="";
+        for (var i = 0; i < tokens.size(); i++) {
+            if (tokens[i].indexOf("x0%3A") < 0 && tokens[i].indexOf("x4%3A") < 0 &&
+                    tokens[i].indexOf("dt%3A") < 0 && tokens[i].indexOf("mt%3A") < 0 &&
+                    tokens[i].indexOf("fm%3A") < 0 && tokens[i].indexOf("eu%3A") < 0 ) {
+                if (newFq.length > 0) newFq += "%3E";
+                newFq += tokens[i];
+            }
+        }
+        return newFq;
+    }
+
+    function removeFacets(fq){
+
+        var tokens = fq.split("%3E");
+        var newFq="";
+        for (var i = 0; i < tokens.size(); i++) {
+            if (tokens[i].indexOf("kb%3A") < 0) {
+                if (newFq.length > 0) newFq += "%3E";
+                newFq += tokens[i];
+            }
+        }
+        return jQuery.trim(newFq);
+    }
+
+
+    function fqWithoutFtLimiter(fq){
+        var tokens = fq.split("%3E");
+        var newFq="";
+        for (var i = 0; i < tokens.size(); i++) {
+            if (tokens[i].indexOf("kb%3A") < 0) {
+                if (newFq.length > 0) newFq += "%3E";
+                newFq += tokens[i];
+            }
+        }
+        return newFq;
+    }
+
+    function hasKbFtLimiter(baseUrl){
+        var fq = getFacetQueryFromUrl(baseUrl);
+        return hasLimiterInFacetQuery(fq, 'kb%3A');
+    }
+
+    function hasOpenAccessLimiter(baseUrl){
+        var fq = getFacetQueryFromUrl(baseUrl);
+        return hasLimiterInFacetQuery(fq, 'open_access_limiter');
+    }
+
+    function getBaseUrlWithoutFacets(baseUrl){
+        var baseUrlWithoutFacets = baseUrl;
+        var fqStart = baseUrl.indexOf("fq="); var fqEnd = baseUrl.length-1;
+        if(fqStart>-1){
+            fqEnd = baseUrl.indexOf("&", fqStart);
+            if(fqEnd <0){baseUrlWithoutFacets=baseUrl.substring(0,fqStart);}
+            else{baseUrlWithoutFacets=baseUrl.substring(0,fqStart)+baseUrl.substring(fqEnd);}
+        }
+        return baseUrlWithoutFacets;
+    }
+
+    function getFacetQueryFromUrl(baseUrl){
+        var fqStart = baseUrl.indexOf("fq=");
+        var fqEnd = baseUrl.length-1;
+        var fq="";
+        if(fqStart>-1){
+            fqEnd = baseUrl.indexOf("&", fqStart);
+            if(fqEnd <0){fq=baseUrl.substring(fqStart+3);}
+            else{fq=baseUrl.substring(fqStart+3, fqEnd);}
+        }
+        return fq;
+    }
+
+    function hasLimiterInFacetQuery(fq, limiter){
+        var tokens = fq.split(">");
+        for (var i = 0; i < tokens.size(); i++) {
+            if (tokens[i].indexOf(limiter) > -1){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    function setFormatCheckBoxes(){
+        var facetCounts = new Array(); var numberOfFacet = 0; var hasSubFormat; var hasSubViewnow;
+        var i=0;
+        jQuery('.facetcheckbox').each(function() {
+            if(this.value.indexOf('format_')<0) return; //if not format facet, go to next iteration
+            if (this.value != 'format_all') {this.checked = false; numberOfFacet++;
+                facetCounts[i]=facetArrayObj[this.value].count; i++;
+                if(this.value.lastIndexOf('_') != this.value.indexOf('_')){hasSubFormat=true;}
+            }
+            else {this.checked = true; this.disabled=true;}
+        });
+
+        if(hasFormatLimiter('/search?q=au%3ABukowski%2C+Charles&fq=&dblist=638')){
+            if(numberOfFacet == 1){
+                jQuery('.facetcheckbox').each(function() {
+                    if(this.value.indexOf('format_')<0) return; //if not format facet, go to next iteration
+                    if(this.value == 'format_all'){this.checked=false; this.disabled=false;}
+                    else {this.checked=true; this.disabled=true;}
+                });
+            }else if(numberOfFacet == 2 && facetCounts[0]==facetCounts[1] && hasSubFormat){
+                jQuery('.facetcheckbox').each(function() {
+                    if(this.value.indexOf('format_')<0) return; //if not format facet, go to next iteration
+                    if(this.value == 'format_all'){this.checked=false; this.disabled=false;}
+                    else {this.checked=true; this.disabled=true};
+                });
+            }else{
+                jQuery('.facetcheckbox').each(function() {
+                    if(this.value.indexOf('format_')<0) return; //if not format facet, go to next iteration
+                    if(this.value == 'format_all'){this.checked=false; this.disabled=false;}
+                    else{this.checked=true; this.disabled=false};
+                });
+            }
+        }else{
+            jQuery('#all_fm_count').css({'display' : 'inline'});
+            if(numberOfFacet == 1){
+                jQuery('.facetcheckbox').each(function() {
+                    if(this.value.indexOf('format_')<0) return; //if not format facet, go to next iteration
+                    {this.checked=true; this.disabled=true;}
+                });
+            }else if(numberOfFacet == 2){
+                if(facetCounts[0]==facetCounts[1] && hasSubFormat){
+                jQuery('.facetcheckbox').each(function() {
+                    if(this.value.indexOf('format_')<0) return; //if not format facet, go to next iteration
+                    {this.checked=true; this.disabled=true;}
+                });
+                }
+            }
+         }
+    }
+
+    function setViewNowCheckBoxes() {
+        jQuery('.facetcheckbox').each(function () {
+            if (this.value === 'availonline_viewnow_ft') {
+                this.checked = hasKbFtLimiter('/search?q=au%3ABukowski%2C+Charles&fq=&dblist=638');
+            } else if (this.value === 'open_access_limiter') {
+                this.checked = hasOpenAccessLimiter('/search?q=au%3ABukowski%2C+Charles&fq=&dblist=638');
+            }
+        });
+    }
+
+    function clickCheckBox(elem){
+        if (elem != null) {
+            if(elem.value !='format_all'){setSubFacetCheckBoxes(elem);}
+            if(elem.value == 'format_all'){
+                jQuery('.facetcheckbox').each(function(){
+                    if(this.value.indexOf('format_')<0) return;
+                    if(this.value!='format_all'){this.checked = false;}
+                    else this.checked=true;
+                });
+            }
+        }
+    }
+
+    function clickFormatCheckBox(elem){
+        clickCheckBox(elem);
+        var anyFacetSelected = false;
+        jQuery('.facetcheckbox').each(function(){
+            if(this.value.indexOf('format_')<0) return; //if not format facet, go to next iteration
+            if(this.checked == true && this.value!='format_all'){anyFacetSelected = true;}
+        });
+        if(anyFacetSelected){jQuery('#format_all').attr({checked:false, disabled:false});}
+        else {jQuery('#format_all').attr({checked:true, disabled:true});}
+
+    }
+
+    function clickViewNowCheckBox(elem){
+        clickCheckBox(elem);
+    }
+
+    function getCheckedBoxes(){
+        var checkedBoxes = "";
+        jQuery('.facetcheckbox').each(function() {
+            if (this.checked == true){
+                var terms = facetArrayObj[this.value].indexedTerms;
+                if (checkedBoxes.length > 0) {checkedBoxes += ">";}
+                checkedBoxes += ' ' + terms;
+                //checkedBoxes += '('+terms+')';
+            }
+        });
+        return checkedBoxes;
+    }
+
+    function createFacetQueryForSection(facetSection){
+        var isMainSelected = false;
+        var facetQuery = ""; var facetOrQuery = ""; var facetNotQuery= "";
+        jQuery('.facetcheckbox').each(function() {
+            if(this.value.indexOf(facetSection)<0 || this.value=='format_all') return; //go to next iteration
+
+            if (this.checked == true){
+                if(this.value.lastIndexOf('_') == this.value.indexOf('_')) {isMainSelected = true;}
+                var terms = facetArrayObj[this.value].indexedTerms;
+                if (facetOrQuery.length > 0 && terms.length > 0) {facetOrQuery += " OR " + terms;}
+                else if(terms.length > 0) { facetOrQuery += terms;}
+            }
+            else if (this.checked == false){
+                if(this.value.lastIndexOf('_') == this.value.indexOf('_')) {isMainSelected = false;} //next main facet
+                if(isMainSelected && (this.value.lastIndexOf('_') != this.value.indexOf('_'))){
+                    var terms = facetArrayObj[this.value].indexedTerms;
+                    facetNotQuery += ' -('+terms+')';
+                }
+            }
+            });
+        //if(facetOrQuery.length>0) facetQuery='('+facetOrQuery+')';
+        if(facetOrQuery.length>0) facetQuery=facetOrQuery;
+        if(facetNotQuery.length>0) facetQuery=facetQuery+facetNotQuery;
+        return facetQuery;
+    }
+
+    function resetCheckBoxes(formats) {
+       jQuery('.facetcheckbox').each(function() {
+           jQuery(this).prop("checked", false);
+        });
+        var tokens = formats.split(",");
+        for (var i = 0; i < tokens.length; i++) {
+            jQuery('.facetcheckbox').each(function() {
+                if (facetArrayObj[this.value].indexedTerms === tokens[i].replace(/:/g, '%3A')) {
+                    jQuery(this).prop("checked", true);
+                }
+            });
+        }
+    }
+
+    
+
+
+
+
+An error has occurred. Please try your search again later.
+
+
+
+
+
+
+Results 1-10 of about 3,226 (.08 seconds)
+
+First   Prev   1   2   3   Next
+
+
+
+
+
+
+
+
+Select All  
+    Clear All
+Save to: [New List][Existing Lists]Things I RecommendThings I OwnThings to Check Out
+  
+
+Sort by: 
+
+
+  Relevance
+Author (A-Z)
+Title (A-Z)
+Date (Oldest First)
+Date (Newest First)
+
+
+  
+
+
+
+
+
+
+
+
+
+Your list has reached the maximum number of items. Please create a new list with a new name; move some items to a new or existing list; or delete some items.
+
+
+
+
+
+
+1. The Charles Bukowski tapes
+1.
+
+ 
+
+
+994706772
+1
+
+The Charles Bukowski tapes
+
+by Charles Bukowski; Barbet Schroeder; Jean-Louis Valéro
+ DVD video View all formats and languages »
+
+Language: English  Publisher: [France] : Carlotta Films, 2017
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+2. Charles Bukowski - Bukowski At Bellevue
+2.
+
+ 
+
+
+921959333
+2
+
+Charles Bukowski - Bukowski At Bellevue
+
+by Charles Bukowski; Kanopy (Firm);
+ eVideo : Clipart/images/graphics View all formats and languages »
+
+Publisher: [San Francisco, California, USA] : Kanopy Streaming, 2015.
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+3. Factotum
+3.
+
+ 
+
+
+883303653
+3
+
+Factotum
+
+by Charles Bukowski
+ eBook : Document View all formats and languages »
+
+Language: English  Publisher: [Place of publication not identified] : HarperCollins e-Books, 2014.
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+4. Charles Bukowski : laughing with the gods : interview
+4.
+
+ 
+
+
+606327375
+4
+
+Charles Bukowski : laughing with the gods : interview
+
+by Charles Bukowski; Fernanda Pivano
+ eBook : Document : Biography View all formats and languages »
+
+Language: English  Publisher: Northville, Mich. : Sun Dog Press, ©2000.
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+5. A Bukowski sampler
+5.
+
+ 
+
+
+10158704
+5
+
+A Bukowski sampler
+
+by Charles Bukowski; Douglas Blazek
+ Print book : Mixed form View all formats and languages »
+
+Language: English  Publisher: Houston, TX : Quixote Press, 1983, ©1969.
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+6. Ham on rye
+6.
+
+ 
+
+
+1019880316
+6
+
+Ham on rye
+
+by Charles Bukowski; Sean Starwars; Prototype Press,; Papeterie St-Armand,
+ Print book : Fiction View all formats and languages »
+
+Language: English  Publisher: Oakland, CA : The Prototype Press, 2017. ©1982
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+7. The movie, "Barfly" : an original screenplay by Charles Bukowski for a film by Barbet Schroeder.
+7.
+
+ 
+
+
+1021126025
+7
+
+The movie, "Barfly" : an original screenplay by Charles Bukowski for a film by Barbet Schroeder.
+
+by Charles Bukowski; Barbet Schroeder
+ eBook : Document View all formats and languages »
+
+Language: English  Publisher: New York : HarperCollins e-books, 2009.
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+8. Penguin modern poets 13 : Charles Bukowski, Philip Lamantia, Harold Norse.
+8.
+
+ 
+
+
+154198822
+8
+
+Penguin modern poets 13 : Charles Bukowski, Philip Lamantia, Harold Norse.
+
+by Charles Bukowski; Philip Lamantia; Harold Norse;
+ Print book View all formats and languages »
+
+Language: English  Publisher: Harmondsworth, England : Penguin, 1970.
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+9. Women = Zhenshchiny
+9.
+
+ 
+
+
+1049209775
+9
+
+Women = Zhenshchiny
+
+by Charles Bukowski
+ Print book : Fiction View all formats and languages »
+
+Language: English  Publisher: Moskva : Ėksmo, 2018.
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+10. Essential Bukowski : poetry
+10.
+
+ 
+
+
+1044626299
+10
+
+Essential Bukowski : poetry
+
+by Charles Bukowski; Abel Debritto
+ Print book : Poetry View all formats and languages »
+
+Language: English  Publisher: New York : Ecco, an imprint of HarperCollins Publishers, 2018. ©2016
+
+  View all editions »
+
+Close
+
+
+
+
+
+
+
+
+Checking...
+View Now
+Select a resource for viewing this item electronically:
+View this item
+"Getting this item's electronic links
+Show more links
+No links found at Local OPAC
+
+
+
+
+Results 1-10 of about 3,226 (.08 seconds)
+
+First   Prev   1   2   3   Next
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Languages:
+Česky  |  Deutsch  |  English  |  Español  |  Français  |  Italiano  |  Nederlands  |  Português  |  ภาษาไทย  |  한국어  |  日本語  |  中文(繁體)  |  中文(简体)
+
+
+
+
+
+
+You:
+
+Sign In
+|
+Register
+|
+My WorldCat
+|
+My Lists
+|
+My Watchlist
+|
+My Reviews
+|
+My Tags
+|
+My Saved Searches
+
+
+
+WorldCat:
+Home
+|
+About
+|
+
+Help
+|
+Search
+
+
+
+
+
+
+
+Legal:
+Copyright © 2001-2021 OCLC. All rights reserved.
+|
+Privacy Policy
+|
+Cookie Notice
+|
+Cookie list and settings
+|
+Terms and Conditions
+
+
+
+
+
+
+WorldCat is the world's largest library catalog, helping you find library materials online. Learn more ››
+
+Follow WorldCat:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please sign in to WorldCat Don't have an account? You can easily create a free account.
+
+User Name:
+
+
+Password:
+
+
+
+
+Remember me on this computer
+
+
+
+
+
+
+Cancel
+Forgot your password?
+
+
+
+
+
+
+
+
+
+
+
+
+    var facet = getCookie("LAC-User-FacetedQuery");
+    if(facet){
+    jQuery('.ft_limiter_checkbox').each(function(){
+        this.checked = facet.indexOf("kb:")>-1;
+    });
+    }
+
+
+
+qm_create(0,false)
+
+

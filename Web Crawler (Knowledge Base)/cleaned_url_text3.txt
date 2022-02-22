@@ -1,0 +1,16 @@
+functionwdsliw[l]=w[l]||[]w[l]push'gtmstart' new dategettimeevent'gtmjs'var f=dgetelementsbytagnames[0] j=dcreateelementsdl=l='datalayer'
+'l='+l''jasync=truejsrc= 'httpswwwgoogletagmanagercomgtmjsid='+i+dlfparentnodeinsertbeforejf windowdocument'script''datalayer''gtm5dptldw' charles bukowski fbi files bukowskinet forum manuscripts poems stories letters postcards timeline database search database book magazine audio lists checklist poems stories interviews art photos miscellany vote favorite books fbi files map homes jobs aboutcontact twitter feed search federal bureau investigation subject charles bukowski file 14035907 1968 fbi us postal service charles bukowski's employer took offense writing mainly notes dirty old man column appeared los angeles paper open city performed investigation background
+bulk files reports interviews neighbors employers seem remember bukowski
+files contain surprises however least bukowski claimed married jane cooney baker "jane" many heartfelt works
+biographers always referred barbara frye bukowski's first wife 1952 three years marrying frye bukowski told fbi married jane
+jane's name redacted copies fbi files released public included close scan see jane's name misspelled jane coonye
+view file order skip interesting pages via links
+added bonus included detailed instructions requesting copy files fbi
+view pages order go directly pages addresses jobs 1957 arrest records "notes dirty old man" column arrested dodging draft married jane 1952 married jane closeup writing "highly romanticized" never seen women apartment college 1939 1941 drunk night jail second "notes dirty old man" column third "notes dirty old man" column unfit military service get copy bukowski fbi files notes every page files included even mostly blank pages copies envelopes
+despite fbi file says bukowski jane married official record marriage jane found
+add another layer mystery may want read poems bukowski wrote married twice long married linda 1959 poem gallows magazine makes mention second wife referring barbara frye
+1960 poem manuscript excerpt refers "twice divorced"
+1966 poem manuscript excerpt says "2 wives"
+bukowskinet ©19952021 hannah phillips millionaire brand bathtub gin
+rights reserved
+function var po documentcreateelement'script' potype 'textjavascript' poasync true posrc 'httpsapisgooglecomjsplatformjs' var documentgetelementsbytagname'script'[0] sparentnodeinsertbeforepo

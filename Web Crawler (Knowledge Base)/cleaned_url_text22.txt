@@ -1,0 +1,63 @@
+bukowski poet know window_wpemojisettings "baseurl""https\\sworg\images\core\emoji\1301\72x72\""ext""png""svgurl""https\\sworg\images\core\emoji\1301\svg\""svgext""svg""source""concatemoji""https\\sitespsuedu\caradorercl1314\wpincludes\js\wpemojireleaseminjsver=573" functioneatvar nroi=acreateelement"canvas"p=igetcontextigetcontext"2d"function setvar a=stringfromcharcodepclearrect00iwidthiheightpfilltextaapplythise00e=itodataurlreturn pclearrect00iwidthiheightpfilltextaapplythist00e===itodataurlfunction cevar t=acreateelement"script"tsrc=etdefer=ttype="textjavascript"agetelementsbytagname"head"[0]appendchildtforo=array"flag""emoji"tsupports=everything0everythingexceptflag0r=0r<olengthr++tsupports[o[r]]=functioneifp||pfilltextreturn1switchptextbaseline="top"pfont="600 32px arial"ecase"flag"return s[127987650398205989565039][127987650398203989565039]1s[55356568265535656819][553565682682035535656819]s[5535657332561285642356128564185612856421561285643056128564235612856447][5535657332820356128564238203561285641882035612856421820356128564308203561285642382035612856447]case"emoji"returns[553575642482055535657212][553575642482035535657212]return1o[r]tsupportseverything=tsupportseverythingtsupports[o[r]]"flag"==o[r]tsupportseverythingexceptflag=tsupportseverythingexceptflagtsupports[o[r]]tsupportseverythingexceptflag=tsupportseverythingexceptflagtsupportsflagtdomready=1treadycallback=functiontdomready=0tsupportseverything||n=functiontreadycallbackaaddeventlistener
+aaddeventlistener"domcontentloaded"n1eaddeventlistener"load"n1eattachevent"onload"naattachevent"onreadystatechange"function"complete"===areadystatetreadycallbackn=tsource||concatemojicnconcatemojinwpemojintwemojicntwemojicnwpemojiwindowdocumentwindow_wpemojisettings imgwpsmiley imgemoji display inline important border none important boxshadow none important height 1em important width 1em important margin 07em important verticalalign 01em important background none important padding important var jquerymigratehelperhassentdowngrade false windowonerror function msg url line col error break early processing downgrade reqeust already sent
+jquerymigratehelperhassentdowngrade return true var xhr new xmlhttprequest var nonce '17f349026d' var jqueryfunctions 'andself' 'browser' 'live' 'boxmodel' 'supportboxmodel' 'size' 'swap' 'clean' 'sub' var match_pattern \\+
+function var erroredfunction msgmatch match_pattern matching functions try downgrade
+typeof erroredfunction == 'object' || typeof erroredfunction[1] === "undefined" || === jqueryfunctionsindexof erroredfunction[1] return true set we've attempted downgrade request
+jquerymigratehelperhassentdowngrade true xhropen 'post' 'httpssitespsueducaradorercl1314wpadminadminajaxphp' xhrsetrequestheader 'contenttype' 'applicationxwwwformurlencoded' xhronload function var response reload false 200 === xhrstatus try response jsonparse xhrresponse reload responsedatareload catch reload false automatically reload page deprecation caused automatic downgrade ensure visitors get best possible experience
+reload locationreload xhrsend encodeuri 'action=jquerymigratedowngradeversion_wpnonce=' nonce suppress error alerts older browsers return true windowbeehivedatalayer windowbeehivedatalayer || [] function gaplusu beehivedatalayerpusharguments gaplusu'js' new date gaplusu'config' 'ua286190431' 'anonymize_ip' false 'allow_google_signals' false recentcomments adisplayinline importantpadding0 importantmargin0 important
+[cdata[ imglatex verticalalign middle border none ]]> bodycustombackground backgroundimage url"httpssitespsueducaradorercl1314wpcontentuploadssites5809201309photo41jpg" backgroundposition center top backgroundsize auto backgroundrepeat repeat backgroundattachment scroll #wpadminbar displaynone html margintop 32px important html body margintop 32px important @media screen maxwidth 782px html margintop 46px important html body margintop 46px important #wpadminbarabmlogindisplayblockimportantbody wpvideoshortcode videobody videowpvideoshortcodemargin0padding0background0 0bordernoneboxshadownoneminwidth0heightautominheight0screenreadertextnotbuttoncliprect1px1px1px1pxpositionabsoluteimportantheight1pxwidth1pxoverflowhidden sites penn statelog insearch poet know menu skip content homebienvenue
+bukowski replies san francisco beautiful pulsing city full culture diversity
+visited summers ago one favorite areas north beach
+although outdoor murals sculptures splattered buildings sidewalks definitely played part main reason loved north beach much bookstore called city lights
+city lights oasis beatnik generation
+poets authors would gather throughout 1950’s 60’s discuss controversial prose banned literature
+present day city lights remains safe alternative presents labyrinth books venture
+spent several hours wandering stacks trying various genres
+eventually came upon sign leading towards poetry section
+discovered one alltime favorite poetsauthors charles bukowski
+picked collection poems called “the last night earth poems” fell love
+throughout charles bukowski’s fifty years writing composed six novels several books short stories dozens collections poetry
+overwhelming majority writing overflows disillusionment anger copious amounts alcohol
+though bukowski one cynical authors think work continues charm
+think due unapologetic realism bukowski injects writing
+weariness towards society characteristic beatnik generation though bukowski beatnik
+**for information bukowski browse work click
+poem “this” illustrates bukowksi’s style well
+selfcongratulatory nonsense famous gather applaud seeming greatness wonder real ones giant cave hides deathly talentless bow accolades fools fooled wonder real ones real ones
+selfcongratulatory nonsense lasted decades exceptions centuries
+dreary absolutely pitiless churns gut powder shackles hope makes little things like pulling shade putting shoes walking street difficult near damnable famous gather applaud seeming greatness fools fooled humanity sick motherfucker
+bukowski separates “the little things” physically moving next line one “pulling shade putting shoes walking street” effective interrupts flow words making harder progress
+syntactical challenge matches bukowski’s implication simple mundane tasks become difficult one deal “selfcongratulatory nonsense” time
+also like bukowski starts second third last stanzas “as” repetition “as” allows reader connect two stanzas compare
+“the famous” become “the fools” entry posted passion tagged babcock passion rcl1314 march 26 2014 cara dore
+post navigation previous post← dancers among us next post keeping track thoughts “this bukowski” ank5283 april 2014 1100 don’t experience particular poet poetry general matter definitely good job painting good picture man attitude toward work
+feel like type thing fits perfectly sanfran beatnik scene picture little bookstore types eclectic classic poetry books
+arm5738 april 2014 1036 bookstores like favorite
+feel like barnes nobles world really taken
+new york friend weeks ago walking back apartment found cutest bookstore
+family owned run charming place
+spent hour sitting huge comfy chairs reading poetry actually
+exactly poetry guru friend wanted buy everything
+seems like would loved place
+kaylie maines april 2014 1027 high school english class actually small segment bukowski
+agree really appreciate unapologetic
+throughout reading work always felt calling things way saw
+that’s fairly unique poets beatnik era
+poetry time seems fraught distress directed “man” feel poets personal stake work
+bukowski states piece seems move
+cxz5056 april 2014 1002 found great went place filled thousands texts poetry found something personally connected
+often find moments new city first time often rewarding
+bukowski think yes man cynic however believe words says poem maybe cynical satirical
+mjh5696 march 27 2014 1003 way dissect poem really well done
+wouldn’t thought use “as” connect two stanzas show fools famous one
+enjoy sort writing unapologetic rough truth emerges bukowski’s poems
+also enjoy almost entirety poem nuanced slightly subtle last stanza translates dark humor
+dag5441 march 27 2014 959 author sound cynical
+think great job going overall picture bright beautiful san francisco particular niche poetry citizens san fran present
+begs question whether san francisco seems first appearances genre bukowski portrays
+food thought…
+leave reply cancel replyyou must logged post comment
+search recent posts what’s deal sat
+bo burnham
+paul dead hair american tribal loverock musical gifted education recent comments40 iconic movie images recreated lego sharing interesting stuff updates news free tips breakfast cluba youthful reflection maigan tozer breakfast clubank5283 bukowskiank5283 keeping trackarm5738 bukowskiarchives april 2014 march 2014 february 2014 november 2013 october 2013 september 2013 categories civic issues passion rcl meta log entries rss comments rss sites penn state wordpress proudly powered wordpress
+[cdata[ var lean_captcha_object "ajax_url""https\\sitespsuedu\caradorercl1314\wpcontent\muplugins\leancaptcha\lc_epphp""key""lc_yg4ipxqhntxcx+ku8j+\xw==" ]]>

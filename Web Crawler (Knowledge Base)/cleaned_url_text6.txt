@@ -1,0 +1,139 @@
+charles bukowski “it’s humanity bothers me” cultural daily "@context""https\\schemaorg""@graph"["@type""website""@id""https\\wwwculturaldailycom\#website""url""https\\wwwculturaldailycom\""name""cultural daily""description""independent voices new perspectives""publisher""@id""https\\wwwculturaldailycom\#organization""@type""organization""@id""https\\wwwculturaldailycom\#organization""name""cultural daily""url""https\\wwwculturaldailycom\""logo""@type""imageobject""@id""https\\wwwculturaldailycom\#organizationlogo""url""https\\staticculturaldailycom\wpcontent\uploads\2021\06\cd_512x512png""width""512""height""512""image""@id""https\\wwwculturaldailycom\#organizationlogo""sameas"["https\\wwwfacebookcom\culturaldaily\""https\\twittercom\culturaldaily7""https\\wwwinstagramcom\culturaldaily\""https\\wwwpinterestcom\culturaldaily\""https\\wwwlinkedincom\in\culturaldaily"]"@type""breadcrumblist""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#breadcrumblist""itemlistelement"["@type""listitem""@id""https\\wwwculturaldailycom\#listitem""position""1""item""@type""webpage""@id""https\\wwwculturaldailycom\""name""home""description""recent poetry discourse \u201cmy letter world\u201d conversation angele ellis 44 bookmark_border film music dance coming grips live 34 bookmark_border social action unconventional women america\u2019s history 22 bookmark_border photography leisure equinox light 33 bookmark_border featured film featured horror black lives matter karen surveillance state 19 bookmark_border [\u2026]""url""https\\wwwculturaldailycom\""nextitem""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#listitem""@type""listitem""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#listitem""position""2""item""@type""webpage""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\""name""charles bukowski \"it's humanity bothers me\"""description""in interview transcribed 1981 legendary poet author charles bukowski discusses drinking writing poetry women life work
+""url""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\""previousitem""https\\wwwculturaldailycom\#listitem"]"@type""person""@id""https\\wwwculturaldailycom\author\elisa_leonelli\#author""url""https\\wwwculturaldailycom\author\elisa_leonelli\""name""elisa leonelli""sameas"["https\\wwwfacebookcom\culturaldaily\""https\\twittercom\culturaldaily7""https\\wwwinstagramcom\culturaldaily\""https\\wwwpinterestcom\culturaldaily\""https\\wwwlinkedincom\in\culturaldaily"]"@type""webpage""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#webpage""url""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\""name""charles bukowski \u201cit\u2019s humanity bothers me\u201d cultural daily""description""in interview transcribed 1981 legendary poet author charles bukowski discusses drinking writing poetry women life work
+""inlanguage""enus""ispartof""@id""https\\wwwculturaldailycom\#website""breadcrumb""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#breadcrumblist""author""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#author""creator""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#author""image""@type""imageobject""@id""https\\wwwculturaldailycom\#mainimage""url""https\\staticculturaldailycom\wpcontent\uploads\2015\08\charles_bukowski_photo_credit_elisa_leonelli_culturalweeklypng""width""903""height""616""caption""charles bukowski photographed san pedro 1981 photo copyright 1981 elisa leonelli""primaryimageofpage""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#mainimage""datepublished""20150804t2333030700""datemodified""20150804t2333030700""@type""article""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#article""name""charles bukowski \u201cit\u2019s humanity bothers me\u201d cultural daily""description""in interview transcribed 1981 legendary poet author charles bukowski discusses drinking writing poetry women life work
+""headline""charles bukowski \"it's humanity bothers me\"""author""@id""https\\wwwculturaldailycom\author\elisa_leonelli\#author""publisher""@id""https\\wwwculturaldailycom\#organization""datepublished""20150804t2333030700""datemodified""20150804t2333030700""commentcount""1""articlesection""fiction poetry poetry literature men writing charles bukowski women interviews drinking elisa leonelli""mainentityofpage""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#webpage""ispartof""@id""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\#webpage""image""@type""imageobject""@id""https\\wwwculturaldailycom\#articleimage""url""https\\staticculturaldailycom\wpcontent\uploads\2015\08\charles_bukowski_photo_credit_elisa_leonelli_culturalweeklypng""width""903""height""616""caption""charles bukowski photographed san pedro 1981 photo copyright 1981 elisa leonelli"] @fontfacefontfamily'material icons'fontdisplayblockfontstylenormalfontweight400fontdisplayswapsrcurlhttpsfontsgstaticcomsmaterialiconsv99fluhrq6tzzclqejvdgiuiadsnawoff format'woff'@fontfacefontfamily'montserrat'fontdisplayblockfontstylenormalfontweight500fontdisplayswapsrcurlhttpsfontsgstaticcomsmontserratv18jturjig1_i6t8kchkm45_zpc7g0woff format'woff'@fontfacefontfamily'montserrat'fontdisplayblockfontstylenormalfontweight600fontdisplayswapsrcurlhttpsfontsgstaticcomsmontserratv18jturjig1_i6t8kchkm45_bzf7g0woff format'woff'@fontfacefontfamily'roboto'fontdisplayblockfontstylenormalfontweight400fontdisplayswapsrcurlhttpsfontsgstaticcomsrobotov27kfomcnqeu92fr1me5gwoff format'woff'@fontfacefontfamily'roboto'fontdisplayblockfontstylenormalfontweight500fontdisplayswapsrcurlhttpsfontsgstaticcomsrobotov27kfolcnqeu92fr1mmeu9vaawoff format'woff'@fontfacefontfamily'roboto'fontdisplayblockfontstylenormalfontweight700fontdisplayswapsrcurlhttpsfontsgstaticcomsrobotov27kfolcnqeu92fr1mmwulvaawoff format'woff'materialiconsfontfamily'material icons'fontweight400fontdisplayblockfontstylenormalfontsize24pxlineheight1letterspacingnormaltexttransformnonedisplayinlineblockwhitespacenowrapwordwrapnormaldirectionltrfontfeaturesettings'liga'@fontfacefontfamily"fontawesome"fontdisplayblocksrcurlhttpsusefontawesomecomreleasesv5153webfontsfabrands400eoturl"httpsusefontawesomecomreleasesv5153webfontsfabrands400eot#iefix" format"embeddedopentype"urlhttpsusefontawesomecomreleasesv5153webfontsfabrands400woff2 format"woff2"urlhttpsusefontawesomecomreleasesv5153webfontsfabrands400woff format"woff"urlhttpsusefontawesomecomreleasesv5153webfontsfabrands400ttf format"truetype"url"httpsusefontawesomecomreleasesv5153webfontsfabrands400svg#fontawesome" format"svg"@fontfacefontfamily"fontawesome"fontdisplayblocksrcurlhttpsusefontawesomecomreleasesv5153webfontsfasolid900eoturl"httpsusefontawesomecomreleasesv5153webfontsfasolid900eot#iefix" format"embeddedopentype"urlhttpsusefontawesomecomreleasesv5153webfontsfasolid900woff2 format"woff2"urlhttpsusefontawesomecomreleasesv5153webfontsfasolid900woff format"woff"urlhttpsusefontawesomecomreleasesv5153webfontsfasolid900ttf format"truetype"url"httpsusefontawesomecomreleasesv5153webfontsfasolid900svg#fontawesome" format"svg"@fontfacefontfamily"fontawesome"fontdisplayblocksrcurlhttpsusefontawesomecomreleasesv5153webfontsfaregular400eoturl"httpsusefontawesomecomreleasesv5153webfontsfaregular400eot#iefix" format"embeddedopentype"urlhttpsusefontawesomecomreleasesv5153webfontsfaregular400woff2 format"woff2"urlhttpsusefontawesomecomreleasesv5153webfontsfaregular400woff format"woff"urlhttpsusefontawesomecomreleasesv5153webfontsfaregular400ttf format"truetype"url"httpsusefontawesomecomreleasesv5153webfontsfaregular400svg#fontawesome" format"svg"unicoderangeu+f004f005u+f007u+f017u+f022u+f024u+f02eu+f03eu+f044u+f057f059u+f06eu+f070u+f075u+f07bf07cu+f080u+f086u+f089u+f094u+f09du+f0a0u+f0a4f0a7u+f0c5u+f0c7f0c8u+f0e0u+f0ebu+f0f3u+f0f8u+f0feu+f111u+f118f11au+f11cu+f133u+f144u+f146u+f14au+f14df14eu+f150f152u+f15bf15cu+f164f165u+f185f186u+f191f192u+f1adu+f1c1f1c9u+f1cdu+f1d8u+f1e3u+f1eau+f1f6u+f1f9u+f20au+f247f249u+f24du+f254f25bu+f25du+f267u+f271f274u+f279u+f28bu+f28du+f2b5f2b6u+f2b9u+f2bbu+f2bdu+f2c1f2c2u+f2d0u+f2d2u+f2dcu+f2edu+f328u+f358f35bu+f3a5u+f3d1u+f410u+f4ad jquerydocumentreadyfunction$$documenton"cmplzrunafterallscripts"cmplz_elementor_fire_initonreadycomponentsfunction cmplz_elementor_fire_initonreadycomponentsvar blockedcontentcontainers=[]$'[datacmplzelementorsettings]'eachfunctioniobjif$thishasclass'cmplzactivated'return$thisaddclass'cmplzactivated'$thisdata'settings'$thisdata'cmplzelementorsettings'var blockedcontentcontainer=$thisblockedcontentcontaineranimate"backgroundimage""url''"400functionvar cssindex=blockedcontentcontainerdata'placeholderclassindex'blockedcontentcontainerremoveclass'cmplzblockedcontentcontainer'blockedcontentcontainerremoveclass'cmplzplaceholder'+cssindexblockedcontentcontainerspushblockedcontentcontainerforvar key blockedcontentcontainersconsolelogblockedcontentcontainers[key]ifblockedcontentcontainershasownpropertykeyblockedcontentcontainers[key]==undefinedelementorfrontendelementshandlerrunreadytriggerblockedcontentcontainers[key] var pld_js_object="admin_ajax_url""https\\wwwculturaldailycom\wpadmin\adminajaxphp""admin_ajax_nonce""2a6d6b3842" windowa2a_config=windowa2a_config||a2a_configcallbacks=[]a2a_configoverlays=[]a2a_configtemplates=a2a_configicon_color="transparent#323232"a2a_configonclick=1functiondsaba=dcreateelementsb=dgetelementsbytagnames[0]aasync=1asrc="httpsstaticaddtoanycommenupagejs"bparentnodeinsertbeforeabdocument"script" var ajaxurl='httpswwwculturaldailycomwpadminadminajaxphp' #wpadminbarassetcleanupassetunloadrulescssdefault#wpadminbarassetcleanupassetunloadrulesjsdefaultoverflowyautomaxheightcalc100vh 250px#wpadminbarassetcleanupparent spandashiconswidth15pxheight15pxfontfamily'dashicons'arial"times new roman""bitstream charter"timesserifimportant#wpadminbarassetcleanupparent>afirstchild strongfontweightboldercolor#76f203#wpadminbarassetcleanupparent>afirstchildhovercolor#00b9eb#wpadminbarassetcleanupparent>afirstchildhover strongcolor#00b9eb#wpadminbarassetcleanuptestmodeinfomargintop5pximportantmarginbottom8pximportantpaddingtop3pximportantbordertop1px solid #ffffff52#wpadminbarassetcleanuptestmodeinfo2paddingbottom3pximportantpzeno_font_resizer screenreadertextborder0cliprect1px1px1px1pxclippathinset50%height1pxmargin1pxoverflowhiddenpadding0positionabsolutewidth1pxwordwrapnormalimportant documentdocumentelementclassname=documentdocumentelementclassnamereplace'nojs''js' nojs imglazyloaddisplaynonefigurewpblockimage imglazyloadingminwidth150pxlazyloadlazyloadingopacity0lazyloadedopacity1transitionopacity 400mstransitiondelay0ms#wpadminbardisplaynonehtmlmargintop32pximportant* html bodymargintop32pximportant@media screen maxwidth782pxhtmlmargintop46pximportant* html bodymargintop46pximportantttheader toplinettheadercolor2 toplinebackground#111ttheader topmenu attheader topsocial attheadercolor2 topmenu attheadercolor2 topsocial acolor#74bcbattheader topmenu ahoverttheader topsocial ahoverttheadercolor2 topmenu ahoverttheadercolor2 topsocial ahovercolor#9e9e9ettheadertype7 toggleblockttheadertype4 toggleblockttheadertype3 toggleblockttheader toggleblockttheadertype5 topinnerbackground#fffttheader mainnav>ul>li>attheadertype4 ttspopupbtnttspopupbtnttheader cmnmobileswitch spanttheader cmnmobileswitchbeforettheader cmnmobileswitchaftercolor#111ttheader mainnav>ul>liactive>attheader mainnav>ul>lihover>attspopupbtnhoverttheader cmnmobileswitchhoverbeforettheader cmnmobileswitchhoverafterttheader cmnmobileswitchhover spancolor#55b6b5ttheader mainnav>ul>li>ahoverttheadertype4 mainnav>ul>liactive>abackground#fffttheaderstylelink mainnav>ul>li>aafterttheadertype5 mainnav>ul>li>aafterbackground#55b6b5ttheader mainnav>ul>linotmega>ul>li>ahovercolor#55b6b5ttheader mainnav>ul>linotmega>ul>li>ahovermegatype2 ulttmegawrapper li>ul ahoverttmegalist ahovermegatype2 ulttmegawrapper li>ul ahoverbackground#fffttheader cmnmobileswitchhover spanttheader cmnmobileswitchhoverbeforettheader cmnmobileswitchhoverafterbackground#55b6b5ttspopupbtnhoverttheadertype7 ttspopupbtnhoverttheadertype3 ttspopupbtnhovercolor#55b6b5sidebarheadingstyle2 tttitletextsidebarheadingstyle4 tttitleblocksidebarheadingstyle5 tttitleblocksidebarheadingstyle3 tttitleblockbordercolor#cecdd2#loadingtextsimpletext h1ch1simpletext h2ch2simpletext h3ch3simpletext h4ch4simpletext h5ch5simpletext h6ch6simpletextfontpoppinscbtntype1cbtntype2cbtntype3cinputttmobilenav>ul>li>attmobilenav>ul>li>ul>li>attheader mainnav>ul>linotmega>ul>li>attmegalist attspopuptitletttitletexttttitleblock2commentreplytitletttabwrappertype1 ttnavtabitemttflist attfootercopyttpagination attblogusercontentttauthortitlettblognavlabelttblognavtitlettcommentlabelttsearch input[type="text"]ttsharetitlettmblocklabelpagenumbers apagenumbers spanfooter_widgetwidget_nav_menu li atth1titletth4titletth2titleshortcode4 tttitleslider afooter_widget tttitleblocktype2 tttitletextfooter_widget ttnewslettertitlech4 smallfontfamilymontserratfontweight600fontstylenormalttheader mainnav>ul>li>afontfamilymontserratfontweight600fontstylenormalfontsize20pxbodytttitleulsimpletexttitledroid h1simpletexttitledroid h2simpletexttitledroid h3simpletexttitledroid h4simpletexttitledroid h5simpletexttitledroid h6tttabwrapperttblogtab ttnavtab ttnavtabitemttheader mainnavttheader topmenu attpostbottomttpostlabelttspopupfield input[type="text"]ttslide2title spaninputtextareattpostcatttslidercustommarg cbtntype3ttmslidelabelselectttpostbreakingnews ttbreakingtitlesidebaritemwidget_recent_posts_entries ttpostdark ttpostcatshortcode4 simpletextwoocommerceresultcountfontfamilymontserratlineheight30pxfontweight500fontstylenormalfontsize20pxwpb_animate_when_almost_visibleopacity1 windowdatalayer=windowdatalayer||[]function gtagdatalayerpusharguments gtag'js'new dategtag'config''gtmnpvgp7t'"cookie_prefix""caosgtag""cookie_domain""wwwculturaldailycom""cookie_expires"2592000"cookie_flags""samesite=nonesecure"var event=new event'caos_track_ad_blockers'documentdispatcheventevent homeexploreexplore alldiscourseeducationpoliticssocial actioncommunityidentityreviewslifestylehealthfooddestinationstravelleisureliteraturefictionreviewscriticismpoetrymediafilmtvstreamingpodcastsperformingtheatremusicdancetechnologyvisual artfine artarchitecturephotographyfashionvisualdesignbusinessentrepreneurshipdonateaboutthe cultural daily storysubscribemastheadadvertisecreate cultural dailythe jack grapes poetry prizecultural daily style formatting guideterms conditionsprivacy policydo sell personal informationloginregister type search homeexploreexplore alldiscourseeducationpoliticssocial actioncommunityidentityreviewslifestylehealthfooddestinationstravelleisureliteraturefictionreviewscriticismpoetrymediafilmtvstreamingpodcastsperformingtheatremusicdancetechnologyvisual artfine artarchitecturephotographyfashionvisualdesignbusinessentrepreneurshipdonateaboutthe cultural daily storysubscribemastheadadvertisecreate cultural dailythe jack grapes poetry prizecultural daily style formatting guideterms conditionsprivacy policydo sell personal information login register fictioncirclepoetry charles bukowski “it’s humanity bothers me” interview elisa leonelli august 2015 leonelli@maccom bookmark_border 177 picture_as_pdf decrease font size
+reset font size
+increase font size
+join san pedro film festival’s celebration charles bukowki’s 95 birthday
+information herei interviewed charles bukowski photographed home san pedro port city los angeles 1981bukowski writer many books poems short stories novels famous controversial best seller women also notes dirty old man shakespeare never erections ejaculations exhibitions general tales ordinary madness
+book short stories italian movie made marco ferreri ornella muti ben gazzarra premiered venice film festival summer tales ordinary madnessq
+asked us call hank isn’t name charles
+hank short henry really first name
+charles middle name
+mother father would always call “hennryy
+dinner ready” go get dinner beat shit ate ate
+bad news
+first decided write said i’ve got get rid henry it’s bad luck
+got charles charles bukowski sounds better
+henry bukowski i’d never make i’d still starving
+many loops henry goes
+charles straight bukowski loops makes good nameq
+bukowski polish name born germany american writer
+happen
+bukowski polish name evidently polack came germany around 1780 far back trace whole family german
+father born pasadena california german parents
+american soldier army occupation germany world war met mother born
+came united states 1923 years old i’ve ever since
+i’m american live german blood
+went back europe felt maybe imaginationq
+live house san pedro
+well it’s quiet place nobody bothers
+buy house tax writeoff
+see many years poverty royalties europe pounced
+america either spend money government takes away
+nobody likes get money burn especially they’ve never
+bought home bmw make payments get tax writeoff
+change style
+used living one room apartments east hollywood
+surroundings new
+first thought would destroy i’m used space
+thought well gets i’m good writer
+didn’t i’m still writing every nightq
+become writer
+first started writing 13 years old
+hospital time getting drilled drills extreme case acne vulgaris huge boils come nothing done
+guess made thinking person age doesn’t think much pain brutality reality
+got good education early
+never college education
+i’ve hundreds jobs worst jobs
+35 drinking heavily many many years finally hemorrhages blood came mouth ass dead
+took charity ward waited die
+didn’t die
+got hospital got job driving truck started writing poems
+never written fact hadn’t written 10 years
+wrote poems didn’t know send
+picked blindly magazine texas sent poems
+thought i’ll make old woman angry she’ll send back
+instead get huge letter back woman calling genius
+one thing led another
+came visit got know got married
+turned millionairess bad
+two years divorced glad
+later met another woman somewhere francis got together child
+daughter 16 genius graduated high schoolq
+reputation woman chaser male chauvinist best seller women
+think
+i’m great fucker
+don’t go around fucking women dozens
+started writing novel called women research
+figured meet women
+almost deliberately knocked doors hopped beds fucked didn’t feel like fucking
+i’m really great fucker
+i’m interested kind thing
+it’s kind drab
+it’s hard work
+people call male chauvinist don’t know works they’ve heard rumors
+read total body work would know love women almost much love
+nice aroundq
+italian director marco ferreri finished movie based short stories called tales ordinary madness
+come
+don’t really know happened quite suddenly
+signed contract next thing knew drinking marco ferreri ben gazzarra talking like known years
+guess way things happen people meet say well let’s hell it’s big thing it’s right
+faith ferreri totally human person warm
+haven’t seen films liked met himq
+you’ve drinking constantly california burgundy beer ever since got books like life drink time
+drinking
+oh drinking
+listen i’ve poor working stiff life job nothing
+know don’t money women aren’t going bother there’d moments looking four walls wondering pay rent next meal coming
+things bad drink magic cheap thing left give dream make feel good moment
+poor anymore things haven’t changed human race good
+one poems say humanity you’ve never beginning
+it’s feeling everything wasted
+it’s life it’s humanity bothers
+trees don’t bother cats don’t bother sun doesn’t bother
+it’s humanity failed bothers
+humanity going go dumb ignorant path forever
+i’ll get i’ll kick
+companionship i’m living don’t thrill allq
+sounds pessimistic
+humanity hopeless hope accomplish writing
+i’m accomplisher
+i’m like spider spinning web
+it’s
+natural instinct
+don’t even know couldn’t
+striving destructive
+don’t believe control studying learning
+believe occurs occurs go
+sum two words “don’t try” works
+still find great deal joy spite everything don’t know often times wake morning feel damn good
+it’s feeling insideq
+true famous europe us
+definitely 60 times
+
+would like think european civilization least 300 years ahead one culture knowledge instinct wines graciousness things
+things began got taste real things
+america still flashy blunt don’t quite know hell
+think seed took ground ready seed dropped ground sterileq
+one books prefer
+don’t know usually last one wrote
+can’t remember
+i’m involved new one it’s called ham rye
+begins first memory wwii
+books autobiographical
+put little bit fiction liven make interesting life much
+style simple direct like photography records occurs doesn’t make speeches
+says says it’s
+poems little emotional let go little
+prose i’m pretty straightphoto elisa leonelli
+copyright elisa leonelli 1981authorabout author elisa leonelli photojournalist film critic member hollywood foreign press association interviews directors movie stars well artists musicians writers international domestic publications
+formerly film editor venice los angeles arts entertainment magazine currently los angeles correspondent italian film monthly best movie author critical essay "robert redford american west"
+leonelli@maccom tagspoetryliteraturemenwritingcharles bukowskiwomeninterviewsdrinkingprevious article san pedro celebrate charles bukowski’s 95th birthdaynext article life birth fights backwho wecultural daily free platform independent voices participatory civic media new perspectives every daysite mapadvertisecontact uswrite usthe jack grapes poetry prizesubscribeterms conditionsprivacy policydo sell personal informationshare loveredeemed project os mediau vox populi alttext poetry streetlight guild accomplicesmailing listfunctionwindowmc4wp=windowmc4wp||listeners[]formsonfunctionevtcbwindowmc4wplistenerspusheventevtcallbackcb leave field empty human quantcast choice message copyright 20102021 next echo foundation inc rights reserved
+functionevar el=documentcreateelement'script'elsetattribute'dataaccount''azdj1qfaig'elsetattribute'src''httpscdnuserwayorgwidgetjs'documentbodyappendchildelfunctionfunction maybeprefixurlfieldifthisvaluetrim==''thisvalueindexof'http'==0thisvalue="http"+thisvalue var urlfields=documentqueryselectorall'mc4wpform input[type="url"]'ifurlfieldsforvar j=0j<urlfieldslengthj++urlfields[j]addeventlistener'blur'maybeprefixurlfield twittertweetcmplzblockedcontentcontainerpadding10px 40px var bp_nouveau="ajaxurl""https\\wwwculturaldailycom\wpadmin\adminajaxphp""confirm""are sure
+""show_x_comments""show %d comments""unsaved_changes""your profile unsaved changes
+leave page changes lost
+""object_nav_parent""buddypress_object_nav""objects""0""activity""1""members""4""xprofile""7""settings""8""notifications""nonces""activity""bd06faecda""members""72e44f7079""xprofile""30c9b8d4b1""settings""499c764901""notifications""7fdb9cfb59"var wpcf7="api""root""https\\wwwculturaldailycom\wpjson\""namespace""contactform7\v1""cached""1"var countvars="disqusshortname""culturalweekly"var embedvars="disqusconfig""integration""wordpress 3022""disqusidentifier""35054 https\\wwwculturalweeklycom\p=35054""disqusshortname""culturalweekly""disqustitle""charles bukowski \u201cit\u2019s humanity bothers me\u201d""disqusurl""https\\wwwculturaldailycom\charlesbukowskiitshumanitythatbothersme\""postid""35054"var magplus_ajax="ajaxurl""https\\wwwculturaldailycom\wpadmin\adminajaxphp""siteurl""https\\wwwculturaldailycom\wpcontent\themes\magplus""nonce""1e5affb11c"var complianz="static""""is_multisite_root""""set_cookies"[]"block_ajax_content""""banner_version""20""version""526""a_b_testing""""do_not_track""""consenttype""optout""region""us""geoip""""categories""<div class=\"cmplzcategorieswrap\"><label for=\"cmplz_functional\"><input type=\"checkbox\" id=\"cmplz_functional\" class=\"cmplzconsentcheckbox cmplzsvgcheckbox cmplzsquarecheckbox cmplz_functional\" checked disabled datacategory=\"cmplz_functional\"><div class=\"cccheck\"><svg width=\"16px\" height=\"16px\" viewbox=\"0 18 18\" class=\"cmplzsquare\" ariahidden=\"true\"><path d=\"m19 l135 c12 21 351 l1451 c161 172 1735 l17145 c1716 1617 14517 l3517 c217 116 1145 l19 z\"><\path><polyline points=\"1 14 15 4\"><\polyline><\svg><\div><span class=\"cccategory\" style=\"\">functional<\span><\label><\div><div class=\"cmplzcategorieswrap\"><label for=\"cmplz_marketing\"><input type=\"checkbox\" id=\"cmplz_marketing\" class=\"cmplzconsentcheckbox cmplzsvgcheckbox cmplzsquarecheckbox cmplz_marketing\" datacategory=\"cmplz_marketing\"><div class=\"cccheck\"><svg width=\"16px\" height=\"16px\" viewbox=\"0 18 18\" class=\"cmplzsquare\" ariahidden=\"true\"><path d=\"m19 l135 c12 21 351 l1451 c161 172 1735 l17145 c1716 1617 14517 l3517 c217 116 1145 l19 z\"><\path><polyline points=\"1 14 15 4\"><\polyline><\svg><\div><span class=\"cccategory\" style=\"\">marketing<\span><\label><\div><style>#ccwindowccwindow cmplzcategorieswrap cccheck svg stroke #191e23<\style>""position""bottom""title""bottomright minimal""theme""minimal""checkbox_style""square""use_categories""hidden""use_categories_optinstats""visible""header""""accept""accept""revoke""manage consent""dismiss""dismiss""dismiss_timeout""10""use_custom_cookie_css""1""custom_css""ccwindowdisplay block \r\n\r\nccwindow \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n#cmplzconsentui #cmplzpostconsentui \r\n\r\n#cmplzconsentui cmplzconsentmessage \r\n\r\n#cmplzconsentui button #cmplzpostconsentui button \r\n\r\n\r\n#ccwindow zindex1001\r\ncccompliance \r\n width 50%\r\n maxwidth 320px\r\n margin 0px auto\r\n display block\r\n""readmore_optin""cookie policy""readmore_impressum""impressum""accept_informational""accept""message_optout""we use cookies optimize website service
+""message_optin""we use cookies optimize website service
+""readmore_optout""cookie policy""readmore_optout_dnsmpi""do sell personal information""hide_revoke""""disable_cookiebanner""""banner_width""""soft_cookiewall""""type""optin""layout""basic""dismiss_on_scroll""""dismiss_on_timeout""""cookie_expiry""365""nonce""972290fb52""url""https\\wwwculturaldailycom\wpjson\complianz\v1\lang=enlocale=en_us""set_cookies_on_root""""cookie_domain""""current_policy_id""13""cookie_path""\""tcf_active""""colorpalette_background_color""#f9f9f9""colorpalette_background_border""#f9f9f9""colorpalette_text_color""#191e23""colorpalette_text_hyperlink_color""#191e23""colorpalette_toggles_background""#55b6b5""colorpalette_toggles_bullet""#ffffff""colorpalette_toggles_inactive""#f56e28""colorpalette_border_radius""0px 0px 0px 0px""border_width""1px 1px 1px 1px""colorpalette_button_accept_background""#55b6b5""colorpalette_button_accept_border""#55b6b5""colorpalette_button_accept_text""#ffffff""colorpalette_button_deny_background""#55b6b5""colorpalette_button_deny_border""#55b6b5""colorpalette_button_deny_text""#f1f1f1""colorpalette_button_settings_background""#55b6b5""colorpalette_button_settings_border""#55b6b5""colorpalette_button_settings_text""#ffffff""buttons_border_radius""5px 5px 5px 5px""box_shadow""0 10px rgba0 4""animation""slide""animation_fade""""animation_slide""slideinupbottom 1s""tm_categories""1""cat_num""1""view_preferences""preferences""save_preferences""save preferences""accept_all""accept all""readmore_url""us""https\\wwwculturaldailycom\privacypolicy\""privacy_link""us""<span class=\"ccdivider\">nbspnbsp<\span><a arialabel=\"learn privacy privacystatement\" class=\"cclink privacystatement\" href=\"https\\wwwculturaldailycom\privacypolicy\\">privacy statement<\a>""placeholdertext""click accept marketing cookies enable content" skip toolbarabout wordpresswordpressorgdocumentationsupportfeedbacklog inregistermagplus cacheflush cache pageflush cachesearch
