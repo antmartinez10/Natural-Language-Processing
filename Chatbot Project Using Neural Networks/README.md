@@ -8,7 +8,9 @@ This chatbot was built off a **knowledge base** that I created which stores book
 
 #### Returning User:
 <img width="732" alt="Screen Shot 2022-03-17 at 4 58 29 PM" src="https://user-images.githubusercontent.com/78663582/158901620-4afc4cdd-a85a-40c6-86ed-eec39eae41c2.png">
-For a more thorough 
+
+For a more thorough description of the chatbot’s creation see the “Chabot Report amm180005.pdf” file.
+
 
 ## Technologies
 - NLTK Lemmatizer
