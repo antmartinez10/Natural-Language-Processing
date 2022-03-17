@@ -1,0 +1,2 @@
+## Overview
+This project is a **web crawler** that crawls urls for information on the late American poet Charles Bukowski. This web crawler then parses the text from these websites and stores the information in a database. The categories of information for the database are, bukowski, charles, poetry, poems, stories, work, story, life, writing, time. This information will be used to create a chatbot that will be able to converse with a user about Charles Bukowski. 
