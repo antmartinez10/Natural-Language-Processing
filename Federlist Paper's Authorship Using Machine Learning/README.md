@@ -2,7 +2,7 @@
 Gain experience in text classification using machine learning with **Python** and **sklearn**.
 This is a multi-class classification problem. All sklearn classifiers do multiclass classification with
 no special parameters required. The do multi-class classification by decomposing the problem
-into binary classification problems. Read more in the docs. 
+into binary classification problems. 
 
 ## Background: 
 The Federalist Papers is a collection of documents written by Alexander Hamilton,
